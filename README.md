@@ -20,7 +20,8 @@ Have you published your own website by forking { Personal } and now you want to 
     * Tell your story so far with a sleek timeline of dates, pictures and descriptions
   * White on black text, making the reading experience tireless
   * Google analytics  
-* Customization and control of your website and blog through the site config
+* Customization and full control of your website and blog through the site config
+* Three options for the background of the header section, images, gradient colors and 3d lines animation
 * Blogging functionality
   * Preview of the latest post in the home page
   * Archive page
@@ -49,8 +50,13 @@ The theme contains documentation in the form of blog posts.
 Check it live [here](https://panossakkos.github.io/personal-jekyll-theme/blog/index.html)!
 
 ## Screenshots
-### Intro page
+### Header
+#### Image option
 ![Intro](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/index.jpg)
+#### Gradient colors option
+![Intro](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/color-gradient.jpg)
+#### 3d lines animation option
+![Intro](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/3d-lines.jpg)
 ###About
 ![About](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/about.jpg)
 ### Latest post preview
