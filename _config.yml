@@ -46,12 +46,12 @@ keywords: "smith, jones, personal, jekyll, theme"
 black-favicon: "/img/black-lab-glass.ico"
 me-img: "/img/jetpacktocat.png"
 
-background-type: "3d-lines"		# It can be either image, 3d-lines or color-gradient.
+background-type: "3d-lines" # It can be either image, 3d-lines or color-gradient.
 
 # The following configurations are common for both color-gradient and 3d-lines.
 
-background-color-shuffle: True	# Keep shuffle True to get different background everytime.
-background-colors:	# You must add at least 4 colors.
+background-color-shuffle: True	# Keep shuffle True to get different background every time.
+background-colors: # You must add at least 4 colors.
   - color: "4dd0e1" # Color Hex Codes.
   - color: "00bcd4"
   - color: "0097a7"
