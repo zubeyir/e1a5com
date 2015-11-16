@@ -77,6 +77,7 @@ Check it live [here](https://panossakkos.github.io/personal-jekyll-theme/blog/in
 ````
 
 ## Wiki
+
 Don't forget to list your { Personal } blog in the [wiki](https://github.com/PanosSakkos/personal-jekyll-theme/wiki/Blogs-using-%7B-Personal-%7D) 😉
 
 ## Integrating bug fixes and features into your old fork

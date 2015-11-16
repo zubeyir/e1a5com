@@ -49,7 +49,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Where’s your will to be weird?"
 </pre>
 
-<small>Many thanks to <a href="https://github.com/prashantsolanki3" target="blank">@prashantsolanki3</a> for this feature!</small>
+<small>Many thanks to <a href="https://github.com/prashantsolanki3" target="\_blank">@prashantsolanki3</a> for this feature!</small>
 
 #### Background
 
@@ -132,6 +132,6 @@ background-particles: 100
 
 </pre>
 
-<small>Many thanks to <a href="https://github.com/prashantsolanki3" target="blank">@prashantsolanki3</a> for the 3d-lines and gradient-color features!</small>
+<small>Many thanks to <a href="https://github.com/prashantsolanki3" target="\_blank">@prashantsolanki3</a> for the 3d-lines and gradient-color features!</small>
 
 All set!
