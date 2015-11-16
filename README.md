@@ -85,4 +85,4 @@ Don't forget to list your { Personal } blog in the [wiki](https://github.com/Pan
 
 Proposals, pull requests and issues are more than welcome, let's make the web a bit more beautiful and secure :wink:
 
-In case you want to say thank you by donating Bitcoins 1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi
+In case you want to say thank you by donating Bitcoins to all the contributors 1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi
