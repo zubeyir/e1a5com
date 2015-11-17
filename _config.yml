@@ -48,7 +48,11 @@ me-img: "/img/jetpacktocat.png"
 
 background-type: "3d-lines" # It can be either image, 3d-lines or color-gradient.
 
-# The following configurations are common for both color-gradient and 3d-lines.
+# Options for image configuration
+
+background-img: "../img/intro-bg.jpg"
+
+# The following configurations are common for both color-gradient and 3d-lines options
 
 background-color-shuffle: True	# Keep shuffle True to get different background every time.
 background-colors: # You must add at least 4 colors.
@@ -64,10 +68,6 @@ background-color-update-interval: 1
 
 background-lines-color: "b2ebf2"
 background-particles: 100
-
-# static background image
-
-background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
