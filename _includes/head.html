@@ -54,7 +54,7 @@
 
   {% endif %}
 
-  {% site.syntax-highlight and if post.section-type == "post"%}
+  {% if site.syntax-highlight and post.section-type == "post"%}
     <!-- Syntax highlight in post pages -->
 
     <link rel="stylesheet" type="text/css" href="{{asset "css/screen.css"}}" />
