@@ -74,7 +74,6 @@ div {
 
     /* Fix height limit and scroll for small screen and many items menu */
     max-height: 100%;
-    overflow-y: auto;
 
     .navbar-toggle {
         padding: 4px 6px;
@@ -328,4 +327,15 @@ img.emoji {
   // Override any img styles to ensure Emojis are displayed inline
   margin: 0px !important;
   display: inline !important;
+}
+
+.navbar-brand + .tooltip > .tooltip-inner {
+  background-color: $dark;
+  color: $primary;
+  border: 1px solid $primary;
+  padding: 15px;
+}
+
+.navbar-brand + .tooltip.bottom > .tooltip-arrow {
+      border-bottom: 5px solid $primary;
 }
