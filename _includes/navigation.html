@@ -7,10 +7,31 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
         <i class="fa fa-bars"></i>
       </button>
+
+      <style>
+      /* Tooltip */
+      .navbar-brand + .tooltip > .tooltip-inner {
+          background-color: #73AD21;
+          color: #FFFFFF;
+          border: 1px solid green;
+          padding: 15px;
+          font-size: 20px;
+      }
+      /* Tooltip on bottom */
+      .navbar-brand + .tooltip.bottom > .tooltip-arrow {
+          border-bottom: 5px solid blue;
+      }
+      </style>
+      <script>
+      $(document).ready(function(){
+          $('[data-toggle="tooltip"]').tooltip();
+      });
+      </script>
+
       {% if page.section-type == "index" %}
         <a class="navbar-brand page-scroll" href="#page-top">
       {% else %}
-        <a class="navbar-brand" href="{{site.baseurl}}/">
+        <a class="navbar-brand" href="{{site.baseurl}}/" data-toggle="tooltip" data-placement="bottom" title="Hooray!">
       {% endif %}
           <div>
             {% if site.black-favicon %}<img src="{{site.baseurl}}{{ site.black-favicon }}" alt="">{% endif %}
