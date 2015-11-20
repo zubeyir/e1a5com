@@ -337,5 +337,6 @@ img.emoji {
 }
 
 .navbar-brand + .tooltip.bottom > .tooltip-arrow {
-      border-bottom: 5px solid $primary;
+  border-bottom: 5px solid $primary;
+  margin-left: -70px;
 }
