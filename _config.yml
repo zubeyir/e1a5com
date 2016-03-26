@@ -108,7 +108,6 @@ syntax-highlight: False
 ############
 
 events:
-  
 - image: "/img/timeline/ucl.jpg"
     date: "September 2011 - August 2012"
     description: "M.Eng. Hons Civil Engineering"
