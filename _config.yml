@@ -108,6 +108,9 @@ syntax-highlight: False
 ############
 
 events:
+  - image: "/img/timeline/mott.png"
+    date: "September 2014 - Today"
+    description: "Graduate Stuctural Engineer"
   - image: "/img/timeline/aibel.jpg"
     date: "December 2013 - Septemeber 2014"
     description: "Graduate Offshore Stuctural Engineer"
