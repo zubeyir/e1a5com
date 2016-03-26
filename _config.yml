@@ -110,7 +110,7 @@ syntax-highlight: False
 events:
   - image: "/img/timeline/aibel.jpg"
     date: "December 2013 - Septemeber 2014"
-    description: ""
+    description: "Graduate Offshore Stuctural Engineer"
   - image: "/img/timeline/ucl.jpg"
     date: "September 2011 - August 2012"
     description: "M.Sc. Construction Economics & Management"
