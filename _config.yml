@@ -69,7 +69,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -101,7 +101,7 @@ vkontakte-share: True
 
 disqus-shortname: "alexgalatoulas"
 
-syntax-highlight: True
+syntax-highlight: False
 
 ############
 # Timeline #
