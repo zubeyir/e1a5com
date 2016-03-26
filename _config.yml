@@ -108,13 +108,13 @@ syntax-highlight: False
 ############
 
 events:
-- image: "/img/timeline/ucl.jpg"
+  - image: "/img/timeline/ucl.jpg"
     date: "September 2011 - August 2012"
     description: "M.Eng. Hons Civil Engineering"
-- image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/spidertocat.png"
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
-  
+
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
