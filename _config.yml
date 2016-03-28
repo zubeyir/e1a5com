@@ -110,7 +110,7 @@ syntax-highlight: False
 events:
   - image: "/img/timeline/mott.png"
     date: "September 2014 - Today"
-    description: "Graduate Stuctural Engineer worked on: <br/> 1. Belmont House Office Refurbishment, Uxbridge <br/> 2. National Indoor Arena, Dublin <br/> 3. Wembley Maintenance and Inspection, Wembley"
+    description: "Graduate Stuctural Engineer worked on: <br/> 1.Belmont House Office Refurbishment, Uxbridge <br/> 2.National Indoor Arena, Dublin <br/> 3.Wembley Maintenance and Inspection, Wembley"
   - image: "/img/timeline/aibel.jpg"
     date: "December 2013 - Septemeber 2014"
     description: "Graduate Offshore Stuctural Engineer worked on: <br/> Modification and Maintenance of the GEMC complex in North Sea "
