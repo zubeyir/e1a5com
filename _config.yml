@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "What more can we do today?"
+  - text: "What more can we do today..?"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -139,7 +139,7 @@ email: "alexander.galatoulas@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Alex Galatoulas is currently part of the Mottmacdonald structural engineering team in the Buildings and Infrastructure department. Interested in sustainable development and creating engineering solutions that adding value to the social well being."
+author_blurb: "Alex Galatoulas is currently part of the Mott Macdonald structural engineering team in Buildings and Infrastructure department. Member of the Institution of Civil Engineers. Interested in sustainable development and creating engineering solutions that adding value to the social well being."
 author_blurb_image: "/img/author.png"
 
 ##################
