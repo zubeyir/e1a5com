@@ -108,7 +108,7 @@ syntax-highlight: False
 ############
 
 events:
-  - image: "/img/timeline/wca.png"
+  - image: "/img/timeline/wca.jpg"
     date: "May 2016 - Today"
     description: "Stuctural Engineer worked on: <br/> Waterloo Regenaration Retail Scheme, Secondment to Wessex Capacity Alliance on behalf of Mott Macdonald"
   - image: "/img/timeline/mottmac.png"
