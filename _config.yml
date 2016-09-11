@@ -149,12 +149,13 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "linkedin"
     url: "https://www.linkedin.com/in/alexandrosgalatoulas"
+  - title: "twitter"
+    url: "https://twitter.com/alexgalatoulas"
   - title: "pinterest"
     url: "https://pinterest.com/alexandergalato"
   - title: "rss"
     url: "/feed.xml"
-  - title: "twitter"
-    url: "https://twitter.com/alexgalatoulas"
+  
 ############
 # 404 page #
 ############
