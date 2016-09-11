@@ -153,7 +153,8 @@ social:
     url: "https://pinterest.com/alexandergalato"
   - title: "rss"
     url: "/feed.xml"
-
+  - title: "twitter"
+    url: "https://twitter.com/alexgalatoulas"
 ############
 # 404 page #
 ############
