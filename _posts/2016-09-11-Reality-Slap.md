@@ -17,14 +17,16 @@ Well, the answer is simply; yes. For those readers that are surprised by this si
 The Mission Zero House is a good example.
 
 A Victorian-era home which was restored to Net Zero Energy, Net Zero Water and ultimately made the building a learning tool for the community in both spirit and ecology. A visitor would never recognize the house as a typical “green” house, which was an intentional aspect of the design. The only giveaway to the unique rehabilitation of the historic Mission Zero House design is the photovoltaic array on the roof. The house actual energy usage is 8,676 kWh/yr and its production is 8,939 kWh/yr! 
-![misc](/img/timeline/mission.jpng)
+![misc](/img/timeline/mission.png)
 Before the cynics attack this example by saying, “Well this is a residential building! It would never work in a large scale office building!” Once again I am deeply sorry. Let me introduce The Bullit Center in Seattle, Washington, A six storey office building in our discussion.
-![misc](/img/timeline/bullit.jpng)
+![misc](/img/timeline/bullit.png)
 The Bullitt Center is powered by a 244 kW rooftop solar array, composed of 575 PV panels. All rainwater that falls on the site is collected in a cistern in the basement, treated to potable drinking standards, and supplies all water needs of the building. The building is a type-IV heavy timber structure, made of Forest Stewardship Council (FSC) certified glulam beams and dimensional lumber. The building sits atop a ground-source heat exchange system made up of 26 wells, each reaching a depth 400 feet. All materials used in the building were screened for compliance with the Materials Red List to restrict toxic chemicals. 
 
 Therefore, all the above makes me think; have we (as human race) been so busy creating sophisticated technologies that we left other layers of our own existence under-developed? Like the ability of using these technologies in a way that will satisfy not only our business plans but also our environmental obligations to the next generations. Is the rate of people creating our tools and technologies, greater than the rate of people re-assessing the way we are using this technologies? If not then why people are in denial of using sustainable means of energy to power our homes or our life’s day to day activities? 
 Clean energy is not only good environmental practise but is also economic common sense. Why do we prefer to spend money on powering our homes while we could maximise any free input from renewables and use the savings to tackle other issues of our social existence (unfortunately there are many).
+
 In my personal opinion I think all people have the means to design living eco-systems that will provide roof for our homes and offices. Hence, the crude headline of this post is that it is possible in today’s technology to create buildings that are “living” entities. However, we keep choosing buildings today that proudly stand behind their nice facades doing nothing! Waiting to be supplied with energy (by burning fossil fuels) as a beggar who needs change. 
+
 We have the means and the tools to re-program the course of our nature and our future. Don’t we really need to think how to do it wisely?
 
 References:
