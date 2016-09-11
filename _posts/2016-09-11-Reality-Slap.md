@@ -36,16 +36,15 @@ We have the means and the tools to re-program the course of our nature and our f
 
 
 
+References
+
+1.	http://www.telegraph.co.uk/technology/apple/iphone/11128043/How-much-power-is-used-to-charge-an-iPhone-6.html
+2.	http://www.inference.eng.cam.ac.uk/sustainable/book/tex/sewtha.pdf
+3.	https://www.ted.com/speakers/david_mackay
+4.	http://www.bullittcenter.org/
+5.	http://living-future.org/living-building-challenge/case-studies/certified-projects
 
 
-
-References:
-
-[1]http://www.telegraph.co.uk/technology/apple/iphone/11128043/How-much-power-is-used-to-charge-an-iPhone-6.html
-[2]http://www.inference.eng.cam.ac.uk/sustainable/book/tex/sewtha.pdf
-[3]https://www.ted.com/speakers/david_mackay
-[4]http://www.bullittcenter.org/
-[5]http://living-future.org/living-building-challenge/case-studies/certified-projects
 
 
 
