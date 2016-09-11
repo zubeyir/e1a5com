@@ -14,9 +14,13 @@ An average person in the UK consumes 125kWh per day (that means an iPhone 6 woul
 Well, the answer is simply; Y-E-S. For those readers that are surprised by this simple three letter word and are still in the cynic belief that this is another post based on sci-fi beliefs; I am deeply sorry but the following cases would prove the opposite.
 
 The Mission Zero House is a good example. A Victorian-era home which was restored to Net Zero Energy, Net Zero Water and ultimately made the building a learning tool for the community in both spirit and ecology. A visitor would never recognize the house as a typical “green” house, which was an intentional aspect of the design. The only giveaway to the unique rehabilitation of the historic Mission Zero House design is the photovoltaic array on the roof. The house actual energy usage is 8,676 kWh/yr and its production is 8,939 kWh/yr! 
+
 ![misc](/img/timeline/mission.png)
+
 Before the cynics attack this example by saying, “Well this is a residential building! It would never work in a large scale office building!” Once again I am deeply sorry. Let me introduce The Bullit Center in Seattle, Washington, A six storey office building in our discussion.
+
 ![misc](/img/timeline/bullit.png)
+
 The Bullitt Center is powered by a 244 kW rooftop solar array, composed of 575 PV panels. All rainwater that falls on the site is collected in a cistern in the basement, treated to potable drinking standards, and supplies all water needs of the building. The building is a type-IV heavy timber structure, made of Forest Stewardship Council (FSC) certified glulam beams and dimensional lumber. The building sits atop a ground-source heat exchange system made up of 26 wells, each reaching a depth 400 feet. All materials used in the building were screened for compliance with the Materials Red List to restrict toxic chemicals. 
 
 Therefore, all the above makes me think; have we (as human race) been so busy creating sophisticated technologies that we left other layers of our own existence under-developed? Like the ability of using these technologies in a way that will satisfy not only our business plan but also our environmental obligations to the next generations. Is the rate of people creating our tools and technologies, greater than the rate of people re-assessing the way we are using this technologies? If not then why people are in denial of using sustainable means of energy to power our homes or our life’s day to day activities? 
@@ -30,7 +34,13 @@ However, we keep choosing buildings that proudly stand behind their nice facades
 We have the means and the tools to re-program the course of our nature and our future. Don’t we really need to think how to do it wisely?
 
 
+
+
+
+
+
 References:
+
 [1]http://www.telegraph.co.uk/technology/apple/iphone/11128043/How-much-power-is-used-to-charge-an-iPhone-6.html
 [2]http://www.inference.eng.cam.ac.uk/sustainable/book/tex/sewtha.pdf
 [3]https://www.ted.com/speakers/david_mackay
