@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Reality slap?! Ask yourself?
+title: Renewables; a joke or a reality? 
 category: General
 tags: [ 'Thoughts' ]
 ---
@@ -17,7 +17,7 @@ The Mission Zero House is a good example. A Victorian-era home which was restore
 
 ![misc](/img/timeline/mission.png)
 
-Before the cynics attack this example by saying, “Well this is a residential building! It would never work in a large scale office building!” Once again I am deeply sorry. Let me introduce The Bullit Center in Seattle, Washington, A six storey office building in our discussion.
+Before the cynics attack this example by saying, “Well this is a residential building! It would never work in a large scale office building!” Once again I am deeply sorry. The Bullit Center in Seattle, Washington is a brilliant example. A six storey office building.
 
 ![misc](/img/timeline/bullit.png)
 
