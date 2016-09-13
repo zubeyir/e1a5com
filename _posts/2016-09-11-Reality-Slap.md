@@ -5,13 +5,13 @@ title: Renewables; a joke or a reality?
 category: General
 tags: [ 'Thoughts' ]
 ---
-For four billion years, what lived and died on Earth depended on two principles: natural selection and random mutation. Then the human race was evolved to dominate and bring changes in many of the pre-existing functions of our eco-system. We developed tools and technologies from landing to a different planet up to hybridizing plants. And yet we have not figure out the benefits of providing clean forms of energy to the buildings that provide the roof for all these technological victories.
+For four billion years, what lived and died on Earth depended on two principles: natural selection and random mutation. Then the human race was evolved to dominate and bring changes in many of the pre-existing functions of our eco-system. We developed tools and technologies from landing to a different planet, up to hybridizing plants. We have not figure yet out the benefits of providing clean forms of energy to the buildings that provide roof to all of these technological victories.
 
 If we are really trying to reduce the CO2 emissions why we keep designing and financing buildings that require a constant supply of energy made predominantly by burning fossil fuels? Professor Sir David King in a BBC radio interview had once said that: “Climate change is the biggest threat that our civilisation has ever had to face up to”. By this statement is pretty obvious that the threat is real but yet it seems difficult for people to grasp this fact and act upon it. 
 
 An average person in the UK consumes 125kWh per day (that means an iPhone 6 would need to be charged 18,572 times a day!). So could it be ever possible to have buildings to operate in a net-positive environment? Could it be solar energy be enough to power our homes or even our offices? 
 
-Well, the answer is simply; Y-E-S. For those readers that are surprised by this simple three letter word and are still in the cynic belief that this is another post based on sci-fi beliefs; I am deeply sorry but the following cases would prove the opposite.
+Well, the answer is simply, yes. For those readers that are surprised by this simple three letter word and are still in the cynic belief that this is another post based on sci-fi beliefs; I am deeply sorry but the following cases would prove the opposite.
 
 The Mission Zero House is a good example. A Victorian-era home which was restored to Net Zero Energy, Net Zero Water and ultimately made the building a learning tool for the community in both spirit and ecology. A visitor would never recognize the house as a typical “green” house, which was an intentional aspect of the design. The only giveaway to the unique rehabilitation of the historic Mission Zero House design is the photovoltaic array on the roof. The house actual energy usage is 8,676 kWh/yr and its production is 8,939 kWh/yr! 
 
