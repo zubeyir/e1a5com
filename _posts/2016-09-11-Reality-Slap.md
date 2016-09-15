@@ -11,13 +11,13 @@ If we are really trying to reduce CO2 emissions why we keep designing and financ
 
 An average person in a developed country consumes approximately 125kWh per day (that means an iPhone 6 would need to be charged 18,572 times a day!). If the daily amount of energy consumption is being increased, could it be ever possible to have buildings to operate in a net-positive environment? Could solar energy be enough to power our homes or even our offices? 
 
-Well, the answer is simply yes. For those readers that are surprised by this simple three letter word and are still in the cynic belief that this is another post based on sci-fi beliefs; I am deeply sorry but the following cases would prove the opposite.
+Well, the answer is simply yes. For those readers that are still in the cynic belief that this is another post based on sci-fi beliefs, the following cases would prove otherwise.
 
 The Mission Zero House is a good example. A Victorian-era home which was restored to Net Zero Energy, Net Zero Water and ultimately made the building a learning tool for the community in both spirit and ecology. A visitor would never recognize the house as a typical “green” house, which was an intentional aspect of the design. The only giveaway to the unique rehabilitation of the historic Mission Zero House design is the photovoltaic array on the roof. The house actual energy usage is 8,676 kWh/yr and its production is 8,939 kWh/yr! 
 
 ![misc](/img/timeline/mission.png)
 
-Before the cynics attack this example by saying, “Well this is a residential building! It would never work in a large scale office building!” Once again I am deeply sorry. The Bullit Center in Seattle, Washington is a brilliant example. A six storey office building.
+Before the cynics attack this example by saying, “Well this is a residential building! It would never work in a large scale office building!”. The Bullit Center in Seattle, Washington is a brilliant example of a six storey office building.
 
 ![misc](/img/timeline/bullit.png)
 
