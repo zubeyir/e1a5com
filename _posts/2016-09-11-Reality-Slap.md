@@ -5,9 +5,9 @@ title: Renewables; a joke or a reality?
 category: General
 tags: [ 'Thoughts' ]
 ---
-For four billion years, what lived and died on Earth depended on two principles: natural selection and random mutation. Then the human race was evolved to dominate and bring changes in many of the pre-existing functions of our eco-system. We developed tools and technologies from landing to a different planet, up to hybridizing plants. We have not figure yet out the benefits of providing clean forms of energy to the buildings that provide the roof to all of these technological victories.
+What lived and died on Earth depended on two principles: natural selection and random mutation. Then the human race was evolved to dominate and bring changes in many of the pre-existing functions of our eco-system. We developed tools and technologies from landing to a different planet, up to hybridizing plants. However, we have not figure yet out the benefits of providing clean forms of energy to the buildings that provide the roof to all of these technological victories.
 
-If we are really trying to reduce CO2 emissions why we keep designing and financing buildings that require a constant supply of energy made predominantly by burning fossil fuels? Professor Sir David King in a BBC radio interview had once said that: “Climate change is the biggest threat that our civilisation has ever had to face up to”. By this statement is pretty obvious that the threat is real but yet it seems difficult for people to grasp this fact and act upon it. 
+Year 2016 was set to be the hottest year on record, is quite clear that we stand upon a climate castrophe. If we are really trying to reduce CO2 emissions why we keep designing and financing buildings that require a constant supply of energy made predominantly by burning fossil fuels? Professor Sir David King in a BBC radio interview had once said that: “Climate change is the biggest threat that our civilisation has ever had to face up to”. By this statement is pretty obvious that the threat is real but yet it seems difficult for people to grasp this fact and act upon it. 
 
 An average person in a developed country consumes approximately 125kWh per day (that means an iPhone 6 would need to be charged 18,572 times a day!). If the daily amount of energy consumption is being increased, could it be ever possible to have buildings to operate in a net-positive environment? Could solar energy be enough to power our homes or even our offices? 
 
@@ -34,13 +34,14 @@ However, we keep choosing buildings that proudly stand behind their nice facades
 We have the means and the tools to re-program the course of our nature and our future. Don’t we really need to think how to do it wisely? So the aim of this blog will be to inform and hopefully educate people through examples, study cases, and research on how this can be achieved. I hope on this journey that there will be people that will share their thoughts and knowledge.
 
 
-References
+_______References_______
 
-1.	http://www.telegraph.co.uk/technology/apple/iphone/11128043/How-much-power-is-used-to-charge-an-iPhone-6.html
-2.	http://www.inference.eng.cam.ac.uk/sustainable/book/tex/sewtha.pdf
-3.	https://www.ted.com/speakers/david_mackay
-4.	http://www.bullittcenter.org/
-5.	http://living-future.org/living-building-challenge/case-studies/certified-projects
+1.	www.telegraph.co.uk/technology/apple/iphone/11128043/How-much-power-is-used-to-charge-an-iPhone-6.html
+2.	www.inference.eng.cam.ac.uk/sustainable/book/tex/sewtha.pdf
+3.	www.ted.com/speakers/david_mackay
+4.	www.bullittcenter.org/
+5.	living-future.org/living-building-challenge/case-studies/certified-projects
+6.	www.theguardian.com/environment/blog/2016/sep/07/why-labour-is-putting-energy-reform-at-heart-of-its-green-agenda-jeremy-corbyn
 
 
 
