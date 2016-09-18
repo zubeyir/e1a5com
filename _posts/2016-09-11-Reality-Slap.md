@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Renewables; a joke or a reality? 
+title: Renewables, Fiction or Reality? 
 category: General
 tags: [ 'Thoughts' ]
 ---
