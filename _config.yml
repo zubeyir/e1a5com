@@ -108,7 +108,7 @@ syntax-highlight: False
 ############
 
 events:
-  - image: "/img/timeline/GREECE_LBC_collaborative_logo_web.jpg"
+  - image: "/img/timeline/GREECE_LBC_collaborative_logo_web1.jpg"
     date: "August 2016"
     description: "Official Launch of Living building Challange Collaborative Greece.The Greek Collaborative strives to grow the roots of a framework for design, construction and symbiotic relationship between people and all aspects of the community in the built environment."
   - image: "/img/timeline/wca.png"
