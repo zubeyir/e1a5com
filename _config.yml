@@ -32,7 +32,7 @@ lang: "en"
 author: "Alex Galatoulas"
 title: "{ Alex Galatoulas }"
 description: "Blog and website of Alex Galatoulas, blogging thoughts and ideas for sustainable thinking . Opinions expressed are mine."
-keywords: "alex, galatoulas, civil engineering, ucl, city university, mottmacdonald, sustainable design, structural engineering, renewables, solar, eco homes, pv panels, energy efficiency"
+keywords: "alex, galatoulas, civil engineering, ucl, city university, mottmacdonald, sustainable design, structural engineering, renewables, solar, eco homes, pv panels, energy efficiency, living building challenge, LBC, ILFI, Living future institute"
 favicon: "/img/favicon.ico"
 
 ################
@@ -110,7 +110,7 @@ syntax-highlight: False
 events:
   - image: "/img/timeline/GREECE_LBC_collaborative_logo_web1.jpg"
     date: "August 2016"
-    description: "Official Launch of Living building Challange Collaborative Greece.The Greek Collaborative strives to grow the roots of a framework for design, construction and symbiotic relationship between people and all aspects of the community in the built environment."
+    description: "Official Launch of Living Building Challange Collaborative Greece.The Greek Collaborative strives to grow the roots of a framework for design, construction and symbiotic relationship between people and all aspects of the community in the built environment."
   - image: "/img/timeline/wca.png"
     date: "May 2016 - Today"
     description: "Stuctural Engineer worked on: <br/> Waterloo Regenaration Retail Scheme, Secondment to Wessex Capacity Alliance on behalf of Mott Macdonald"
@@ -125,7 +125,7 @@ events:
     description: "M.Sc. Construction Economics & Management."
   - image: "/img/timeline/city.jpg"
     date: "September 2006 - August 2011"
-    description: "Graduated with an M.Eng (Hons) in Civil Engineering. High performance scholarship recipient for 2007 and 2008."
+    description: "Graduated with an M.Eng (Hons) in Civil Engineering.High performance scholarship recipient for 2007 and 2008."
 
 # First image of the Timeline
 
