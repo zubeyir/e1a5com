@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title:“Salutogenesis” 
+title: Salutogenesis
 category: General
 tags: [ 'Thoughts' ]
 ---
