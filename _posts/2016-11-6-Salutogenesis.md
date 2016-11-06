@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title:“Salutogenesis #built environment?” 
+title:“Salutogenesis” 
 category: General
 tags: [ 'Thoughts' ]
 ---
