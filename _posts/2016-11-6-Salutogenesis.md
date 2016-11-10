@@ -18,11 +18,12 @@ On the other hand there have been great regulatory progress to ensure that const
 We talk about innovation in the Industry introducing BIM technologies, design software using finite element analysis and processes that enhance and focuses on value-added engineering. But what this “value” really refers to? Does it incorporate sustainable thinking? Does it included salutogenetic parameters in the models? 
 
 As mentioned by Martin Brown in his FutuREstorative book and I quote “Undoubtedly BIM will help but without collaboration, BIM, while and important tool in our toolbox, will be misused or remain partially used”.
+
 Today, the majority of the materials supplied in the industry are toxic that cause illness not only to the people working in the Industry but also to the people using the buildings over their life cycle. 
 
 There are Institutes and organisations that are embracing salutogenesis in the built environment and define steps to healthy materials, such as the Living Future Institute with the Living Building Challenge and DECALRE. The introduction of the “RED LIST” it helps not only to examine if the materials are safe or not, but also it assists to examine the material across its whole lifecycle. The “RED LIST” translated 777 chemicals that are persistent bio accumulative toxic chemicalas, meaning materials that nature cannot biodegrade and hence are being accumulated in our food chain.
 
-When the Industry leaves such a vast (in some cases deadly) impact in the overall community the paradigm that “Construction Industry is different from other industries” is not only insulting for people working within the Industry but it is offensive for people that we (as designers) impact their lives when toxic materials are being specified. If anything, because the Industry is “different” and challenging we all need to collaborate (designers, contractors and manufacturers), be transparent and collectively work towards to salutogenic built environment. 
+When the Industry leaves such a vast (in some cases deadly) impact in the overall community the paradigm that “Construction Industry is different from other industries” is not only insulting for people working within the Industry but it is offensive for people that we (as designers) impact their lives when such materials are being specified. If anything, because the Industry is “different” and challenging we all need to collaborate (designers, contractors and manufacturers), be transparent and collectively work towards to salutogenic built environment. 
 
 If we include salutogenesis in our designs, materials, every day activities it could open the door for people to create buildings and systems that are closer to our existence, closer to the environment.
 
