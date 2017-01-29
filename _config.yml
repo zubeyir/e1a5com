@@ -108,6 +108,9 @@ syntax-highlight: False
 ############
 
 events:
+  - image: "/img/timeline/LONDON_LBC_collaborative_logo_web1.png"
+    date: "February 2016"
+    description: "Official Launch of Living Building Challange Collaborative London.The London Collaborative strives to grow the roots of a framework for design, construction and symbiotic relationship between people and all aspects of the community in the built environment."
   - image: "/img/timeline/GREECE_LBC_collaborative_logo_web1.jpg"
     date: "August 2016"
     description: "Official Launch of Living Building Challange Collaborative Greece.The Greek Collaborative strives to grow the roots of a framework for design, construction and symbiotic relationship between people and all aspects of the community in the built environment."
