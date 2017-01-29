@@ -128,7 +128,7 @@ events:
     description: "M.Sc. Construction Economics & Management. I have been part of the Student Academic Representative team for the class."
   - image: "/img/timeline/city.jpg"
     date: "September 2006 - August 2011"
-    description: "Graduated with an M.Eng (Hons) in Civil Engineering.High performance scholarship recipient for 2007 and 2008."
+    description: "M.Eng (Hons) in Civil Engineering. High performance scholarship recipient for 2007 and 2008."
 
 # First image of the Timeline
 
@@ -148,7 +148,7 @@ email: "alexander.galatoulas@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Alex Galatoulas, is currently part of the Mott Macdonald structural engineering team in Buildings and Infrastructure department. Member of the Institution of Civil Engineers. Interested in sustainable development and creating engineering solutions that adding value to the social well being."
+author_blurb: "Alex Galatoulas, is currently part of the Mott Macdonald team in Buildings and Infrastructure department. Member of the Institution of Civil Engineers and the International Living Future Institute. Interested in sustainable development and creating engineering solutions that adding value to the social well being."
 author_blurb_image: "/img/author.png"
 
 ##################
