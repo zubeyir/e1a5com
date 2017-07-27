@@ -38,14 +38,21 @@
 
           {% include share.html %}
 
-<!--          <div class="PageNavigation">
+          <div class="pagination">
+            <h4>
             {% if page.previous.url %}
-                <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+                <a href="{{page.previous.url}}" class="previous">&laquo; {{page.previous.title}}</a>
             {% endif %}
+              
+            {% if page.previous.url and page.next.url %}
+              |
+            {% endif %}
+              
             {% if page.next.url %}
-                <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+                <a href="{{page.next.url}}" class="next">{{page.next.title}} &raquo;</a>
             {% endif %}
-          </div>  -->
+            </h4>
+          </div>        
           
           {% if jekyll.environment == "production" %}
             {% include comments.html %}
