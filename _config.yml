@@ -29,8 +29,9 @@ force-https: False
 #############
 
 lang: "tr"
-author: "Zubeyir Bayraktaroglu"
+author: "anne ❤️ baba"
 title: "{ Murat ile Mert }"
+short-title: "{ MM }"
 description: "Murat ve Mert'in blogu ve websitesi, maceraları hakkında blog yazıyorlar. Burada yer alan görüşler bize aittir."
 keywords: "murat, mert, kişisel, blog, yaşam, bebek, çocuk, oyun, gelişim"
 favicon: "/img/favicon.ico"
@@ -43,6 +44,8 @@ black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/intro-bg.jpg"
 
+# me-img: "/img/me.jpg"
+
 ##############################
 # Dynamic Text on the Header #
 ##############################
@@ -51,12 +54,14 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
+type-speed: 5
+start-delay: 1000
+delete-delay: 10000
 lines: # You can add HTML Tags in the Text
   - text: "Peki benim param neye yetiyor!"
   - text: "Bu yüzden ..."
+  - text: "SÜMÜK YAPTIIII!"
+  - text: "Verer misin? Verer misin? VERER MİSİN!!!"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -85,11 +90,11 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: False
 
 post-preview-words: 96
 
-paginate: 5
+paginate: 10
 
 email-share: True
 fb-share: True
@@ -148,8 +153,8 @@ social:
     url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/zubeyir/e1a5com"
+ # - title: "github"
+ #   url: "https://github.com/zubeyir/e1a5com"
  #- title: "bitcoin"
  #  url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
