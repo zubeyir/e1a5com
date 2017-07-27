@@ -18,7 +18,7 @@
                {% when '11' %}Kasım
                {% when '12' %}Aralık
             {% endcase %} 
-            {{ post.date | date: '%d %Y' }}
+            {{ post.date | date: '%d, %Y' }}
     </strong>
     <small>.
     <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
