@@ -4,15 +4,10 @@ section-type: post
 title: Hamilelikten Once
 category: eksibir
 tags: ['hamilelik', 'bebek']
-ID: 98
-author: babam
 date: 2012-11-01 22:23:53
 excerpt: "hebele hebele"
 permalink: http://e1a5.com/eksi-1-yas/hamilelikten-once/
 published: true
-layout_key: ""
-post_slider_check_key: "0"
-mfn-post-love: "0"
 dsq_thread_id: "3875086842"
 ---
 
