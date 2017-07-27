@@ -4,8 +4,6 @@ section-type: post
 title: Hamilelikten ??nce
 category: "-1 ya??"
 tags: ['hamilelik' 'bebek']
-author: babam
-dsq_thread_id: - "3875086842"
 ---
 
 Annem ve babam benim geli??im i??in haz??rl??klara erkenden ba??lad??lar. Bir bebekleri (yani ben) olmas??na karar verdiklerinde bir kad??n do??um uzman??n?? ziyaret ederek annemin hamilelik ??ncesi yapt??rmas?? gereken kontrolleri ve kullanmas?? gereken ila??lar?? ????rendiler.
