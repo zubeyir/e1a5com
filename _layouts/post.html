@@ -18,8 +18,28 @@
 
           <h1><strong>{{ page.title }}</strong></h1>
           <h4>
-<!---            <strong>{{ page.date | date_to_string }}</strong> -->
-            <strong>{{ page.date | date: '%B %d, %Y' }}</strong>
+<!---            <strong>{{ page.date | date_to_string }}</strong> 
+            <strong>{{ page.date | date: '%B %d, %Y' }}</strong> -->
+            <!-- Whitespace added for readability -->
+<strong> {% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}M&auml;rz
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+  {{ page.date | date: "%Y" }} </strong>
+
+            
             <small>
               . category:
               <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
