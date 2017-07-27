@@ -2,6 +2,7 @@
 title: Hamileliği öğrenmemiz
 date: 2012-12-15 22:24:55
 layout: post
+section-type: post
 published: true
 category: eksibir
 tag: ['hamilelik']
