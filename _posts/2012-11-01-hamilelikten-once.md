@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Hamilelikten &#153nce
-category: "-1 yas"
+category: eksibir
 tags: ['hamilelik' 'bebek']
 ---
 
