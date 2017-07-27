@@ -2,7 +2,7 @@
 <!-- Post List Start -->
 
 <h4 align="left">
-    <strong> {% assign m = post.date | date: '%-m' %}
+    <strong> {% assign m = post.date | date: '%d %m %Y' %}
             {% case m %}
                {% when '1' %}Ocak
                {% when '2' %}Şubat
@@ -17,7 +17,6 @@
                {% when '11' %}Kasım
                {% when '12' %}Aralık
             {% endcase %} 
-            {{ post.date | date: '%d, %Y' }}
     </strong> -->
     <small>.
     <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
