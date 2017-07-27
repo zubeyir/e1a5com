@@ -1,0 +1,37 @@
+---
+ID: 493
+post_title: Geceleri uyuyorum
+author: annem
+post_date: 2014-01-14 12:14:21
+post_excerpt: ""
+layout: post
+permalink: http://e1a5.com/0-yas/geceleri-uyuyorum/
+published: true
+layout_key:
+  - ""
+post_slider_check_key:
+  - "0"
+---
+[caption id="attachment_511" align="alignleft" width="367"]<a href="http://e1a5.com/wp-content/uploads/2014/01/uykucu_ben-e1389734699962.jpg"><img class=" wp-image-511 " alt="Uykucu ben!" src="http://e1a5.com/wp-content/uploads/2014/01/uykucu_ben-e1389734699962.jpg" width="367" height="490" /></a> Uykucu ben![/caption]
+
+Sevgili amcalarım ve teyzelerim,
+
+Başlığı gördüğünüzde içinizden biz de bebeğimizin gece boyu uyumasını istiyoruz diye geçirdiniz değil mi? Birazdan size geceleri güzel bir uyku çekebilmem için bizim neler yaptığımızdan bahsedeceğim. Her ne kadar etrafımızdaki tüm büyükler “aman nazar değer kimseye anlatmayın” dese de, aslında bu uyku düzeni normal olan ve sizden alacağımız dualarla nazarı telafi edeceğimize inanıyoruz :) Öncelikle bu evrede (ben şu anda 4 aylığım) 5-6 saatlik kesintisiz bir uykunun iyi bir süre olduğunu belirtmeliyim. Son 2 aydır aslında kesintisiz 5 saat kadar uyumaktaydım fakat annem birkaç gün önce artık zamanıdır diyerek farklı bir uyku düzeni oturttu ve şu anda daha erken yatıp biraz daha erken kalkıyorum. Bloglarda çocuğu 3-4 yaşına gelmiş kişilerin çocuğum uyumuyor 23:00’den 00:00’dan önce yatmıyor diyen teyzelerin mesajlarını okuduk, e teyzelerim siz bu yaşa kadar yatırmazsanız yatmaz elbette. Bu düzenin 3-4 aylıkken başlatılması gerekiyor. Ancak aklınız başınıza biraz geç geldiyse neler yapılabileceği hakkında da yazı sonunda sizi bilgilendireceğiz.
+
+Öncelikle yatış kalkış saatlerim hakkında sizi bilgilendireyim. Şu anda akşam 19:30-20:00 arası yatıyorum. Gece 1:00-3:00 arası meme emmek için kalkıyorum (ancak uyanmıyorum uyku arasında emiyorum), sonra sabah 5:00-6:30 gibi tekrar meme için kalkıyor ve sabah 6:30-7:00 gibi annemi uyandırıyorum. Bazen meme emme saatim kalkış saatime de denk gelebiliyor. Gün içinde 3-4 uykum oluyor. Onların saatleri biraz daha değişken. Şimdi ben uyurken neler yaptığımızdan bahsedelim.
+
+İlk işimiz rahat bir şeyler giymek. Varsa çoraplarımı çıkartıyoruz ve patikli tulumumu giydikten sonra işe kaloriferi söndürmekle başlıyoruz. Banyomu yapacaksam yatış saatime yakın yapmış oluyorum. Ancak rutin oluşturacağız diye her gün her gün değil genellikle 2 bazen 3 günde bir yıkanıyorum. Oda ısısı hakkında başucumdaki telsizimizin termometresi bize yardımcı oluyor. Isının en fazla ( ! ) 22 ºC olmasını sağlıyoruz ve odayı havalandırıyoruz (hava soğuk olsa da daha az bir süre pencereyi açık tutarak bunu sağlıyoruz). Gerek ben gerek anne babam aşırı sıcak ve havasız ortamdan nefret ediyoruz zira. Sonra annem “uyku zamanıııı” diyerek beni beşiğime yatırıyor. Son 2 aydır annem hemen her zaman beni orada yatırdığından oranın artık uykuyla ilgili olduğunu biliyorum (bir tür şartlama). Ancak evin soğuması biraz zaman alacağından annem bu sırada bana ince bir battaniye örtüyor (kenarları yanlara doğru sıkıştırıyor ve ayak kısımlarını da ayaklarımın hareketini engellemeyecek şekilde ayaklarımın altına alıyor. Bu güvenlik için gerekli çünkü şu aralar herşeyi çekiştirip başıma getiriyorum ve ağzıma sokuyorum. Ağzıma çok sevdiğim ve uykuya dalarken kullandığım emziğim veriliyor ve annem beni birkaç kez öpüp odadan ayrılıyor. (Eğer farklı bir ortamdaysak mesela 2 gün önce anneannemlerde olduğumuz gibi yerimi yadırgayabiliyorum ve annem uykuya dalana kadar yanımda duruyor). Tüm ışıklar söndürülüyor ve annem odadan çıkıp beni salondan telsizle takip ediyor. Ben mızırdandıkça ve emziğimi düşürdükçe odaya gelip beni öpüyor ve emziğimi veriyor, benimle yumuşak bir şekilde konuşuyor. Bu birkaç kez tekrarlanabiliyor. Böylece biliyorum ki bir sıkıntım olduğunda annem ya da babam yanıma gelecek ve benimle ilgilenecek. Bu rahat etmemi sağlıyor. Ancak mızırdanmam fazla uzuyor ve hafiften ağlamaya doğru dönüyorsa bu genellikle gazım olduğu anlamına geliyor ve annem odaya gelerek beni kucağına alıyor ve gazımı çıkartıp tekrar yatırıyor. Ya da acıktığımı düşünüyorsa tekrar emziriyor. Tekrar yatağıma yatıyorum ve bu döngü devam ediyor. Uykuya dalmam genellikle 10-20 dakika sürüyor. Ev biraz daha soğuduktan sonra biraz daha kalınca bir battaniye üzerime örtülüyor. Yorgan hemen hemen hiç kullanmıyorum, bana fazla sıcak geliyor.
+
+Sonra bahsettiğim gibi gece 1:00-3:00 arası uyanıyorum ve memeyi sonuna kadar bitirip rahatlıyorum. Burada dolu dolu emdiğimden annem gelişimimde gece öğünlerinin de önemli yer tuttuğunu düşünüyor. Sonra bahsettiğim gibi sabah 5:00-6:30 arası tekrar kalkıyorum ve burada da bir güzel meme emiyorum. Kilo olarak 97. boy olarak 90. persantildeyim. Gece öğünleri için kalkmak annemi rahatsız etmiyor zaten beni o saate kadar özlüyormuş. Son uyanma saatim 6:30-7:00 gibi oluyor ki böylece yaklaşık 11 saat kadar uyumuş oluyorum.
+
+Gece bazen uyanıp homurdanıyorum bu sırada annem bekliyor ve beni hemen kucağına almıyor ancak bu devam edip hafif mızırdanma şeklinde sürüyorsa acıktığım şeklinde yorumlanıyor, annem olabildiğince ağlamama meydan vermeden beni kucağına almış ve emzirmeye başlamış oluyor. Çünkü bu ağlamanın bir alışkanlığa dönüşmesini istemiyorlar. Elbette farklı nedenlerle ağladığım zamanlar olabiliyor, zira bu şu andaki kısıtlı sayıdaki iletişim biçiminden biri.
+
+Gece olduğu gibi gündüz uykularımda da annemlerin odasındaki yatağıma yatıyorum ve annemler sesi olabildiğince azaltmaya çalışıyor. Çünkü seslere karşı oldukça duyarlıyım ve yüksek seslerden (çok küçük olanlardan değil) irkilip uyanıyorum ve huzursuz oluyorum. Uyandığımda önce emziğim ağzıma veriliyor ve tekrar uykuya dalabiliyorum. Gündüz uykularım genellikle 1-2 saat arasında sürüyor. Ancak gözlerimi fıldır fıldır açıp gülüyorsam bu genellikle uyandığım anlamıne geliyor ve yatağımdan alınıyorum. Çünkü orası uyku yerim.
+
+Bizim yaptıklarımız özetle bunlar. Uyku ile ilgili Web MD Baby’den (android uygulaması), <a href="babycenter.com">Baby Center</a> ve <a href="http://bebekyapimbakimonarim.blogspot.com">Bebek Yapım Bakım Onarım</a> sitelerinden de fikir aldık ve yaptığımız pekçok şeyle örtüştüğünü gördük. Ayrıca büyük yaşta olup da hala uyku problemi yaşayan çocuğunuz varsa <a href="http://bebekyapimbakimonarim.blogspot.com">Bebek Yapım Bakım Onarım</a> sitesinde uyku eğitimiyle ilgili güzel yazılar var, bunlara bakmanızı tavsiye ederiz.
+
+Çocuk eğitiminin tüm aşamalarında olduğu gibi kurallı ve kararlı olmak önemli ancak öncelikle anne babanın bebeğini/çocuğunu iyi tanıması gerekiyor. Eğitim veriyorum derken bebeğinizin sıkıntısını atlayıp ona da kendinize de işkence etmeyin. Neyi neden yapıyor olabileceği ile ilgili kafa yorun. Bebeğinizin hastalık dönemlerinde ya da sürekli hasta olan bir bebekte elbette işler bu kadar yolunda gitmeyecektir. Ancak bir sağlık problemi yoksa biraz müdahale ve planlamayla işler doğal akışında güzel güzel gidiyor.
+
+Birkaç konu da güvenlikle ilgili. Dediğim gibi battaniyeyi yana sıkıştırıyoruz. Yastık kullanmıyoruz. Odada cep telefonu bulundurmuyoruz. Beşiğimde oyuncak, ekstra battaniye vs. hiçbir şey tutmuyoruz. Etraftan üzerime düşebilecek bir şey olmamasına dikkat ediyoruz. Yaptıklarımızın size de fikir vermesi ümidiyle.
+
+Tüm bebek kardeşlerime iyi uykular dilerim.
