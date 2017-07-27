@@ -6,8 +6,8 @@ category: eksibir
 tags: ['hamilelik', 'bebek']
 ID: 98
 author: babam
-post_date: 2012-11-01 22:23:53
-post_excerpt: "hebele hebele"
+date: 2012-11-01 22:23:53
+excerpt: "hebele hebele"
 permalink: http://e1a5.com/eksi-1-yas/hamilelikten-once/
 published: true
 layout_key: ""
