@@ -3,7 +3,10 @@ title: Hamileliği öğrenmemiz
 date: 2012-12-15 22:24:55
 layout: post
 published: true
-disqus_thread: 3875088709
+category: eksibir
+tag: ['hamilelik']
+disqus_thread: 
+      - "3875088709"
 
 ---
 Beni beklemeye başlamışlardı. Annem eczaneden bir miktar hamilelik testi almış ara ara hamile olup olmadığını kontrol ediyordu.
