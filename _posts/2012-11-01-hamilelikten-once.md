@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Hamilelikten Once
 category: eksibir
-tags: ['hamilelik' 'bebek']
+tags: ['hamilelik']
 ---
 
 Annem ve babam benim gelişim için hazırlıklara erkenden başladılar. Bir bebekleri (yani ben) olmasına karar verdiklerinde bir kadın doğum uzmanını ziyaret ederek annemin hamilelik öncesi yaptırması gereken kontrolleri ve kullanması gereken ilaçları öğrendiler.
