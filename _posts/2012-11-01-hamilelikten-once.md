@@ -6,7 +6,6 @@ category: eksibir
 tags: ['hamilelik', 'bebek']
 date: 2012-11-01 22:23:53
 excerpt: "hebele hebele"
-permalink: http://e1a5.com/eksi-1-yas/hamilelikten-once/
 published: true
 ---
 
