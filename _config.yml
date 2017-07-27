@@ -29,6 +29,8 @@ force-https: False
 #############
 
 lang: "tr"
+encoding: UTF-8
+timezone: Turkey/Istanbul
 author: "anne ❤️ baba"
 title: "{ Murat ile Mert }"
 short-title: "{ MM }"
