@@ -1,11 +1,12 @@
 ---
-title: Bezelye tanesi
-author: babam
-post_date: 2013-01-02 23:29:51
 layout: post
 section-type: post
+title: Bezelye tanesi
+category: eksibir
+tag: ['hamilelik']
+author: babam
+post_date: 2013-01-02 23:29:51
 disqus_thread: 3875089910
-
 ---
 Hamilelikten sonra ilk kontrole yaklaşık hamileliğin 6. haftasında gittik. Ultrasonda ayırt edilebilen tek şey karanlığın içerisinde bezelye tanesi kadar gri/beyaz bir noktaydı. Bezelye tanesi kadar olan bu noktada bir hareket vardı, sanki açılıp kapanıyordu: Kalbi atıyordu!
 
