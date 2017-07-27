@@ -3,7 +3,6 @@
 
 <h4 align="left">
     <strong>
-            {{ post.date | date: '%d' }}
             {% assign m = post.date | date: '%-m' %}
             {% case m %}
                {% when '1' %}Ocak
@@ -19,7 +18,7 @@
                {% when '11' %}Kasım
                {% when '12' %}Aralık
             {% endcase %} 
-            {{ post.date | date: '%Y' }}
+            {{ post.date | date: '%d %Y' }}
     </strong>
     <small>.
     <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
