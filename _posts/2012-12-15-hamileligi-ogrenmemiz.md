@@ -6,7 +6,8 @@ section-type: post
 published: true
 category: eksibir
 tag: ['hamilelik']
-disqus_thread: 3875088709
+disqus_thread: 
+    - "3875088709"
 
 ---
 Beni beklemeye başlamışlardı. Annem eczaneden bir miktar hamilelik testi almış ara ara hamile olup olmadığını kontrol ediyordu.
