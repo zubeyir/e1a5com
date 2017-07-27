@@ -1,19 +1,19 @@
 ---
 layout: post
 section-type: post
-title: Hamilelikten ??nce
-category: "-1 ya??"
+title: Hamilelikten Önce
+category: "-1 yaş"
 tags: ['hamilelik' 'bebek']
 ---
 
-Annem ve babam benim geli??im i??in haz??rl??klara erkenden ba??lad??lar. Bir bebekleri (yani ben) olmas??na karar verdiklerinde bir kad??n do??um uzman??n?? ziyaret ederek annemin hamilelik ??ncesi yapt??rmas?? gereken kontrolleri ve kullanmas?? gereken ila??lar?? ????rendiler.
+Annem ve babam benim gelişim için hazırlıklara erkenden başladılar. Bir bebekleri (yani ben) olmasına karar verdiklerinde bir kadın doğum uzmanını ziyaret ederek annemin hamilelik öncesi yaptırması gereken kontrolleri ve kullanması gereken ilaçları öğrendiler.
 
-Bu kontroller aras??nda en ??nemlilerinden biri annemin k??zam??k????k (rubella) hastal??????n?? ge??irip ge??irmedi??inin belirlenmesiydi. Annem k??zam??k??????a kar???? a????s?? oldu??u i??in antikorlar?? pozitif ????kt??. Bu iyi haber. Yani, vir??slerle kar????la??ssa bile v??cudu onlar?? yenebilecek durumda ve vir??sler bana ula??mayacak.
+Bu kontroller arasında en önemlilerinden biri annemin kızamıkçık (rubella) hastalığını geçirip geçirmediğinin belirlenmesiydi. Annem kızamıkçığa karşı aşısı olduğu için antikorları pozitif çıktı. Bu iyi haber. Yani, virüslerle karşılaşssa bile vücudu onları yenebilecek durumda ve virüsler bana ulaşmayacak.
 
-K??zam??k????????n ??nemi, hamileli??in ilk ???? ay??nda bebe??in organlar??n??n geli??ti??i d??nemde ge??irildi??inde do??umsal bozukluklara neden olabilmesi. Bu nedenle hamilelikten ??nce kanda test yap??l??yor.
+Kızamıkçığın önemi, hamileliğin ilk üç ayında bebeğin organlarının geliştiği dönemde geçirildiğinde doğumsal bozukluklara neden olabilmesi. Bu nedenle hamilelikten önce kanda test yapılıyor.
 
-Bunlar??n yan??nda annem, geli??imimde ??nemli olan B12 vitamini ve folik asit deste??i de almaya ba??lad??. Bu vitaminlerin eksikli??i bebeklerde sinir sistemi bozukluklar??na yol a??abiliyor.
+Bunların yanında annem, gelişimimde önemli olan B12 vitamini ve folik asit desteği de almaya başladı. Bu vitaminlerin eksikliği bebeklerde sinir sistemi bozukluklarına yol açabiliyor.
 
-Annem, hamilelik s??ras??nda kilo alaca????n?? d??????nerek bir miktar kilo verdi.
+Annem, hamilelik sırasında kilo alacağını düşünerek bir miktar kilo verdi.
 
-Hamilelik ??ncesi haz??rl??klar konusunda ayr??nt??l?? ingilizce bir yaz??ya buradan ula??abilirsiniz: <a href="http://www.patient.co.uk/doctor/pre-pregnancy-counselling">http://www.patient.co.uk/doctor/pre-pregnancy-counselling</a>
+Hamilelik öncesi hazırlıklar konusunda ayrıntılı ingilizce bir yazıya buradan ulaşabilirsiniz: <a href="http://www.patient.co.uk/doctor/pre-pregnancy-counselling">http://www.patient.co.uk/doctor/pre-pregnancy-counselling</a>
