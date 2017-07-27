@@ -3,8 +3,8 @@
 
 <h4 align="left">
     <strong>
-        {% assign m = post.date | date: '%m' %}
         {{% post.date | date: '%d' %}}
+        {% assign m = post.date | date: '%m' %}
         {% case m %}
                {% when '1' %}Ocak
                {% when '2' %}Şubat
