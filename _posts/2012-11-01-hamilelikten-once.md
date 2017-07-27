@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Hamilelikten Önce
+title: Hamilelikten &#153nce
 category: "-1 yaş"
 tags: ['hamilelik' 'bebek']
 ---
