@@ -7,7 +7,7 @@ tags: ['hamilelik', 'bebek']
 date: 2012-11-01 22:23:53
 excerpt: "hebele hebele"
 published: true
-dsq_thread_id: "3875086842"
+disqus_thread: 3875086842
 ---
 
 Annem ve babam benim gelişim için hazırlıklara erkenden başladılar. Bir bebekleri (yani ben) olmasına karar verdiklerinde bir kadın doğum uzmanını ziyaret ederek annemin hamilelik öncesi yaptırması gereken kontrolleri ve kullanması gereken ilaçları öğrendiler.
