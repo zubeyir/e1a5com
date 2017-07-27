@@ -17,11 +17,8 @@
           {% include swipe-instructions.html %}
 
           <h1><strong>{{ page.title }}</strong></h1>
-          <h4>
-<!---            <strong>{{ page.date | date_to_string }}</strong> 
-            <strong>{{ page.date | date: '%B %d, %Y' }}</strong> -->
-            <!-- Whitespace added for readability -->
-            <strong> {% assign m = page.date | date: "%-m" %}
+          <h4
+            <strong> {% assign m = page.date | date: '%-m %d, %Y' %}
             {% case m %}
                {% when '1' %}Ocak
                {% when '2' %}Şubat
@@ -35,10 +32,10 @@
                {% when '10' %}Ekim
                {% when '11' %}Kasım
                {% when '12' %}Aralık
-            {% endcase %}
-            {{ page.date | date: '%d, %Y' }} </strong>
+            {% endcase %} 
+          </strong>
+<!--            {{ page.date | date: '%d, %Y' }} -->
 
-            
             <small>
               . category:
               <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
