@@ -2,7 +2,7 @@
 <!-- Post List Start -->
 
 <h4 align="left">
-    <strong>{{ page.date | date: '%B %d, %Y' }}</strong>
+    <strong>{{ page.date | date_to_string }}</strong>
 <!--    <strong> {% assign m = page.date | date: '%-m' %}
             {% case m %}
                {% when '1' %}Ocak
