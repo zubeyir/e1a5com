@@ -18,3 +18,4 @@ Rakefile
 .jekyll-metadata
 /.idea/
 _posts/.DS_Store
+.DS_Store
