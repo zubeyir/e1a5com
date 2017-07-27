@@ -2,9 +2,10 @@
 <!-- Post List Start -->
 
 <h4 align="left">
-    <strong>{% post.date | date: '%d' %}
-            {% assign m = post.date | date: ' %m' %}
-            {% case m %}
+    <strong>
+        {% assign m = post.date | date: '%m' %}
+        {{% post.date | date: '%d' %}}
+        {% case m %}
                {% when '1' %}Ocak
                {% when '2' %}Şubat
                {% when '3' %}Mart
@@ -17,7 +18,7 @@
                {% when '10' %}Ekim
                {% when '11' %}Kasım
                {% when '12' %}Aralık
-            {% endcase %} 
+        {% endcase %} 
         {% post.date | date: ' %Y' %}
     </strong>
     <small>.
