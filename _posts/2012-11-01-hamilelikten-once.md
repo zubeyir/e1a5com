@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: "Hamilelikten &#153;nce"
+title: Hamilelikten Once
 category: eksibir
 tags: ['hamilelik' 'bebek']
 ---
