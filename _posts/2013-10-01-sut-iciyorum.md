@@ -1,22 +1,17 @@
 ---
-ID: 208
 title: Süt içiyorum
 author: babam
 date: 2013-10-01 20:31:42
-category: ""
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/sut-iciyorum/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3915174319"
+tag: beslenme
+disqus_thread: 3915174319
 ---
-[caption id="attachment_222" align="alignleft" width="518"]<a href="http://e1a5.com/wp-content/uploads/2013/10/milky.jpg"><img class=" wp-image-222 " alt="Sütümü içiyorum" src="http://e1a5.com/wp-content/uploads/2013/10/milky.jpg" width="518" height="346" /></a> Sütümü içiyorum[/caption]
+
+![Sütümü içiyorum](/img/posts/milky.jpg)
+*Sütümü içiyorum*
 
 Süt ile ilk tanışmam doğumhanede doğar doğmaz oldu. Normal doğmanın güzelliklerinden birisi de buymuş. Dünyaya gelince hemen yemek hazır sofraya buyur ettiler. Annem genel anestezi almadığından uyanıktı, ben de doğum sırasında itilip kakıldığım, sıkışıp büzüldüğüm için birşeylerin değiştiğini fark ettim. Emzirme hemşiresi ve çocuk doktoru tarafından temizlenip, kurulanıp, sağlık durumum kontrol edildikten sonra (bunların hepsi bir-iki dakika sürdü) sarmalanıp annemin memesine ağzım dayandı. Annemmm!
 
@@ -33,5 +28,5 @@ Bir de Gökhan amcadan öğrendiğimize göre Serpil teyzeye en çok süt yapan 
 Bizimkiler mama konusunda tutucu olmayı bıraktılar ama verebildikleri kadar anne sütü vermekten vazgeçmiyorlar. Süt bitmiş de ben isyanlardaysam en fazla günde bir kere 30-90 cc mama veriyorlar. Annem, gün içerisinde sütü olursa sağıp buzdolabına koyuyor ve gece annem uyurken babam bu sütü ısıtıp bana veriyor. Annem daha fazla uyuyabiliyor ve sütü artıyor. Böylece mamaya da gerek kalmıyor.
 
 Siz süt yapmak için neler tavsiye ediyorsunuz?
-<div style="clear:both;"></div>
+
 <iframe src="//www.youtube.com/embed/_ijzUDnSDsM" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
