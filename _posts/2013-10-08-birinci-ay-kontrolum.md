@@ -1,23 +1,17 @@
 ---
-ID: 210
 title: Birinci ay kontrolüm
 author: babam
 date: 2013-10-08 20:32:34
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/birinci-ay-kontrolum/
+section-type:
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3843764646"
+tag: kontrol
+disqus_thread: 3843764646
 ---
-[caption id="attachment_254" align="alignleft" width="410"]<a href="http://e1a5.com/wp-content/uploads/2013/10/babaml.jpg"><img class=" wp-image-254" alt="" src="http://e1a5.com/wp-content/uploads/2013/10/babaml.jpg" width="410" height="466" /></a> Neler oluyor?[/caption]
+
+![Neler oluyor?](/img/posts/babaml.jpg)
+*Neler oluyor?*
 
 İlk kontrolüm için Çapa'ya gittik. Sağlam çocuk bölümünde tartıldım, boyum ve baş çevrem ölçüldü. Doktor abla muayenemi yaptı, sabırla annem ve babamın pimpirikli sorularını cevapladı. Cildimdeki sivilceler geçermiş, mamayı biberonla değil kaşıkla vermeliymişler. Gazım için rezene yetmiyorsa Biogaia probiyotik damla varmış, annem de Devit3 damla kullanmalıymış. Annem ve babam boğmaca aşısı yaptırırsa beni korurlarmış.
 
