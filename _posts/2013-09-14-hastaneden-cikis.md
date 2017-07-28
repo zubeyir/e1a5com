@@ -1,20 +1,15 @@
 ---
-ID: 88
 title: Hastaneden Çıkış
 author: babam
 date: 2013-09-14 22:15:23
-category: ""
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/hastaneden-cikis/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
+tag: doğum
 ---
-[caption id="attachment_89" align="alignright" width="614"]<a href="http://e1a5.com/wp-content/uploads/2013/09/20130904_094727.jpg"><img class=" wp-image-89 " style="margin: 10px 0px 10px 20px;" src="http://e1a5.com/wp-content/uploads/2013/09/20130904_094727-1024x465.jpg" alt="Hastaneden çıkış" width="614" height="279" /></a> Hastaneden çıkış[/caption]
+![Hastaneden çıkış](/img/posts/20130904_094727.jpg)
+*Hastaneden çıkış*
 
 Murat'ın doğumundan bir gün sonra hastaneden çıktık.
 
@@ -24,4 +19,4 @@ Annesinin ağrıları biraz daha azalmıştı, ancak hala ağrı kesici kullanma
 
 Hastaneden çıkmadan önce K vitamini verildi ve ilk doz Hepatit B aşısı yapıldı. Hepatit B aşısı doğumda, 1. ve 6. aylarda 3 kere yapılıyor.
 
-Aşı ve aşı takvimi konusunda <a href="http://www.asidunyasi.com">Aşı Dünyası</a> sitesinde ayrıntılı bilgi bulabilirsiniz ve bebeğinizin doğum gününe göre aşı tarihlerini gösteren bir <a href="http://www.asidunyasi.com/ozel-asi-takvimi">takvim </a>üretebilirsiniz.
+Aşı ve aşı takvimi konusunda [Aşı Dünyası](http://www.asidunyasi.com) sitesinde ayrıntılı bilgi bulabilirsiniz ve bebeğinizin doğum gününe göre aşı tarihlerini gösteren bir [aşı takvimi](http://www.asidunyasi.com/ozel-asi-takvimi) üretebilirsiniz.
