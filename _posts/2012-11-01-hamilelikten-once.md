@@ -2,12 +2,11 @@
 layout: post
 section-type: post
 title: Hamilelikten Once
-category: eksibir
-tags: ['hamilelik', 'bebek']
+category: eksi1
+tags: hamilelik
 date: 2012-11-01 22:23:53
-excerpt: "hebele hebele"
 published: true
-disqus_thread: "3875086842"
+disqus_thread: 3875086842
 ---
 
 Annem ve babam benim gelişim için hazırlıklara erkenden başladılar. Bir bebekleri (yani ben) olmasına karar verdiklerinde bir kadın doğum uzmanını ziyaret ederek annemin hamilelik öncesi yaptırması gereken kontrolleri ve kullanması gereken ilaçları öğrendiler.
@@ -20,4 +19,4 @@ Bunların yanında annem, gelişimimde önemli olan B12 vitamini ve folik asit d
 
 Annem, hamilelik sırasında kilo alacağını düşünerek bir miktar kilo verdi.
 
-Hamilelik öncesi hazırlıklar konusunda ayrıntılı ingilizce bir yazıya buradan ulaşabilirsiniz: <a href="http://www.patient.co.uk/doctor/pre-pregnancy-counselling">http://www.patient.co.uk/doctor/pre-pregnancy-counselling</a>
+Hamilelik öncesi hazırlıklar konusunda ayrıntılı İngilizce bir yazıya buradan ulaşabilirsiniz: <a href="http://www.patient.co.uk/doctor/pre-pregnancy-counselling">http://www.patient.co.uk/doctor/pre-pregnancy-counselling</a>

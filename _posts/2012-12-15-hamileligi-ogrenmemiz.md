@@ -1,14 +1,15 @@
 ---
-title: Hamileliği öğrenmemiz
-date: 2012-12-15 22:24:55
 layout: post
 section-type: post
+title: Hamileliği öğrenmemiz
+category: eksi1
+tag: hamilelik
+author: babam
+date: 2012-12-15 22:24:55
 published: true
-category: eksibir
-tag: ['hamilelik']
 disqus_thread: 3875088709
-
 ---
+
 Beni beklemeye başlamışlardı. Annem eczaneden bir miktar hamilelik testi almış ara ara hamile olup olmadığını kontrol ediyordu.
 
 Hamilelik testlerinin üzerine idrar damlatıldığında testin çalıştığını gösteren bir çizgi beliriyor. Onun yanında ikinci bir çizgi ortaya çıkarsa bu hamilelik anlamına geliyor.

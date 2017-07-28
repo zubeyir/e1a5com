@@ -2,8 +2,8 @@
 layout: post
 section-type: post
 title: Bezelye tanesi
-category: eksibir
-tag: ['hamilelik']
+category: eksi1
+tag: hamilelik
 author: babam
 post_date: 2013-01-02 23:29:51
 disqus_thread: 3875089910
