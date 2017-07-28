@@ -1,26 +1,23 @@
 ---
-ID: 363
 title: Sünnet olacağım
 author: babam
 date: 2013-12-06 21:44:22
-category:
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/sunnet-olacagim/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-disqus_thread:
-  - "4016944428"
+tag: sağlık
+disqus_thread: 4016944428
 ---
-[caption id="attachment_365" align="alignleft" width="461"]<a href="http://e1a5.com/wp-content/uploads/2013/12/haribo_ayisi.jpg"><img class=" wp-image-365 " alt="Haribo Ayısı" src="http://e1a5.com/wp-content/uploads/2013/12/haribo_ayisi.jpg" width="461" height="614" /></a> Haribo Ayısı[/caption]
+
+![Haribo Ayısı](/img/posts/haribo_ayisi.jpg)
+*Haribo Ayısı*
 
 Ben daha doğmadan bu konu annem ve babamın gündemi meşgul etmeye başlamıştı. Yaşım küçükken sünnet olmamı istiyorlardı. Hem sağlık açısından hem de ileride aklım ermeye başlayınca bir travma yaşamamı istemediklerinden.
 
-Sünnet için ideal dönem doğumdan hemen sonraki aylar ya da 6 yaştan sonrası. İki ile 6 yaş arasında ise psikolojik gelişimim açısından tavsiye edilmediğini söylüyorlar. Geç yaşta sünnet olursam ha kesti ha kesecekler diye sıkıntılı bir bekleyiş başlayacak.
+Sünnet için ideal dönem doğumdan hemen sonraki aylar ya da 6 yaştan sonrası. İki ile 6 yaş arasında ise psikolojik gelişimim açısından tavsiye edilmediğini söylüyorlar. Geç yaşta sünnet olursam ha kesti ha kesecekler diye sıkıntılı bir bekleyiş başlayacak.
 
-Bazı hastanelerde doğumdan hemen sonra sünnet isteyip istemedikleri ailelere soruluyor. Bu da bir seçenek. Ama benimkiler bunu istemedi. Herhangi bir doğumsal hastalığım veya kanama bozukluğum varsa bunun sorun oluşturacağını düşündüklerinden beklemeyi tercih ettiler.
+Bazı hastanelerde doğumdan hemen sonra sünnet isteyip istemedikleri ailelere soruluyor. Bu da bir seçenek. Ama benimkiler bunu istemedi. Herhangi bir doğumsal hastalığım veya kanama bozukluğum varsa bunun sorun oluşturacağını düşündüklerinden beklemeyi tercih ettiler.
 
 Doğumdan sonra doktorum, 3. ayıma kadar sünnet olabileceğimi söyledi. Üçüncü aydan sonra artık hareketlenmeye ve dönmeye başlayacağımdan tavsiye etmedi. Geçen hafta itibariyle üç aylık bri bebek oldum ve hareketlenmeye başladım. Dönemesem de başımı ve gövdemi bir parça çevirebiliyorum. Yani iş işten geçmeden harekete geçmeleri lazım.
 

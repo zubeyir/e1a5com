@@ -1,20 +1,16 @@
 ---
-ID: 329
 title: 2. ay kontrolüm
 author: babam
 date: 2013-11-08 20:59:43
-category:
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/2-ay-kontrolum/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
+tag: kontrol
 ---
-[caption id="attachment_330" align="aligncenter" width="518"]<a href="http://e1a5.com/wp-content/uploads/2013/12/ikinci_ay.jpg"><img class="  wp-image-330" src="http://e1a5.com/wp-content/uploads/2013/12/ikinci_ay.jpg" alt="Cin gibiyim maşallah" width="518" height="346" /></a> Cin gibiyim maşallah[/caption]
+
+![Cin gibiyim maşallah](/img/posts/ikinci_ay.jpg)
+*Cin gibiyim maşallah*
 
 Kasım ayı geldi ve ben de iki aylık oldum. Herşey hızla değişiyor ve bizimkiler oldukça şaşırıyor. İlk günlerimde çektikleri fotoğraflara baktıkça o zamanlar yaratık gibi olduğumu bile düşünüyorlar. Aslında fotoğraflar olmasa herşey çok çabuk unutuluyor. Bu yüzden bol bol fotoğraf ve video çekiyorlar.
 

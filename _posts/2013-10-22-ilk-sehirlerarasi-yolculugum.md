@@ -1,22 +1,15 @@
 ---
-ID: 288
 title: İlk Şehirlerarası Yolculuğum
 author: babam
 date: 2013-10-22 00:55:02
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/ilk-sehirlerarasi-yolculugum/
+section-type: post 
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3852779030"
+tag: gezi
+disqus_thread: 3852779030
 ---
+
 Bu bayram benim için biraz hızlı geçti. Bayram tatilinde ilk şehirlerarası yolculuğuma çıktım. Bayramın 3. günü sabah hazırlanarak Abant'a gittik.
 
 Annem ve babam gece benimle uğraşmaktan valiz hazırlayamadılar. Sabah 7'de karnımı doyurmaları için bizimkileri uyandırdım. Beni doyurduktan sonra apar-topar eşyalarımı bir araya getirdiler. Kendilerine de bir kaç parça birşeyler aldılar. Bu ilk seyahatin malzeme listesini aşağıda bulabilirsiniz. Hepsi gerekli mi diye sormayın, ya lazım olursa diyerek ne varsa yanlarına aldılar. Kamp deneyimleri olduğu için 1 saatte kapının önündeydik.
@@ -24,16 +17,17 @@ Annem ve babam gece benimle uğraşmaktan valiz hazırlayamadılar. Sabah 7'de k
 Bugünlerde Jumbo abim evi otel olarak kullanıp sadece yemeğe ve uyumaya geldiğiden sabah yine ortalarda yoktu. Geceyi komşulardan birinde geçirmiş olmalı. Onu almadan yola çıktık.
 
 Annem ve babam yola çıktıklarında kendilerinin birşey yememiş olduğunu fark ettiler, yaklaşık 100 km gittikten sonra birkaç sigara böreği ve poğaça alarak kahvaltılarını yaptılar. Bu arada ben uyanınca beni de doyurup yola devam ettiler. Dedemler ve dayımlar bizden bir gün önce Bolu'ya gitmişlerdi. Bolu'ya yaklaşırken Abant gölünde buluşmak üzere haberleştik. Göl kenarındaki bir restorantta buluştuk. Benim karnımı doyurup, bezimi değiştirdikten sonra onlar da karınlarını doyurdu ve göl çevresinde yürüyüşe çıktık. Hava soğuk, yağmurlu ve rüzgarlı olmasına rağmen annem ve babam beni paketleyip arabama koydular ve göl çevresinde gezdirdiler.
-<div style="clear:both;"></div>
 
-[caption id="attachment_289" align="alignleft" width="367"]<a href="http://e1a5.com/wp-content/uploads/2013/10/abant1.jpg"><img class=" wp-image-289 " alt="Arabamda" src="http://e1a5.com/wp-content/uploads/2013/10/abant1.jpg" width="367" height="490" /></a> Arabamda[/caption]
+![Arabamda](/img/posts/abant1.jpg)
+*Arabamda*
 
-[caption id="attachment_290" align="alignleft" width="431"]<a href="http://e1a5.com/wp-content/uploads/2013/10/abant2.jpg"><img class=" wp-image-290 " alt="Yolda" src="http://e1a5.com/wp-content/uploads/2013/10/abant2.jpg" width="431" height="337" /></a> Yolda[/caption]
+![Yolda](/img/posts/abant2.jpg)
+*Yolda*
 
-[caption id="attachment_291" align="alignleft" width="490"]<a href="http://e1a5.com/wp-content/uploads/2013/10/abant3.jpg"><img class=" wp-image-291 " alt="Annem ve babam ile" src="http://e1a5.com/wp-content/uploads/2013/10/abant3.jpg" width="490" height="367" /></a> Annem ve babam ile[/caption]
+![Annem ve babam ile](/img/posts/abant3.jpg)
+*Annem ve babam ile*
 
-<div style="clear:both;"></div>
-Göl kenarındaki yürüyüş yolunun zemini bazı yerlerde yumuşak olduğundan arabam zaman zaman ilerlemekte zorlandı. Yürüyüş sırasında arabamı babam ve dedem ittiler.</span><span style="font-size: 13px;"> Annem ve dayım arkadan gelirken, Ömercan, Zeynep teyzem ve annanem fayton keyfi yaptılar. 
+Göl kenarındaki yürüyüş yolunun zemini bazı yerlerde yumuşak olduğundan arabam zaman zaman ilerlemekte zorlandı. Yürüyüş sırasında arabamı babam ve dedem ittiler. Annem ve dayım arkadan gelirken, Ömercan, Zeynep teyzem ve annanem fayton keyfi yaptılar.
 
 Soğuğa rağmen kıyafetlerim yeterli geldi. Babam, tek açıkta kalan yerim olan burnuma arasıra dokunarak üşüyüp üşümediğimi kontrol etti. Normalde dedemin 55 dakikada tamamladığı parkuru benim katılımım ile 75 dakikada tamamladıktan sonra bir kafede dinlendik. Annem karnımı doyurduktan sonra otelimize gittik.
 
