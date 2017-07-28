@@ -5,7 +5,7 @@ title: >
   mayalama
 author: annem
 date: 2014-04-11 12:45:07
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/keci-ve-inek-sutunden-yogurt-mayalama-2/

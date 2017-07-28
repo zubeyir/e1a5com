@@ -3,7 +3,7 @@ ID: 288
 title: İlk Şehirlerarası Yolculuğum
 author: babam
 date: 2013-10-22 00:55:02
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ilk-sehirlerarasi-yolculugum/

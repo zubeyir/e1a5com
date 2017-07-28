@@ -3,7 +3,7 @@ ID: 1158
 title: İnek sütünden yoğurt mayalama
 author: babam
 date: 2014-09-10 16:36:27
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/beslenmem/inek-sutunden-yogurt-mayalama/

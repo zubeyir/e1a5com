@@ -3,7 +3,7 @@ ID: 3320
 title: 'İki yaşındayım &#8211; Murat'
 author: babam
 date: 2015-09-20 04:43:43
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/oyunlarim-ve-oyuncaklarim/iki-yasindayim-murat/

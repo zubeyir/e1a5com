@@ -3,7 +3,7 @@ ID: 889
 title: 8 aylık oldum
 author: babam
 date: 2014-05-04 22:14:15
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/8-aylik-oldum/
 published: true

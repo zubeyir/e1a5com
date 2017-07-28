@@ -3,7 +3,7 @@ ID: 3249
 title: Cansu bebeği ziyarete gittik
 author: babam
 date: 2015-04-12 22:12:08
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/1-yas/cansu-bebegi-ziyarete-gittik/

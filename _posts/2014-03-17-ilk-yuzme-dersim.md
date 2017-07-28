@@ -3,7 +3,7 @@ ID: 746
 title: İlk yüzme dersim
 author: babam
 date: 2014-03-17 14:25:58
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/ilk-yuzme-dersim/
 published: true

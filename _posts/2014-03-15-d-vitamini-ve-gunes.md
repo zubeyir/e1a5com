@@ -3,7 +3,7 @@ ID: 722
 title: D vitamini ve güneş
 author: babam
 date: 2014-03-15 22:18:40
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/d-vitamini-ve-gunes/

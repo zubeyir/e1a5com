@@ -3,7 +3,7 @@ ID: 890
 title: 'Blender bebeği olmayacağız &#8211; Pütürlü gıdalarla besleniyorum'
 author: annem
 date: 2014-05-04 22:16:10
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/blender-bebegi-olmayacagiz-puturlu-gidalarla-besleniyorum/

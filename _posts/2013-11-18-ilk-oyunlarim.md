@@ -3,7 +3,7 @@ ID: 306
 title: İlk oyunlarım
 author: annem
 date: 2013-11-18 09:56:22
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/ilk-oyunlarim/
 published: true

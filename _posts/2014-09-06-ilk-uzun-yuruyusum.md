@@ -3,7 +3,7 @@ ID: 1125
 title: İlk uzun yürüyüşüm
 author: babam
 date: 2014-09-06 20:20:33
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/gezilerim/ilk-uzun-yuruyusum/

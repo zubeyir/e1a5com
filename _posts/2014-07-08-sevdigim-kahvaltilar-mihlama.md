@@ -3,7 +3,7 @@ ID: 1043
 title: 'Sevdiğim kahvaltılar &#8211; Mıhlama'
 author: annem
 date: 2014-07-08 08:28:26
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/sevdigim-kahvaltilar-mihlama/

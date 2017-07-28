@@ -3,7 +3,7 @@ ID: 3203
 title: 'İlk bisikletim &#8211; denge bisikleti ile bisiklet kullanma'
 author: babam
 date: 2015-02-22 21:05:53
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/oyunlarim-ve-oyuncaklarim/ilk-bisikletim-denge-bisikleti-ile-bisiklet-kullanma/

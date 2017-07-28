@@ -3,7 +3,7 @@ ID: 3181
 title: Kardeş geliyor!
 author: babam
 date: 2014-12-13 21:36:27
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/beslenmem/kardes-geliyor/

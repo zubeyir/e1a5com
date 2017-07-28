@@ -3,7 +3,7 @@ ID: 743
 title: 'Masadaki yerimi aldım &#8211; Nuna Zaaz mama sandalyesi'
 author: annem
 date: 2014-03-24 16:07:12
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/masadaki-yerimi-aldim-nuna-zaaz-mama-sandalyesi/

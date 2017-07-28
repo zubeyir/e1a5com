@@ -3,7 +3,7 @@ ID: 802
 title: 'Babamın ekmekleri &#8211; evde ekmek yapımı'
 author: babam
 date: 2014-03-31 01:17:04
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/babamin-ekmekleri-evde-ekmek-yapimi/

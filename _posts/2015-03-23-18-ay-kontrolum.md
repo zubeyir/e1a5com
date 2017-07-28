@@ -3,7 +3,7 @@ ID: 3256
 title: 18. ay kontrolüm
 author: babam
 date: 2015-03-23 22:49:16
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/1-yas/18-ay-kontrolum/
 published: true

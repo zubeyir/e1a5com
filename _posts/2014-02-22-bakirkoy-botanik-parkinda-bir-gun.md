@@ -3,7 +3,7 @@ ID: 522
 title: 'Bakırköy Botanik Parkı&#8217;nda bir gün'
 author: annem
 date: 2014-02-22 09:48:38
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/bakirkoy-botanik-parkinda-bir-gun/

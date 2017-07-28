@@ -3,7 +3,7 @@ ID: 3236
 title: 'Kardeşim 20 haftalık oldu &#8211; ayrıntılı ultrason muayenesi'
 author: babam
 date: 2015-04-01 20:02:46
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/eksi-1-yas/kardesim-20-haftalik-ayrintili-ultrason-muayenesi/

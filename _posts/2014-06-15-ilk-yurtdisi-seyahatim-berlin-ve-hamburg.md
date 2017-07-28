@@ -3,7 +3,7 @@ ID: 1012
 title: 'İlk yurtdışı seyahatim &#8211; Berlin ve Hamburg'
 author: babam
 date: 2014-06-15 21:17:18
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ilk-yurtdisi-seyahatim-berlin-ve-hamburg/

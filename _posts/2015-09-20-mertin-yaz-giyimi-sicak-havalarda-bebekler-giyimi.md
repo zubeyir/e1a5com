@@ -3,7 +3,7 @@ ID: 3306
 title: 'Mert&#8217;in yaz giyimi &#8211; Sıcak havalarda bebek giyimi'
 author: babam
 date: 2015-09-20 03:26:14
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/mertin-yaz-giyimi-sicak-havalarda-bebekler-giyimi/

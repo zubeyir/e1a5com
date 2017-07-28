@@ -3,7 +3,7 @@ ID: 678
 title: 6. ay kontrolüm
 author: babam
 date: 2014-03-05 00:35:59
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/6-ay-kontrolum/
 published: true

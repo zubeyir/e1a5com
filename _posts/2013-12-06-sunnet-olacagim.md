@@ -3,7 +3,7 @@ ID: 363
 title: Sünnet olacağım
 author: babam
 date: 2013-12-06 21:44:22
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/sunnet-olacagim/
 published: true

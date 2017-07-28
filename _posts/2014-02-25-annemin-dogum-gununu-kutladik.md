@@ -3,7 +3,7 @@ ID: 516
 title: Annemin doğum gününü kutladık
 author: annem
 date: 2014-02-25 00:50:53
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/annemin-dogum-gununu-kutladik/

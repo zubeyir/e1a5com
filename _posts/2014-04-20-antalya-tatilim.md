@@ -3,7 +3,7 @@ ID: 912
 title: İlk baharım ve Antalya tatilim
 author: babam
 date: 2014-04-20 22:48:36
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/antalya-tatilim/
 published: true

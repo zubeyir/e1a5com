@@ -3,7 +3,7 @@ ID: 374
 title: Kullandığımız ürünler
 author: annem
 date: 2013-12-15 14:07:51
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/kullandigimiz-urunler/

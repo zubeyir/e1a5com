@@ -3,7 +3,7 @@ ID: 519
 title: İlk dişimi çıkardım
 author: annem
 date: 2014-02-20 21:21:59
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ilk-disimi-cikardim/

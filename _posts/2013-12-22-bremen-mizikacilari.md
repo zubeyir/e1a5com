@@ -3,7 +3,7 @@ ID: 469
 title: Bremen mızıkacıları
 author: babam
 date: 2013-12-22 17:17:00
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/bremen-mizikacilari/

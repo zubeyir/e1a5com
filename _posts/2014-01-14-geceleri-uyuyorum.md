@@ -3,7 +3,7 @@ ID: 493
 title: Geceleri uyuyorum
 author: annem
 date: 2014-01-14 12:14:21
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/geceleri-uyuyorum/
 published: true

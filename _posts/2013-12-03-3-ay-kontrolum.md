@@ -3,7 +3,7 @@ ID: 336
 title: 3. ay kontrolüm
 author: babam
 date: 2013-12-03 21:43:48
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/3-ay-kontrolum/
 published: true

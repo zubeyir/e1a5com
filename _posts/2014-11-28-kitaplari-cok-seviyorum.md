@@ -3,7 +3,7 @@ ID: 1356
 title: Kitapları çok seviyorum
 author: annem
 date: 2014-11-28 12:34:14
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/oyunlarim-ve-oyuncaklarim/kitaplari-cok-seviyorum/

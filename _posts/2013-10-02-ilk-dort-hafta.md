@@ -1,25 +1,15 @@
 ---
-ID: 200
 title: İlk dört hafta
 author: babam
 date: 2013-10-02 12:53:55
-category: ""
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/ilk-dort-hafta/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-soseredbviewedpostscache:
-  - '<div class="sosere-recommendation entry-utility"><legend>İlgili yazılar</legend><ul class="sosere-recommendation"><li class="sosere-recommendation-thumbs" style="width:150px;"><a href="http://e1a5.com/0-yas/herseyin-tadina-bakiyorum-ek-gidalara-gecis-takvimi/"><img src="http://e1a5.com/wp-content/uploads/2014/03/havuc.jpg" alt="Herşeyin tadına bakıyorum - Ek gıdalara geçiş takvimi" title="Herşeyin tadına bakıyorum - Ek gıdalara geçiş takvimi" style="width:150px; height: 150px;"/></a></li><li class="sosere-recommendation-thumbs" style="width:150px;"><a href="http://e1a5.com/0-yas/yalniz-yolculuk/"><img src="http://e1a5.com/wp-content/uploads/2014/03/bebek_sahil.jpg" alt="Yalnız yolculuk" title="Yalnız yolculuk" style="width:150px; height: 150px;"/></a></li><li class="sosere-recommendation-thumbs" style="width:150px;"><a href="http://e1a5.com/jumbo/bremen-mizikacilari/"><img src="http://e1a5.com/wp-content/uploads/2014/01/mizikacilar.jpg" alt="Bremen mızıkacıları" title="Bremen mızıkacıları" style="width:150px; height: 150px;"/></a></li></ul></div>'
-soseredbviewedpostscachedate:
-  - "1396297835"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3915161759"
+tag: gelişim
+disqus_thread: 3915161759
 ---
+
 Vay be! zaman ne kadar çabuk geçiyor. Şimdiden dört haftalık oldum. Yenidoğan dönemim bitmiş olsa da daha yolun başındayım.
 
 Doğumdan sonraki gün hastaneden çıktım. Üç gün sonra ise ilk kontrolüme gittim. Sarılığım yoktu. Doğumsal bazı hastalıkları taramak için kan aldılar. İki hafta sonra doktorum aradı ve herşeyin normal olduğunu söyledi.

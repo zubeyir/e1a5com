@@ -3,7 +3,7 @@ ID: 3258
 title: Deniz sezonunu açtım
 author: babam
 date: 2015-04-18 23:25:09
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/gezilerim/deniz-sezonunu-actim/

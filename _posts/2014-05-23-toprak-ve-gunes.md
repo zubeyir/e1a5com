@@ -3,7 +3,7 @@ ID: 968
 title: Toprak ve güneş
 author: babam
 date: 2014-05-23 01:06:49
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/toprak-ve-gunes/
 published: true

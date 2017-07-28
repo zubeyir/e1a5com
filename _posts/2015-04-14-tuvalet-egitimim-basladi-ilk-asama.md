@@ -3,7 +3,7 @@ ID: 3234
 title: 'Tuvalet eğitimim başladı &#8211; ilk aşama'
 author: babam
 date: 2015-04-14 23:52:35
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/yazilar/tuvalet-egitimim-basladi-ilk-asama/

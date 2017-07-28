@@ -3,7 +3,7 @@ ID: 3183
 title: Babamla şehre indik
 author: babam
 date: 2014-12-20 21:51:40
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/gezilerim/babamla-sehre-indik/

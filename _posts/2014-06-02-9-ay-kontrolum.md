@@ -3,7 +3,7 @@ ID: 999
 title: 9. ay kontrolüm
 author: babam
 date: 2014-06-02 23:48:57
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/9-ay-kontrolum/
 published: true

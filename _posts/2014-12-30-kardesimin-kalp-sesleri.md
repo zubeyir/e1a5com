@@ -3,7 +3,7 @@ ID: 3193
 title: Kardeşimin kalp sesleri
 author: babam
 date: 2014-12-30 22:26:21
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/eksi-1-yas/kardesimin-kalp-sesleri/

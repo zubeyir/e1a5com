@@ -3,7 +3,7 @@ ID: 940
 title: Sevgili Annecim
 author: babam
 date: 2014-05-11 23:34:39
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/sevgili-annecim/
 published: true

@@ -3,7 +3,7 @@ ID: 637
 title: 'Yeni koltuğum &#8211; Summer infant super seat'
 author: annem
 date: 2014-02-28 23:23:07
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/yeni-koltugum-summer-infant-super-seat/

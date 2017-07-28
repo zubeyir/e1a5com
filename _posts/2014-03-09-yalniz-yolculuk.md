@@ -3,7 +3,7 @@ ID: 696
 title: Yalnız yolculuk
 author: babam
 date: 2014-03-09 00:03:23
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/yalniz-yolculuk/
 published: true

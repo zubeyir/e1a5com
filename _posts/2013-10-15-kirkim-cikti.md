@@ -1,22 +1,17 @@
 ---
-ID: 228
 title: Kırkım çıktı!
 author: babam
 date: 2013-10-15 23:17:02
-category: ""
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/kirkim-cikti/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3829522530"
+tag: gelişim
+disqus_thread: 3829522530
 ---
-[caption id="attachment_272" align="alignleft" width="473"]<a href="http://e1a5.com/wp-content/uploads/2013/10/kirk.jpg"><img class=" wp-image-272 " alt="Yaşasın kırkım çıktı! Artık özgürüm :)" src="http://e1a5.com/wp-content/uploads/2013/10/kirk.jpg" width="473" height="331" /></a> Yaşasın kırkım çıktı! Artık özgürüm :)[/caption]
+
+![Yaşasın kırkım çıktı! Artık özgürüm :)](/img/posts/kirk.jpg)
+*Yaşasın kırkım çıktı! Artık özgürüm :)*
 
 Beklenen gün geldi ve kırkım çıktı. Artık 40 gün yaşındayım.
 
@@ -31,11 +26,3 @@ Bugünlerde etrafıma daha fazla ilgi gösteriyorum. Çok kontrollü olmasa da a
 Sesler çıkarmaya başladım. Altım temiz ve karnım tok olduğunda guuu, aguuuuu gibi neşeli sesler çıkarıyorum. Meme vermeyi geciktirdiklerinde sinirli sinirli homurdanabiliyorum.
 
 Siz neler yapıyorsunuz?
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

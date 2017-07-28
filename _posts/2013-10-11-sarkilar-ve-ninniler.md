@@ -1,23 +1,16 @@
 ---
-ID: 212
 title: Şarkılar ve ninniler
 author: babam
 date: 2013-10-11 20:34:07
-category: ""
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/sarkilar-ve-ninniler/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3832348326"
+tag: uyku
+disqus_thread: 3832348326
 ---
-Uyanık olduğumda kendi kendime pek oyalanamıyorum. Zaten uyanmışsam ya karnım açtır ya da gazım vardır. Uyanık olduğum süre uzamış ise annem ve babam benimle konuşarak iletişim kurmaya çalışıyorlar, ben de onları biraz biraz ayırt etmeye başladım. Onların sesi beni rahatlatıyor. Babam da saçma şarkılar uydurmakta kendini aşmaya başladı. Annem ise şarkılarını yalnız kaldığımız zamanlara saklıyor.
+
+Uyanık olduğumda kendi kendime pek oyalanamıyorum. Zaten uyanmışsam ya karnım açtır ya da gazım vardır. Uyanık olduğum süre uzamış ise annem ve babam benimle konuşarak iletişim kurmaya çalışıyorlar, ben de onları biraz biraz ayırt etmeye başladım. Onların sesi beni rahatlatıyor. Babam da saçma şarkılar uydurmakta kendini aşmaya başladı. Annem ise şarkılarını yalnız kaldığımız zamanlara saklıyor.
 
 Gündüzleri uyuduğum için genellikle akşamları daha aktifim. Gece ve gündüzü ayırt etmem biraz daha zaman alacakmış ve üç ay kadar sürebilirmiş. Bu vakitlerde biraz da huzursuz oluyorum. Tekrar uykuya dalmam zorlaşıyor ve bizimkilerin numaraları bana iki gün arka arkaya sökmüyor :)
 

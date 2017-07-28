@@ -3,7 +3,7 @@ ID: 1350
 title: Sabah yürüyüşlerim
 author: annem
 date: 2014-11-28 11:51:23
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/gezilerim/sabah-yuruyuslerim/

@@ -3,7 +3,7 @@ ID: 739
 title: İlk hamam keyfim
 author: babam
 date: 2014-03-16 21:57:09
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/ilk-hamam-keyfim/
 published: true

@@ -3,7 +3,7 @@ ID: 206
 title: 'Uykusuz geceler: Gaz sancılarım'
 author: annem
 date: 2013-10-04 20:46:14
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/uykusuz-geceler-gaz-sancilarim/

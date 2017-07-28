@@ -3,7 +3,7 @@ ID: 368
 title: Ucundan accık gitti
 author: babam
 date: 2013-12-09 23:15:24
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ucundan-accik-gitti/

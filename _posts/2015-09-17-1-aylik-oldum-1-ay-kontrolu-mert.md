@@ -3,7 +3,7 @@ ID: 3335
 title: '1 aylık oldum – 1. ay kontrolü &#8211; Mert'
 author: babam
 date: 2015-09-17 05:10:58
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/1-aylik-oldum-1-ay-kontrolu-mert/

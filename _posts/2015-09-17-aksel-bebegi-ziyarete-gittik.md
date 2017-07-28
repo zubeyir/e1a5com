@@ -3,7 +3,7 @@ ID: 3341
 title: Aksel bebeği ziyarete gittik
 author: babam
 date: 2015-09-17 21:45:35
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/aksel-bebegi-ziyarete-gittik/

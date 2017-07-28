@@ -3,7 +3,7 @@ ID: 1104
 title: 'Bugün benim doğum günüm &#8211; bir yaşındayım'
 author: babam
 date: 2014-09-03 10:22:25
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/beslenmem/bugun-benim-dogum-gunum-bir-yasindayim/

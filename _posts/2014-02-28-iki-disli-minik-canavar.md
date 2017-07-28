@@ -3,7 +3,7 @@ ID: 635
 title: İki dişli minik canavar!
 author: babam
 date: 2014-02-28 23:17:57
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/iki-disli-minik-canavar/

@@ -3,7 +3,7 @@ ID: 858
 title: İlk uçak yolculuğum
 author: babam
 date: 2014-04-15 21:40:24
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ilk-ucak-yolculugum/

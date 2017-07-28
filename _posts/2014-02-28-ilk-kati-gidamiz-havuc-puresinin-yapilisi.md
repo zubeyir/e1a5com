@@ -5,7 +5,7 @@ title: >
   yapılışı
 author: annem
 date: 2014-02-28 23:50:07
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ilk-kati-gidamiz-havuc-puresinin-yapilisi/

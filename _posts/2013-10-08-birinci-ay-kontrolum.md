@@ -3,7 +3,7 @@ ID: 210
 title: Birinci ay kontrolüm
 author: babam
 date: 2013-10-08 20:32:34
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/birinci-ay-kontrolum/

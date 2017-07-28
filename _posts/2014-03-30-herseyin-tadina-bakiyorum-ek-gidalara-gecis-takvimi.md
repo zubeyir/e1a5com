@@ -3,7 +3,7 @@ ID: 783
 title: 'Herşeyin tadına bakıyorum &#8211; Ek gıdalara geçiş takvimim'
 author: babam
 date: 2014-03-30 12:29:35
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/herseyin-tadina-bakiyorum-ek-gidalara-gecis-takvimi/

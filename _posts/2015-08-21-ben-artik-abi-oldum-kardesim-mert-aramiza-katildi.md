@@ -3,7 +3,7 @@ ID: 3295
 title: 'Ben artık abi oldum &#8211; Kardeşim Mert aramıza katıldı'
 author: babam
 date: 2015-08-21 03:47:35
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ben-artik-abi-oldum-kardesim-mert-aramiza-katildi/

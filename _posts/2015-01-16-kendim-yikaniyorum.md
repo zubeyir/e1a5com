@@ -3,7 +3,7 @@ ID: 3188
 title: Kendim yıkanıyorum
 author: babam
 date: 2015-01-16 22:18:31
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/1-yas/kendim-yikaniyorum/

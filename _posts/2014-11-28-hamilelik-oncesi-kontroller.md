@@ -3,7 +3,7 @@ ID: 1406
 title: Hamilelik öncesi kontroller
 author: babam
 date: 2014-11-28 21:34:43
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/1-yas/hamilelik-oncesi-kontroller/

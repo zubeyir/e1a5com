@@ -3,7 +3,7 @@ ID: 671
 title: Büyüme eğrileri ve persantiller
 author: babam
 date: 2014-03-02 23:54:59
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/buyume-egrileri-ve-persantiller/

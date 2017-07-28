@@ -3,7 +3,7 @@ ID: 595
 title: '&#8220;Tekrarlı babıldama&#8221; evresindeyim'
 author: annem
 date: 2014-02-25 11:31:24
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/babildama-evresindeyim/

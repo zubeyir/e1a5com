@@ -3,7 +3,7 @@ ID: 3232
 title: '&#8220;Bunların hepsini unutacak olmamız ne kadar yazık&#8221; dedi annem!'
 author: babam
 date: 2015-04-14 23:34:21
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/yazilar/bunlarin-hepsini-unutacak-olmamiz-ne-kadar-yazik-dedi-annem/

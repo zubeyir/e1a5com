@@ -3,7 +3,7 @@ ID: 1081
 title: Evde salıncak keyfi
 author: babam
 date: 2014-09-07 00:42:05
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/oyunlarim-ve-oyuncaklarim/evde-salincak-keyfi/

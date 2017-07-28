@@ -3,7 +3,7 @@ ID: 643
 title: 5. ay kontrolüm
 author: babam
 date: 2014-02-05 00:04:31
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/5-ay-kontrolum/
 published: true

@@ -3,7 +3,7 @@ ID: 604
 title: 'Mamadan yoğurt mayalama &#8211; başarısız!'
 author: annem
 date: 2014-03-30 11:46:29
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/mamadan-yogurt-mayalama/

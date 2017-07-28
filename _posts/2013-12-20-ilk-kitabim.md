@@ -3,7 +3,7 @@ ID: 376
 title: İlk kitabım
 author: annem
 date: 2013-12-20 16:47:16
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/ilk-kitabim/
 published: true

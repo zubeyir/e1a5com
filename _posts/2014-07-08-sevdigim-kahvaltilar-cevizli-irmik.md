@@ -3,7 +3,7 @@ ID: 1049
 title: 'Sevdiğim kahvaltılar &#8211; Cevizli irmik'
 author: annem
 date: 2014-07-08 08:49:18
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/sevdigim-kahvaltilar-cevizli-irmik/

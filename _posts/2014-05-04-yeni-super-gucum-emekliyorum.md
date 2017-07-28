@@ -3,7 +3,7 @@ ID: 885
 title: 'Yeni süper gücüm &#8211; Emekliyorum'
 author: babam
 date: 2014-05-04 21:26:38
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/yeni-super-gucum-emekliyorum/

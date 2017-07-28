@@ -3,7 +3,7 @@ ID: 1369
 title: 'Yatağıma yatıyorum ve uyuyorum &#8211; kendi kendine uyuma'
 author: babam
 date: 2014-12-07 00:53:56
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/yazilar/yatagima-yatiyorum-ve-uyuyorum-kendi-kendine-uyuma/

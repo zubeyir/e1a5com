@@ -3,7 +3,7 @@ ID: 419
 title: Sünnetten sonra
 author: babam
 date: 2013-12-15 20:48:59
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/sunnetten-sonra/
 published: true

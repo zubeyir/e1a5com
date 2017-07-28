@@ -1,21 +1,16 @@
 ---
-ID: 226
-title: 'Maçka Parkı&#8217;nda yürüyüş'
+title: Maçka Parkında yürüyüş
 author: babam
 date: 2013-10-12 22:20:21
-category: ""
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/macka-parkinda-yuruyus/
+section-type: post 
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
+tag: gezi
 ---
-[caption id="attachment_259" align="alignleft" width="367"]<a href="http://e1a5.com/wp-content/uploads/2013/10/macka_parki.jpg"><img class=" wp-image-259 " alt="Güneşleniyorum" src="http://e1a5.com/wp-content/uploads/2013/10/macka_parki.jpg" width="367" height="490" /></a> Güneşleniyorum[/caption]
+
+![Güneşleniyorum](/img/posts/macka_parki.jpg)
+*Güneşleniyorum*
 
 Artık kış geliyor ve dışarı çıkmak zorlaşacak. Annem ve babam güneşi gördüklerinde fırsattan istifade beni yürüyüşe çıkarmaya çalışıyorlar.
 

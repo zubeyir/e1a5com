@@ -3,7 +3,7 @@ ID: 1077
 title: 'Savulunnnn &#8211; yürümeye başladım'
 author: babam
 date: 2014-08-14 22:57:20
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/savulunnnn-yurumeye-basladim/

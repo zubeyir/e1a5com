@@ -5,7 +5,7 @@ title: >
   :)
 author: annem
 date: 2013-12-02 11:40:02
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/dogum-gunun-kutlu-olsun-babacigim/

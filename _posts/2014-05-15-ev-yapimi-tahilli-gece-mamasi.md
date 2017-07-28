@@ -3,7 +3,7 @@ ID: 952
 title: Ev yapımı tahıllı gece maması
 author: annem
 date: 2014-05-15 20:52:50
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/0-yas/ev-yapimi-tahilli-gece-mamasi/

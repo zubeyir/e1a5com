@@ -3,7 +3,7 @@ ID: 1367
 title: 'Galiba bunu yapmamam gerekiyor &#8211; Hayır&#8217;ın gücü'
 author: babam
 date: 2014-12-06 23:14:49
-category: ""
+category:
 layout: post
 section-type: post >
   http://e1a5.com/yazilar/galiba-bunu-yapmamam-gerekiyor-hayirin-gucu/

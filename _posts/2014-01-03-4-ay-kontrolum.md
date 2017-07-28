@@ -3,7 +3,7 @@ ID: 478
 title: 4. ay kontrolüm
 author: babam
 date: 2014-01-03 20:12:30
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/4-ay-kontrolum/
 published: true

@@ -3,7 +3,7 @@ ID: 3346
 title: Kırkım çıktı – Mert
 author: babam
 date: 2015-09-25 05:52:02
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/kirkim-cikti-mert/
 published: true

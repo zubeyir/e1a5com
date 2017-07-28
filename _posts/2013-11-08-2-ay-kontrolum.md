@@ -3,7 +3,7 @@ ID: 329
 title: 2. ay kontrolüm
 author: babam
 date: 2013-11-08 20:59:43
-category: ""
+category:
 layout: post
 section-type: post http://e1a5.com/0-yas/2-ay-kontrolum/
 published: true
