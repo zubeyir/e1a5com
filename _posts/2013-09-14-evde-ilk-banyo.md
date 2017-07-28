@@ -1,28 +1,20 @@
 ---
-ID: 72
 title: Evde ilk banyo
 author: babam
 date: 2013-09-14 12:00:05
-category: ""
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/evde-ilk-banyo/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3836316180"
+tag: banyo
+disqus_thread: 3836316180
 ---
-[caption id="attachment_77" align="alignleft" width="614"]<a href="http://e1a5.com/wp-content/uploads/2013/09/IMG_9265.jpg"><img class=" wp-image-77       " style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 20px;" alt="murat 10 günlük" src="http://e1a5.com/wp-content/uploads/2013/09/IMG_9265-1024x528.jpg" width="614" height="317" /></a> Murat 10 günlük[/caption]
-
-&nbsp;
+![Murat 10 günlük][img/posts/2013/09/IMG_9265.jpg]
+*Murat 10 günlük*
 
 Murat bugün 10 günlük oldu.
 
-İlk banyosunu hastaneden çıkmadan önce hemşireler yaptırmıştı. İlk gün 2-3 saatte bir uyanıp emerken banyodan sonra 4 saat boyunca uyudu. Uyku bu kadar uzayınca uyandırıp emzirmek zorunda kaldık.
+İlk banyosunu hastaneden çıkmadan önce hemşireler yaptırmıştı. İlk gün 2-3 saatte bir uyanıp emerken banyodan sonra 4 saat boyunca uyudu. Uyku bu kadar uzayınca uyandırıp emzirmek zorunda kaldık.
 
 İlk banyosundan sonra aradan dokuz gün geçti. Hala çok temiz ve mis kokulu olsa da annesi yıkamak için sabırsızdı :) Fakat ilk banyo için göbeğin düşmesini bekledik. Oğlumuzun göbeği iki gün önce düştü. Göbek bakımına iki gün daha devam ettik ve bugün evde ilk banyosunu yaptırdık.
 
@@ -48,8 +40,4 @@ Bebe şampuanı ve yağı olarak Lavera'nın ürünlerini kullandık. Bebeğiniz
 
 Siz de ilk banyo tecrübelerinizi, kullandığınız ürünleri ve yıkama yöntemlerinizi bizimle paylaşabilirsiniz.
 
-&nbsp;
-
-Babycenter'da ilk banyo ile ilgili videoyu bu linkten izleyebilirsiniz: <a href="http://link.brightcove.com/services/player/bcpid979142054001?bckey=AQ~~,AAAAAFwqW98~,-OCIO8uI7qS79uFikCyhoR5M_RKuFkH6&amp;bctid=1562737971">ilk banyo</a>
-
-&nbsp;
+Babycenter'da ilk banyo ile ilgili videoyu bu linkten izleyebilirsiniz: ![ilk banyo](http://link.brightcove.com/services/player/bcpid979142054001?bckey=AQ~~,AAAAAFwqW98~,-OCIO8uI7qS79uFikCyhoR5M_RKuFkH6&amp;bctid=1562737971){:target="_blank"}
