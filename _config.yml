@@ -56,9 +56,9 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 5
-start-delay: 1000
-delete-delay: 10000
+type-speed: 4
+start-delay: 200
+delete-delay: 1000
 lines: # You can add HTML Tags in the Text
   - text: "Peki benim param neye yetiyor!"
   - text: "Bu yüzden ..."
@@ -92,7 +92,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: False
+enable-gesture-navigation: True
 
 post-preview-words: 96
 

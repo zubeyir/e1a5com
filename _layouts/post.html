@@ -18,7 +18,24 @@
 
           <h1><strong>{{ page.title }}</strong></h1>
           <h4>
-            <strong>{{ page.date | date_to_string }}</strong>
+            <strong> {% assign m = page.date | date: '%-m' %}
+            {% case m %}
+               {% when '1' %}Ocak
+               {% when '2' %}Şubat
+               {% when '3' %}Mart
+               {% when '4' %}Nisan
+               {% when '5' %}Mayıs
+               {% when '6' %}Haziran
+               {% when '7' %}Temmuz
+               {% when '8' %}Ağustos
+               {% when '9' %}Eylül
+               {% when '10' %}Ekim
+               {% when '11' %}Kasım
+               {% when '12' %}Aralık
+            {% endcase %} 
+            {{ page.date | date: '%d, %Y' }}
+            </strong>    
+
             <small>
               . category:
               <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
@@ -38,10 +55,25 @@
 
           {% include share.html %}
 
+          <div class="pagination">
+            <h4>
+            {% if page.previous.url %}
+                <a href="{{page.previous.url}}" class="previous">&laquo; {{page.previous.title}}</a>
+            {% endif %}
+              
+            {% if page.previous.url and page.next.url %}
+              |
+            {% endif %}
+              
+            {% if page.next.url %}
+                <a href="{{page.next.url}}" class="next">{{page.next.title}} &raquo;</a>
+            {% endif %}
+            </h4>
+          </div>        
+          
           {% if jekyll.environment == "production" %}
             {% include comments.html %}
-          {% endif %}
-
+          {% endif %}    
 
           <hr />
 
