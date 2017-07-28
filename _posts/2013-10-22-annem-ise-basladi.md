@@ -21,4 +21,4 @@ Akşam üzeri babam ile dışarı çıkıp biraz yürüyüş yaptık. Annemin s�
 
 Berna teyzeye kendimi sevdirdikten sonra evimize döndük.
 
-Annemin ilk iş gününde bizimkiler beni idare etmeyi başardı.s
+Annemin ilk iş gününde bizimkiler beni idare etmeyi başardı.

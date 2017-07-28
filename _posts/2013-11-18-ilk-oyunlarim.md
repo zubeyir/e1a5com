@@ -29,5 +29,5 @@ Siz de oyunlarınızı bize yazın. Bu konuda daha ayrıntılı bilgi isterseniz
 
 Sevgilerimle
 
-[Playing with babies](http://www.zerotothree.org/child-development/play/playing-with-babies.html)
+[Playing with babies](http://www.zerotothree.org/child-development/play/playing-with-babies.html) | 
 [Development boosting games](http://www.babycenter.com/0_20-fun-silly-development-boosting-games-to-play-with-your-ba_1479310.bc)

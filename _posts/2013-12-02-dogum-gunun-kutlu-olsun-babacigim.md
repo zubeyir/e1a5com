@@ -10,7 +10,7 @@ tag: aile
 disqus_thread: 3829522462
 
 ---
-![Babamla](/065.jpg)
+![Babamla](/img/posts//065.jpg)
 *Babamla*
 
 27 Kasım babamın doğum günü. Aslında daha önce yazmalıydım ama süttü, oyundu, gezmeydi derken vakit bulamadım.

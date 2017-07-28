@@ -59,8 +59,6 @@ Annem daha önce bebeği olan arkadaşlarından başlangıçta yapılan yanlış
 ![Cybex MyGo taşıyıcı](/img/posts/IMG_9332.jpg)
 *Cybex MyGo taşıyıcı*
 
-&nbsp;
-
 <strong>Taşıyıcı: </strong>Anne babam bu konuyu biraz abarttılar. Hem Cybex (My Go) taşıyıcı aldılar, hem de Almanya’dan Amazonas taşıyıcı (5 metrelik uzun bir kumaş, farklı bağlama şekilleri var) getirttiler. Ancak ben biraz tombiş bir bebek olduğumdan kısa sürede beni ana kucağıma taktıkları alt parçasıyla bebek arabasında taşımaya başladılar. Ancak Amazonias’ı araba kullanılamayacak yerlerde halen kullanıyoruz. Ayrıca onunla çok tatlı oluyorum.
 
 <strong>Emzirme önlüğü: </strong> Markasını hatırlayamadık. Ancak piyasada böyle birkaç ürün var. Herhangi biri iş görür. Emzirme önlüğünüzü gittiğiniz her yere taşıyarak her ortamda bebeğinizin karnını doyurabilirsiniz.
