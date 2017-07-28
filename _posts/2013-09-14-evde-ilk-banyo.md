@@ -41,4 +41,4 @@ Bebe şampuanı ve yağı olarak Lavera'nın ürünlerini kullandık. Bebeğiniz
 Siz de ilk banyo tecrübelerinizi, kullandığınız ürünleri ve yıkama yöntemlerinizi bizimle paylaşabilirsiniz.
 
 Babycenter'da ilk banyo ile ilgili videoyu bu linkten izleyebilirsiniz: 
-![ilk banyo](http://link.brightcove.com/services/player/bcpid979142054001?bckey=AQ~~,AAAAAFwqW98~,-OCIO8uI7qS79uFikCyhoR5M_RKuFkH6&amp;bctid=1562737971)
+[ilk banyo!](http://link.brightcove.com/services/player/bcpid979142054001?bckey=AQ~~,AAAAAFwqW98~,-OCIO8uI7qS79uFikCyhoR5M_RKuFkH6&amp;bctid=1562737971)
