@@ -9,7 +9,7 @@ published: true
 tag: banyo
 disqus_thread: 3836316180
 ---
-![Murat 10 günlük](img/posts/IMG_9265.jpg)
+![Murat 10 günlük](/img/posts/IMG_9265.jpg)
 *Murat 10 günlük*
 
 Murat bugün 10 günlük oldu.
