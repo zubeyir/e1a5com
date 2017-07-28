@@ -10,10 +10,8 @@ tag: uyku
 disqus_thread: 3915164835
 ---
 
-'[Gündüz uykusundayım](/uykucu.jpg)
+'[Gündüz uykusundayım](/img/posts/uykucu.jpg)
 *Gündüz uykusundayım*
-
-&nbsp;
 
 Sevgili amcalarım ve teyzelerim,
 

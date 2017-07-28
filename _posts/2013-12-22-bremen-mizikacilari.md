@@ -1,19 +1,16 @@
 ---
-ID: 469
 title: Bremen mızıkacıları
 author: babam
 date: 2013-12-22 17:17:00
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/bremen-mizikacilari/
+section-type: post
 published: true
-tag:
-  - ""
-post_slider_check_key:
-  - "0"
+tag: kedi
 ---
-[caption id="attachment_470" align="alignleft" width="283"]<a href="http://e1a5.com/wp-content/uploads/2014/01/mizikacilar.jpg"><img class=" wp-image-470 " title="Bremen Mızıkacıları" alt="Bremen Mızıkacıları" src="http://e1a5.com/wp-content/uploads/2014/01/mizikacilar.jpg" width="283" height="376" /></a> Bremen Mızıkacıları[/caption]
+
+![Bremen Mızıkacıları](/img/posts/mizikacilar.jpg)
+*Bremen Mızıkacıları*
 
 Artık etrafımda olanları fark etmeye ve takip etmeye başladım. Bunlardan birisi de Jumbo abim. Önceden halıların renginde olan Jumbo'yu pek fark etmiyordum. Şimdi hareket ettiğinde merak ile onu takip ediyorum. Oturuyor, tüylerini yalıyor, evin içerisinde geziniyor. Bazen gelip yanıma kıvrılıyor.
 
