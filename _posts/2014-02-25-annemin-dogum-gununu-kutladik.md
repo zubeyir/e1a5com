@@ -10,7 +10,7 @@ tag: aile
 disqus_thread: 3918331686
 ---
 
-![Üçü bir arada](/imgs/posts/annemin-dogum-gunu.jpg)
+![Üçü bir arada](/img/posts/annemin-dogum-gunu.jpg)
 *Üçü bir arada*
 
 Pazar annemin doğum günüydü. Babamın organizasyonuyla pazar sabah yola çıkarak Sapanca'daki <a href="http://www.booking.com/hotel/tr/gural-sapanca-wellness-park.html?aid=383020" target="_blank">Güral Otel</a>'e gittik. <a href="http://www.booking.com/searchresults.html?city=-769098;aid=383020" target="_blank">Sapanca</a> doğası ve yakınlığıyla anne ve babamın sevdiği mekanlardan biri. Otelimize yerleştikten sonra havuz bölümüne indik. Burası iki kısımdan oluşuyor. Bir tarafta çocukların da içeri kabul edildiği ve bir tarafı sığ olan bir havuz var. Diğer tarafta ise 14 yaş üstü çocukların kabul edildiği spa bölümü.

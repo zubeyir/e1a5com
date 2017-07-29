@@ -1,5 +1,5 @@
 ---
-title: Yeni koltuğum: Summer infant super seat
+title: Yeni koltuğum - Summer infant super seat
 author: annem
 date: 2014-02-28 23:23:07
 category: sıfır
