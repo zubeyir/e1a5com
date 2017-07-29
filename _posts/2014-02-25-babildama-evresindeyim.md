@@ -6,7 +6,7 @@ category: sıfır
 layout: post
 section-type: post
 published: true
-tag: galişim
+tag: gelişim
 disqus_thread: 3830067489
 ---
 
@@ -17,7 +17,8 @@ Son birkaç haftadır ciddi ciddi konuşmaya başladım. Elbette bu konuşma siz
 
 Şu anda bulunduğum evreye "tekrarlı babıldama" evresi (reduplicated babbling) deniyor. Bebekler bu evrede bir ünsüz ve bir ünlü sesten oluşan heceyi oluşturup ardı ardınca tekrarlıyorlar. İlk ses olan ünsüz genelde bir çift dudak sesi (b, p, m gibi - yani üst ve alt dudağın birleştirilmesiyle çıkan sesler) oluyor. Bunların seslerin ilk çıkmalarının nedeni fizyolojik olarak üretilmelerinin kolay olması. Elbette /baba/ derken bu söylediğimin babamla bir ilgisi olduğuna dair henüz en ufak bir fikrim yok.
 
-<iframe src="//www.youtube.com/embed/sagC6J9DaFU" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen">Baba Murat</iframe>
+<iframe src="//www.youtube.com/embed/sagC6J9DaFU" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+*Baba Murat*
 
 Bunun oluşması için 1 yaşıma ulaşmam gerekiyor. Bebeğiniz yaklaşık 6 ay dolaylarında hiç babıldamıyor, ses üretimi yapmıyorsa işitmeyle ilgili bir sorunun varlığından şüphelenmek gerekiyor. Bildiğimiz kadarıyla artık her bebeğe doğumdan sonra işitme testi yapılması mecburi. Biz de işitme testimizi doğumdan sonraki 10. günde yaptırdık. Ancak bir nedenle işitme testi yapılmadıysa ve ses üretimi yoksa bunu doktorunuzla mutlaka paylaşın ve test yaptırın.
 
