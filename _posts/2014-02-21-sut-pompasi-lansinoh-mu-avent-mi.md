@@ -1,23 +1,17 @@
 ---
-ID: 514
 title: Süt pompası ! Lansinoh mu Avent mi?
 author: annem
 date: 2014-02-21 20:53:38
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/sut-pompasi-lansinoh-mu-avent-mi/
+section-type: post
 published: true
 tag:
-  - ""
-post_slider_check_key:
-  - "0"
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3833772089"
+disqus_thread: 3833772089
 ---
-[caption id="attachment_517" align="aligncenter" width="280"]<img class="wp-image-517 size-full" src="http://e1a5.com/wp-content/uploads/2014/02/lansinoh-elektrikli-ciftli-1-main.jpg" alt="süt pompası lansinoh avent" width="280" height="280" /> Lansinoh affinity süt pompası[/caption]
+
+![Lansinoh affinity süt pompası](/lansinoh-elektrikli-ciftli-1-main.jpg)
+*Lansinoh affinity süt pompası*
 
 Daha önce kullandığımız ürünler sayfasında Avent marka süt pompası kullandığımızdan bahsetmiştik. Ancak annem bu pompanın zaman zaman sütü çıkarmakta başarısız kaldığını hissettiğinden ve süt sağma bizim hayatımızda önemli bir yer teşkil ettiğinden bir süt pompası daha alıp denemeye karar verdik ve bir adet Lansinoh (Affinity) pompa edindik.
 
@@ -30,7 +24,3 @@ Süt pompası aldığınızda sütü nasıl depolayacağınıza da karar vermeni
 Ancak, fazla miktarda süt depolayacaksanız kaplar pratik bir çözüm olmaktan çıkıyor. Süt torbaları hem daha az yer kaplıyor hem daha hesaplı. Hangi pompa olursa olsun, pompanın kendi haznesine sütü sağdıktan sonra sütü bu torbalara aktarıp saklayabilirsiniz. Sütü torbaya aktarırken torbanın içine ve ağız kısımlarına sterilliğini bozmamak için temas etmeyin. Sütü kullanacağınız zaman torbanın ağzını kapatma fermuarının altından keserek sütü boşaltın. Böylece torbanın dışarıya açık bölümlerine süt temas etmemiş olur. Ayrıca, sağdığınız sütlerin üstüne tarih yazmayı unutmayın. Bazen bir torba kıyıda köşede kalıp gözden kaçabiliyor.
 
 Sonuç olarak, yeni pompa alacaklara Avent yerine Lansinoh'u tavsiye ediyoruz. Üstelik bir diğer güzel tarafı tam yarı fiyatı olması. Ancak, süt miktarı hakkında gerçekçi olmayı unutmamak gerekiyor. Hiçbir pompa olmayan bir sütü çıkartamaz.
-
-&nbsp;
-
-&nbsp;

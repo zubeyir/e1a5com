@@ -1,5 +1,5 @@
 ---
-title: 'Uykusuz geceler: Gaz sancılarım'
+title: Uykusuz geceler: Gaz sancılarım
 author: annem
 date: 2013-10-04 20:46:14
 category: sıfır
@@ -10,7 +10,7 @@ tag: uyku
 disqus_thread: 3915164835
 ---
 
-'[Gündüz uykusundayım](/img/posts/uykucu.jpg)
+![Gündüz uykusundayım](/img/posts/uykucu.jpg)
 *Gündüz uykusundayım*
 
 Sevgili amcalarım ve teyzelerim,

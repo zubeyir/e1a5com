@@ -1,18 +1,16 @@
 ---
-ID: 643
 title: 5. ay kontrolüm
 author: babam
 date: 2014-02-05 00:04:31
-category:
+category: sıfır
 layout: post
-section-type: post http://e1a5.com/0-yas/5-ay-kontrolum/
+section-type: post
 published: true
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3946879523"
+disqus_thread: 3946879523
 ---
-[caption id="attachment_651" align="aligncenter" width="230"]<a href="http://e1a5.com/wp-content/uploads/2014/03/sutum_nerede.jpg"><img class="   wp-image-651" src="http://e1a5.com/wp-content/uploads/2014/03/sutum_nerede.jpg" alt="Sütüm nerede benim!!!" width="230" height="307" /></a> Sütüm nerede benim!!![/caption]
+
+![Sütüm nerede benim!!!*](/img/posts/sutum_nerede.jpg)
+*Sütüm nerede benim!!!*
 
 Beşinci ay kontrolüm olaysız geçti. Bu sefer babam çalıştığı için kontrole annem ve anneanemle gittik.
 
@@ -20,9 +18,9 @@ Bu ay rutin aşılarım yoktu. Rotavirüs aşısının ikinci dozu yapıldı. Bu
 
 Boyum ve kilom persantil eğrimi takip ederek artmaya devam ediyor. İlk aylara göre büyüme hızımda bir azalma var. Bu normal bir durum.
 
-Gelişimim normal devam ettiği için ek gıdaya 6. ayda geçeceğim. Doktorum ek gıdalara nasıl geçeceğimizi uzun uzun anlattı ve bize bir plan verdi. Plana göre ek gıdalara 5 haftalık bir süreçte yavaş yavaş geçeceğim. İlk hafta sabahları (10.00-11.00) sebze püresi ile başlayacağım. İlk tadacağım sebze ise havuç olacak. Aslında temel prensip her seferinde menüye yalnızca bir tane yeni gıda eklemek. İki gün boyunca herhangi bir allerjik durum ortaya çıkmamışsa yeni bir tane daha eklenebilirmiş.
+Gelişimim normal devam ettiği için ek gıdaya 6. ayda geçeceğim. Doktorum ek gıdalara nasıl geçeceğimizi uzun uzun anlattı ve bize bir plan verdi. Plana göre ek gıdalara 5 haftalık bir süreçte yavaş yavaş geçeceğim. İlk hafta sabahları (10:00-11:00) sebze püresi ile başlayacağım. İlk tadacağım sebze ise havuç olacak. Aslında temel prensip her seferinde menüye yalnızca bir tane yeni gıda eklemek. İki gün boyunca herhangi bir allerjik durum ortaya çıkmamışsa yeni bir tane daha eklenebilirmiş.
 
-İkinci hafta akşamları (18.00) meyve püresi eklenecek. Üçüncü hafta yatmadan önce tahıllı muhallebiye başlayacağım. Dördüncü hafta öğleden sonra (15.00) menüde yoğurt var. Beşinci haftada ise artık kahvaltı sofrasında (8.00-9.00) bana da yer açılacak.
+İkinci hafta akşamları (18:00) meyve püresi eklenecek. Üçüncü hafta yatmadan önce tahıllı muhallebiye başlayacağım. Dördüncü hafta öğleden sonra (15:00) menüde yoğurt var. Beşinci haftada ise artık kahvaltı sofrasında (8:00-9:00) bana da yer açılacak.
 
 D vitamini kullanmaya devam ediyorum. Dördüncü ayda 5 damla olarak başladığım demir takviyesini doktorum bu ay 9 damlaya çıkardı. Bu demir olayına biraz dirensem de bizimkiler vermenin bir yolunu buluyor.
 
