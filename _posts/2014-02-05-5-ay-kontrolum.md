@@ -9,7 +9,7 @@ published: true
 disqus_thread: 3946879523
 ---
 
-![Sütüm nerede benim!!!*](/img/posts/sutum_nerede.jpg)
+![Sütüm nerede benim!!!](/img/posts/sutum_nerede.jpg)
 *Sütüm nerede benim!!!*
 
 Beşinci ay kontrolüm olaysız geçti. Bu sefer babam çalıştığı için kontrole annem ve anneanemle gittik.
