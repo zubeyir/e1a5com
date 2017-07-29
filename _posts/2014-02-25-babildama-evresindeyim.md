@@ -1,17 +1,17 @@
 ---
-ID: 595
-title: '&#8220;Tekrarlı babıldama&#8221; evresindeyim'
+title: Tekrarlı babıldama evresindeyim
 author: annem
 date: 2014-02-25 11:31:24
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/babildama-evresindeyim/
+section-type: post
 published: true
-disqus_thread:
-  - "3830067489"
+tag: galişim
+disqus_thread: 3830067489
 ---
-[caption id="attachment_605" align="alignleft" width="173"]<a href="http://e1a5.com/wp-content/uploads/2014/02/zebra-finch.jpg"><img class="size-full wp-image-605  " src="http://e1a5.com/wp-content/uploads/2014/02/zebra-finch.jpg" alt="zebra finch" width="173" height="292" /></a> zebra finch[/caption]
+
+![Zebra finch](/img/posts/zebra-finch.jpg)
+*Zebra finch*
 
 Son birkaç haftadır ciddi ciddi konuşmaya başladım. Elbette bu konuşma siz yetişkinlerinki gibi kelimelerle değil hecelerin tekrarlanmasıyla oluşuyor. Bu evrede ben ve benim gibi bebekler bazı heceleri ardı ardınca söylemeye başlıyoruz. Şu anda benim en çok ürettiğim hece /ba/ hecesi. Başladığım zaman babababa diye uzun süre devam ediyorum. Ayrıca ggg sesini çok kullanıyorum. 2-3 defa anne bile dedim (ağzımdan çıkıverdi ben bile nasıl olduğunu bilmiyorum).
 
