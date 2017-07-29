@@ -10,7 +10,7 @@ tag:
 disqus_thread: 3833772089
 ---
 
-![Lansinoh affinity süt pompası](/lansinoh-elektrikli-ciftli-1-main.jpg)
+![Lansinoh affinity süt pompası](/img/posts/lansinoh-elektrikli-ciftli-1-main.jpg)
 *Lansinoh affinity süt pompası*
 
 Daha önce kullandığımız ürünler sayfasında Avent marka süt pompası kullandığımızdan bahsetmiştik. Ancak annem bu pompanın zaman zaman sütü çıkarmakta başarısız kaldığını hissettiğinden ve süt sağma bizim hayatımızda önemli bir yer teşkil ettiğinden bir süt pompası daha alıp denemeye karar verdik ve bir adet Lansinoh (Affinity) pompa edindik.
