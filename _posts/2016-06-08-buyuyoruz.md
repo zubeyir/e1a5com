@@ -1,13 +1,14 @@
 ---
-ID: 3380
 title: İkimiz de büyüyoruz
 author: babam
 date: 2016-06-08 02:55:30
-category:
+category: arti3
+tag: gelişim
 layout: post
 section-type: post http://e1a5.com/gelisimim/buyuyoruz/
 published: true
 ---
+
 Kardeşimin gelişinden sonra sanki herşey çığrından çıktı. Herşey çok hızlı değişiyor ve ikimiz de büyüyoruz. Bizimkiler benim küçük olduğumu ve kardeşimi kıskanmayacağımı düşünüyorlardı. Kıskandığım da söylenemez ama evdeki bu yeni şeye nasıl tepki vereceğimi bilemiyorum. Daha önce bunun geleceğinden bahsetmişlerdi. Galiba neden bahsettiklerini pek anlayamamışım. Kardeşim geldi ve o gün bu gündür hiçbirşey eskisi gibi değil.
 
 Önceleri onu görmezden geliyordum ve pek ilgilenmiyordum. Sonra onu pek şiddetli sevmeye başladım. Bu şiddet tutkulu bir sevgi gibi değil de pat-küt tarzında bir şiddetti. Jumbo ile benim ilişkime gösterilen dikkat şimdi benim ile kardeşim ilişkisine gösteriliyor ve birarada yalnız bırakılmıyoruz.
@@ -27,7 +28,3 @@ Mert neredeyse on aylık oldu. Emekleme ve hareketlilik konusunda benden daha h�
 Bütün bunların sorumlusu aslında kendisi. Daha çocukluğumdan verdiği komando eğitimleri sayesinde şimdi herşeyin tepesine kadar kendim çıkıp inebiliyorum. Tabii ki, kitaplığın tepesinden almak istediğim şeyi aşağıya salladıktan sonra. Bazen kazalar olmuyor değil. Bugün buzdolabının üstünden birşeyler almak isterken dondurucunun kapağının üstüne elimi atıp tırmanmaya kalkınca kapak açıldı ve havada asılı kaldım. Bu beni epeyce korkuttu. Az çok halimi anlamışsınızdır. Bir de Mert'in bütün bunları benden öğrenip üstüne kendi hünerlerini ortaya koyduğunu düşünün, o zaman babamın bizi birbirimize kırdırma hayallerinin neden suya düşeceğinizi anlarsınız :)
 
 Yaz geliyor ve okulum bitiyor. Annem gelecek sene ve hatta anaokulu için bana okullar bakmaya başladı. Ancak, bu yaz beraber zaman geçirebilmemiz için yaz okuluna gitmiyorum.
-
-&nbsp;
-
-&nbsp;
