@@ -1,5 +1,5 @@
 ---
-title: Uykusuz geceler: Gaz sancılarım
+title: Uykusuz geceler - Gaz sancılarım
 author: annem
 date: 2013-10-04 20:46:14
 category: sıfır
