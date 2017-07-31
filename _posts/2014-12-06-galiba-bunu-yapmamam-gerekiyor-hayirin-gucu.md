@@ -1,5 +1,5 @@
 ---
-title: 'Galiba bunu yapmamam gerekiyor - Hayır'ın gücü'
+title: "Galiba bunu yapmamam gerekiyor - Hayır'ın gücü"
 author: babam
 date: 2014-12-06 23:14:49
 category: artı1
