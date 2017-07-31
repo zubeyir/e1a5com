@@ -1,31 +1,31 @@
 ---
-ID: 3183
 title: Babamla şehre indik
 author: babam
 date: 2014-12-20 21:51:40
-category:
+category: artı1
+tag: gezi
 layout: post
-section-type: post >
-  http://e1a5.com/gezilerim/babamla-sehre-indik/
+section-type: post 
 published: true
-slide_template:
-  - default
-disqus_thread:
-  - "4004834122"
+disqus_thread: 4004834122
 ---
+
 Bizim evden şehre inmek bir macera eğer arabamız ile gitmiyorsak. Bugün babam ile ilk defa bu maceraya beraber çıktık.
 
 Gün cumartesi olduğu için annem işteydi ve babamla başbaşaydık. Babam sabahtan işlerini bitirdikten sonra beni öğlene doğru uyuttu. Uyandıktan sonra yemeğimi yedirdi ve kendimizi sokağa attık.
 
-![]/img/posts id="attachment_3185" align="aligncenter" width="320"]<a href="http://e1a5.com/wp-content/uploads/2015/02/otobuste.jpg"><img class="size-full wp-image-3185" src="http://e1a5.com/wp-content/uploads/2015/02/otobuste.jpg" alt="Otobüste" width="320" height="427" /></a> Otobüste*
+![Otobüste](/img/posts/otobuste.jpg)
+*Otobüste*
 
 Önce otobüs ile metroya kadar gittik. Metro ile Metrokent'ten Kirazlı'ya gittik. İlk defa geldiğim için sesimi çıkarmadan merakla etrafı izliyordum.
 
-![]/img/posts id="attachment_3184" align="aligncenter" width="320"]<a href="http://e1a5.com/wp-content/uploads/2015/02/metroda.jpg"><img class="size-full wp-image-3184" src="http://e1a5.com/wp-content/uploads/2015/02/metroda.jpg" alt="Metroda" width="320" height="427" /></a> Metroda*
+![Metroda](/img/posts/metroda.jpg)
+*Metroda*
 
 Sonra Kirazlı'dan Yenikapı metrosuna geçtik. Artık o ilk yabancılığı üzerimden atıp kıpırdanmaya başladım. Yerimde durmak istemiyordum. Babam tedbirliydi, yanında meyve ve kitaplar vardı. Beni bir süre oyalamayı başarsa da yolun büyük bir kısmında beni zaptetmeye uğraştı.
 
-![]/img/posts id="attachment_3186" align="aligncenter" width="320"]<a href="http://e1a5.com/wp-content/uploads/2015/02/yenikapida.jpg"><img class="size-full wp-image-3186" src="http://e1a5.com/wp-content/uploads/2015/02/yenikapida.jpg" alt="Yenikapı'da" width="320" height="240" /></a> Yenikapı'da*
+![Yenikapı'da](/img/posts/yenikapida.jpg)
+*Yenikapı'da*
 
 Yenikapı'dan tekrar aktarma yaparak Osmanbey'e gittik. Bu metro biraz daha ferahtı ve arasıra dışarıyı görme fırasatım oldu. Çok sürmeden Osmanbey'e geldik ve dışarı çıkıp yürümeye başladık. Neredeyse iki saattir yoldaydık.
 

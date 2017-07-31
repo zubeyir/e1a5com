@@ -1,18 +1,15 @@
 ---
-ID: 3181
 title: Kardeş geliyor!
 author: babam
 date: 2014-12-13 21:36:27
-category:
+category: artı1
+tag: aile
 layout: post
-section-type: post >
-  http://e1a5.com/beslenmem/kardes-geliyor/
+section-type: post 
 published: true
-slide_template:
-  - default
-disqus_thread:
-  - "3895677118"
+disqus_thread: 3895677118
 ---
+
 Bugün annem babama müjdeyi verdi. Hamilelik testinin fotoğrafını göndermiş altında da "Defne ya da Ali geliyor" diye müjdelemiş. Yeni bana kardeş geliyor
 
 Şimdilik bunun ne demek olduğunu bilmiyorum. Yavaş yavaş beni buna alıştırmaya çalışacaklar.

@@ -1,27 +1,27 @@
 ---
-ID: 1369
-title: 'Yatağıma yatıyorum ve uyuyorum &#8211; kendi kendine uyuma'
+title: 'Yatağıma yatıyorum ve uyuyorum - Kendi kendine uyuma'
 author: babam
 date: 2014-12-07 00:53:56
-category:
+category: artı1
+tag: uyku
 layout: post
-section-type: post >
-  http://e1a5.com/yazilar/yatagima-yatiyorum-ve-uyuyorum-kendi-kendine-uyuma/
+section-type: post
 published: true
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3868835394"
+disqus_thread: 3868835394
 ---
+
 Bu aralar uyku konusunda çok yazıyoruz. Biraz takıntılı hale gelmiş olabiliriz :) Aslında o kadar da takıntılı değiliz, sadece geçtiğimiz süreci unutmamak için buraya not alıyoruz.
 
 Kırkım çıktıktan sonra çok fazla uyku sorunu yaşamadım. Bu konuda emzik oldukça yardımcı oldu. Sadece uyumak istediğimde emziğimi kullandığımdan emzik bağımlılığı gibi bir durum da yaşamadım. Beş-altı aylık olduğumda akşam uyku saatlerimin geç vakitlere kaydığını fark eden annem uyku düzenimi ele aldı ve akşam 7-8 arasında uyuduğum bir düzenin oturttulmasını sağladı.
 
-![]/img/posts id="attachment_1389" align="aligncenter" width="360"]<a href="http://e1a5.com/wp-content/uploads/2014/12/uyuyorum.jpg"><img class="wp-image-1389" src="http://e1a5.com/wp-content/uploads/2014/12/uyuyorum.jpg" alt="Yataktan kaçmaya çalışırken uyuya kalmışım :)" width="360" height="480" /></a> Yataktan kaçmaya çalışırken uyuya kalmışım :)*
+![Yataktan kaçmaya çalışırken uyuya kalmışım :)](/img/posts/uyuyorum.jpg)
+*Yataktan kaçmaya çalışırken uyuya kalmışım :)*
 
 Emeklemeye başladıktan sonra etrafa olan ilgim arttığından ve kendi başıma hareket edebildiğimden uykuya direnç göstermeye başladım. Önceleri yatağıma konulduğumda ve ışıklı-müzikli oyuncağım açıldığında izleyerek uykuya dalabiliyordum. Bu dönemin bitmesi yatağa bırakıldığımda ortalığı ayağa kaldırmam ile son buldu. Kendimi yatağımın içerisinde kaçışı olmayan bir yere bırakılmış gibi hissetmemem için yatağımın önündeki parmaklıklar çıkarıldı. Bunun beni yeterince tatmin ettiğini söyleyemem. Hala uyumaya direniyordum, yani uyumadan yatağıma bırakıldığımda bundan hoşlanmadığımı yüksek sesle ifade ediyordum. Bizimkiler kendi kendime yatağımda yatarak uyuyacağım dönemin ne zaman geleceğini merak ediyorlardı.
 
 Bu merakları devam ederken her seferinde beni uyutmanın bir yolunu bulmayı da ihmal etmediler. Emzikten sonra bir dönem memenin keyfini çıkararak, emerek uyudum. Babam, kendisi emziremediği için buna karşı çıkıyordu ve nasıl uyutacağını şaşırıyordu. Tatil sırasında salıncakta uyumayı sevdiğimi keşfedince <a title="Evde salıncak keyfi" href="http://e1a5.com/oyunlarim-ve-oyuncaklarim/evde-salincak-keyfi/" target="_blank">evin salonuna bir salıncak</a> kurdular ve bir süre böyle geçti. Bazen emerek, bazen salıncakta uyuyarak yaklaşık 14 aylık oldum.
+
+[Evde salıncak keyfi]({{site.baseurl}} {% post_url 2014-09-07-evde-salincak-keyfi %}) 
 
 Babam beni kendi uyutabilmek için planlar yapmaya devam ediyordu ve bir gün bu planlarını uygulamaya koydu. Annanemde olduğumuz, annemin ve salıncağın olmadığı bir gün beni uyutması gerekti. Beni uyuturken babamın en büyük problemlerinden birisi meme gibi beni kendine bağlayacak birşeyi olmadığından ve artık yürüyebildiğimden kalkıp gitmeye çalışmamdı. Babamın planı ise beni <a title="Galiba bunu yapmamam gerekiyor – Hayır’ın gücü" href="http://e1a5.com/yazilar/galiba-bunu-yapmamam-gerekiyor-hayirin-gucu/" target="_blank">"hayır"ın gücü</a> ile alt etmekti. Hayır kelimesinin ne anlama geldiğini artık biliyordum ve bizimkiler hayır derse bundan geri dönmeyeceklerini de birçok defa test etme fırsatı bulmuştum.
 
