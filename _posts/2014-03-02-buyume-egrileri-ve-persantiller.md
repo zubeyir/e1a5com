@@ -2,11 +2,11 @@
 title: Büyüme eğrileri ve persantiller
 author: babam
 date: 2014-03-02 23:54:59
-category:
+category: sıfır
+tag: gelişim
 layout: post
 section-type: post
 published: true
-tag: gelişim
 disqus_thread: 3836782246
 ---
 

@@ -3,7 +3,7 @@ title: "Kırkım çıktı – Mert"
 author: babam
 date: 2015-09-25 05:52:02
 category: sıfır
-tag gelişim
+tag: gelişim
 layout: post
 section-type: post 
 published: true
