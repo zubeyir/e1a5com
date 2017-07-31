@@ -14,4 +14,4 @@ Annem bugün ilk defa kontrole gitti ve kardeşimin kalp sesleri duydular. Karde
 
 İnşallah, Ağustos ayının ortalarına doğru aramızda olacak.
 
-<iframe src="http://e1a5.com/img/posts/kardes7hafta.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="568" height="320" src="http://e1a5.com/img/posts/kardes7hafta.mp4" frameborder="0" allowfullscreen></iframe>
