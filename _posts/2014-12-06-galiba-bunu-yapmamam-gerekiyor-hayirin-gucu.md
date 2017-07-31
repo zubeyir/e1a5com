@@ -1,18 +1,15 @@
 ---
-ID: 1367
-title: 'Galiba bunu yapmamam gerekiyor &#8211; Hayır&#8217;ın gücü'
+title: 'Galiba bunu yapmamam gerekiyor - Hayır'ın gücü'
 author: babam
 date: 2014-12-06 23:14:49
-category:
+category: artı1
+tag: gelişim
 layout: post
-section-type: post >
-  http://e1a5.com/yazilar/galiba-bunu-yapmamam-gerekiyor-hayirin-gucu/
+section-type: post
 published: true
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3829522063"
+disqus_thread: 3829522063
 ---
+
 Herkes gibi siz de bebeğinizin sizi anlayıp anlamadığını merak ediyorsunuzdur. Ne zamandan itibaren beni anlar, ne zaman bir şeyi yapması veya yapmaması gerektiğini söylersem etkili olur gibi düşünceler aklınızdan geçiyor olabilir.
 
 Sizin gibi bizimkilerin de bu konuda bir fikri yoktu. Benim olumsuz ifadeleri anladığımı ilk farkettikleri deneyimleri yaklaşık 5 ay civarında emerken memeyi ısırdığımda annemin "<em>ısırma</em>" uyarısını dikkate almam ve bunu çok nadir bir iki defa dışında tekrarlamamam olmuştu. Bu sırada anladığım şey kelimenin kendisi veya anlamından çok o zamana kadar annemden gördüğüm ilgi dolu, yumuşak ve sevecen ifadelerden farklı bir tonda sert ve olumsuz olduğunu algılamamdı ve benim yaptığım birşeyin hemen arkasından gelmişti.

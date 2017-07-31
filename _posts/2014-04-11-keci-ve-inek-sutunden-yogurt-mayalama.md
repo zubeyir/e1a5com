@@ -1,25 +1,19 @@
 ---
-ID: 829
-title: >
-  Keçi ve inek sütünden yoğurt
-  mayalama
+title: Keçi ve inek sütünden yoğurt mayalama
 author: annem
 date: 2014-04-11 12:45:07
-category:
+category: sıfır
+tag: yemek
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/keci-ve-inek-sutunden-yogurt-mayalama-2/
+section-type: post
 published: true
-mfn-post-love:
-  - "0"
-slide_template:
-  - default
-disqus_thread:
-  - "3829557573"
+disqus_thread: 3829557573
 ---
+
 Annem ve babam bana yedirdikleri yoğurtları evde hazırlıyorlar. Bu yazıda keçi ve inek sütünden yoğurt mayalama tecrübelerimizi sizinle paylaşıyoruz.
 
-![]/img/posts id="attachment_843" align="aligncenter" width="360"]<a href="http://e1a5.com/wp-content/uploads/2014/04/yogurt_yedim.jpg"><img class="wp-image-843 size-medium" src="http://e1a5.com/wp-content/uploads/2014/04/yogurt_yedim-360x270.jpg" alt="mmmm! annemin yoğurtları çok lezzetli :)" width="360" height="270" /></a> mmmm! annemin yoğurtları çok lezzetli :)*
+![mmmm! annemin yoğurtları çok lezzetli :)](/img/posts/yogurt_yedim.jpg)
+*mmmm! annemin yoğurtları çok lezzetli :)*
 
 Daha önce hiç yoğurt mayalamadıysanız öncelikle bunun gayet basit olduğunu belirtelim. Birkaç püf noktaya dikkat ederek siz de yapabilirsiniz. Herhangi bir alet edevata da gerek yok.
 
@@ -31,11 +25,12 @@ Gelelim yapımına,
 
 Birinci püf nokta, eğer çok az miktarda koyarsanız ya da mayalık yoğurdunuz çok suluysa elde ettiğiniz yoğurt da sulu olabiliyor. İkinci püf nokta yoğurdu mayalanma sürecinde bekletirken ısısını kaybetmeyeceği sıcak bir ortam yaratmak. Bunun için yoğurdumuzu kalınca bir beze sardıktan sonra üzerini battaniye ile sarmaladığımızda ısı sabit kaldığından en iyi sonucu elde ediyoruz. Bundan sonra 8-10 saat mayalanmaya bırakıyoruz. Olmuş mu? diye açıp açıp bakmamayı da öğrendik. Genellikle akşamdan yapıp gece boyu beklettiğimiz yoğurdu sabah buzdolabına koyuyoruz ve mayalanma süreci bu şekilde sona ermiş oluyor. Yemeden bir gün bekletildiğinde daha katı hale geliyor ancak acil gerekliyse birkaç saat bekletmek de yeterli oluyor.
 
-![]/img/posts id="attachment_832" align="aligncenter" width="270"]<a href="http://e1a5.com/wp-content/uploads/2014/04/inek-sutunden-yogurt.htm.jpg"><img class="wp-image-832 size-medium" src="http://e1a5.com/wp-content/uploads/2014/04/inek-sutunden-yogurt.htm-270x360.jpg" alt="inek sütünden mayalanan yoğurt" width="270" height="360" /></a> inek sütünden elde edilen yoğurt*
+![inek sütünden elde edilen yoğurt](/img/posts/inek-sutunden-yogurt.htm.jpg)
+*inek sütünden elde edilen yoğurt*
 
-![]/img/posts id="attachment_833" align="aligncenter" width="270"]<a href="http://e1a5.com/wp-content/uploads/2014/04/keci.jpg"><img class="wp-image-833 size-medium" src="http://e1a5.com/wp-content/uploads/2014/04/keci-270x360.jpg" alt="keçi sütünden mayalanan yoğurt" width="270" height="360" /></a> keçi sütünden elde edilen yoğurt*
+![keçi sütünden elde edilen yoğurt](/img/posts/keci.jpg)
+*keçi sütünden elde edilen yoğurt*
 
-<div style="clear: left;"></div>
 İlk seferde olmadıysa nerede hata yaptığınızı düşünerek yeniden deneyin. Birkaç denemede mutlaka başarılı olacaksınız. Biz de sizlerin lezzetli yoğurt mayalama konusunda önerilerinizi bekliyoruz.
 
-Güncelleme: Yeni yazımız "<a title="İnek sütünden yoğurt mayalama" href="http://e1a5.com/yazilar/inek-sutunden-yogurt-mayalama/" target="_blank">İnek sütünden yoğurt mayalama"</a> da ilginizi çekebilir.
+*Güncelleme:* Yeni yazımız [İnek sütünden yoğurt mayalama]({{site.baseurl}} {% post_url 2014-09-10-inek-sutunden-yogurt-mayalama %})'da ilginizi çekebilir.

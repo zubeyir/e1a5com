@@ -1,23 +1,18 @@
 ---
-ID: 1356
 title: Kitapları çok seviyorum
 author: annem
 date: 2014-11-28 12:34:14
-category:
+category: artı1
 layout: post
-section-type: post >
-  http://e1a5.com/oyunlarim-ve-oyuncaklarim/kitaplari-cok-seviyorum/
+section-type: post 
 published: true
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "4031382566"
+disqus_thread: 4031382566
 ---
-İlk kitabımı 3 aylıkken almıştık ve o gün bu gündür sıklıkla kitap okuyoruz. Annemin uygulamaya çalıştığı bir rutin sabah kahvaltılarımı ederken mama sandalyemde bana kitap okumak. Her gün genellikle 2-3 kitap okuyoruz ve ben artık kelimeler söylediğimden ve pek çok şeyi tekrarladığımdan bunu olabildiğince etkileşimli yapmaya çalışıyoruz. Annem okurken ben de yorumlarımla katılıyorum.  Ayrıca içinde hayvan resimleri olan kitabımı alıp kendi kendime çeviriyor ve isimlerini söyleyip seslerini çıkarıyorum.  Gün içinde ya da akşamları babamla da okuyoruz.
+
+İlk kitabımı 3 aylıkken almıştık ve o gün bu gündür sıklıkla kitap okuyoruz. Annemin uygulamaya çalıştığı bir rutin sabah kahvaltılarımı ederken mama sandalyemde bana kitap okumak. Her gün genellikle 2-3 kitap okuyoruz ve ben artık kelimeler söylediğimden ve pek çok şeyi tekrarladığımdan bunu olabildiğince etkileşimli yapmaya çalışıyoruz. Annem okurken ben de yorumlarımla katılıyorum. Ayrıca içinde hayvan resimleri olan kitabımı alıp kendi kendime çeviriyor ve isimlerini söyleyip seslerini çıkarıyorum. Gün içinde ya da akşamları babamla da okuyoruz.
 
 Kitap okumanın güzel tarafı dil gelişimimi desteklemesi. Hem yeni kelimeler öğreniyor hem de resimlere bakıp görsel olarak yeni uyaranlara maruz kalıyorum. Kitapların tek dezavantajı yırtılıyor olmaları :) Kitaplıkta bir rafım var ve tüm kitaplarım orada duruyor. İstedikçe çekip onlara bakıyorum. Fakat son aylarda birkaç kitabımı paraladım. Annemler 1-2 tanesini gözden çıkardılar, ancak baktılar ki yakında okunabilecek hiç kitabım kalmayacak, diğerlerini olabildiğince korumaya çalışıyorlar. Sevdiğim kitapların bir listesini buraya da yazıyoruz. Bu listeyi olabildiğince güncellemeye çalışacağız ve yakında kitaplığımıza yeni kitaplar katacağız.
 
-&nbsp;
 
 <strong>Annemin çantası</strong>
 

@@ -1,25 +1,20 @@
 ---
-ID: 1164
-title: 'Egzersizlerim &#8211; düz duvara tırmanıyorum'
+title: 'Egzersizlerim - Düz duvara tırmanıyorum'
 author: babam
 date: 2014-09-14 11:43:53
-category:
+category: artı1
 layout: post
-section-type: post >
-  http://e1a5.com/oyunlarim-ve-oyuncaklarim/egzersizlerim-duz-duvara-tirmaniyorum/
+section-type: post
 published: true
-mfn-post-love:
-  - "0"
-slide_template:
-  - default
-disqus_thread:
-  - "4031411437"
+disqus_thread: 4031411437
 ---
+
 Emeklemeye ve özellikle yürümeye başladıktan sonra hareket en önemli faaliyetlerimden biri oldu. Durmadan hareket ediyorum. Uykumda bile, eskiden yattığım gibi kalkarken şimdi yatağın içerisinde fıldır fıldır dönüyorum.
 
 Vücudumun hareket edebilmesi, kendini kaldırması ve engelleri aşabilmem için hareket becerimin gelişmesine ve yeterli kas kuvvetine sahip olmam gerekiyor.
 
-![]/img/posts id="attachment_1176" align="aligncenter" width="200"]<a href="http://e1a5.com/wp-content/uploads/2014/09/kisa_pantolon.jpg"><img class="wp-image-1176 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/kisa_pantolon-200x300.jpg" alt="Ben de sürebilirim ki!" width="200" height="300" /></a> Ben de sürebilirim ki!*
+![Ben de sürebilirim ki!](/img/posts/kisa_pantolon.jpg)
+*Ben de sürebilirim ki!*
 
 İkisi aslında birbirini destekliyor ve geliştiriyor. Sinir sistemim ve özellikle beynim belli olgunluk seviyelerine ulaştıkça farklı hareketleri yapabilme, vücudumu kontrol edebilme becerisi kazanıyorum. Bu hareketleri sürdürdükçe hem hareketlerimi kontrollü ve becerikli hale getiriyorum hem de kullandığım kaslarım kuvvetleniyor. Mesela, kendimi yerden kaldırabilmem için üst bacak ve kol kaslarımın belli bir kuvvete erişmesi gerekiyordu. Bununla birlikte beyin gelişimim de el ve kol hareketlerimi senkronize ve hatta çapraz kontrol edebilecek olgunluğa eriştiğinde emeklemeye başladım. Emeklemem bu becerimi ve kontrolünü geliştirirken bir yandan da kaslarımı kuvvetlendirdi.
 
@@ -33,7 +28,7 @@ Yeni egzersizlerimizden birisi koltuk, yatak gibi yüksek yerlere tırmanmak ve 
 
 Bir başka egzersiz babamın kurduğu tuzaklardan kurtulmaya çalışmak. Beni ellerinin ve kollarının arasında sarmalayarak bırakmıyor. Önce hafif şekilde sarmalayıp, kolayca kurtulmama izin veriyordu. Ben güçlendikçe yavaş yavaş kaçışımı zorlaştırıyor. Beni çok sıkmadan, ancak bir parça zorlanmamı ve bazen de yeni bir yol bularak kaçmamı sağlayacak şekilde oyunun zorluk derecesini arttırıyor. Bu oyunların zorluğunu beni teşvik edecek, eğlendirecek ve yılgınlığa düşürmeyecek şekilde ayarlıyor.
 
-<a title="8 aylık oldum" href="http://e1a5.com/0-yas/8-aylik-oldum/" target="_blank">Komando eğitimime</a> devam ediyoruz. Bazen bir raf kenarına asılarak kendimi barfiks çeker gibi kaldırmaya çalıştığım da oluyor.
+[Komando eğitimime]({{site.baseurl}} {% post_url 2014-05-04-8-aylik-oldum %}) devam ediyoruz. Bazen bir raf kenarına asılarak kendimi barfiks çeker gibi kaldırmaya çalıştığım da oluyor.
 
 <iframe src="//www.youtube.com/embed/j6k7nq0QbQ4" width="320" height="240" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -46,5 +41,3 @@ Bütün bu yeni tecrübeler, hareket kabiliyetimi arttırırken, vücudum üzeri
 <iframe src="//www.youtube.com/embed/K1zvaHnH-JI" width="320" height="240" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Siz çocuğunuz ile ne gibi oyunlar oynuyorsunuz? Bize ilham verecek yeni oyunlarınızı duymak istiyoruz.
-
-&nbsp;
