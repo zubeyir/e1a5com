@@ -1,5 +1,5 @@
 ---
-title: İki yaşındayım - Murat
+title: "İki yaşındayım - Murat"
 author: babam
 date: 2015-09-20 04:43:43
 category: artı2
@@ -16,7 +16,7 @@ Ben iki yaşındayım ve abi bile oldum. Bir ay kadar önce kardeşim Mert geldi
 
 İki yaşındayım ve abi oldum. Kimse abi oldum kısmının üzerinde durup beni ağır sorumluluklar altına sokmuyor. Bu konuda rahatım. Eskisi gibi yaramazlıklarımı yapmaya devam ediyorum. İki yaşın getirdiği çılgınlıkla yenilerini keşfetmekte zorlanmıyorum. Nereden uçacağım, nereye konacağım hiç belli olmuyor.
 
-![Yaramazlık sonrası koltukta sızmışım](/yaramaz.jpg)
+![Yaramazlık sonrası koltukta sızmışım](/img/posts/yaramaz.jpg)
 *Yaramazlık sonrası koltukta sızmışım*
 
 Kendi başına buyruk, inatçı ve aynı zamanda çok sevecenim. Babama sarılıp "babacım seni çok seviyorum" diye şirinlikler yapıyorum. İstediğim olmazsa avaz avaz apartmanı inletebiliyorum. Eninde sonunda bizimkilerin dediği oluyor galiba. Bana karşı hep sabırlı ve kararlı durmaya çalışıyorlar. Şimdi kardeşim de ilgi istediğinden biraz sabırları tükenir gibi olsa da ikisi de benimle geçirdikleri zamanı korumaya çalışıyorlar. Annem Mert'i babamın ya da annanemin kucağına verip benimle kitap okuyup oyun oynarken, babam işten gelince beni parka götürüyor ve bisiklete biniyorum.

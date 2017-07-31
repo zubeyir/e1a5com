@@ -17,7 +17,5 @@ _deploy/*
 Rakefile
 .jekyll-metadata
 /.idea/
-_posts/.DS_Store
 .DS_Store
-img/.DS_Store
-categories/.Rhistory
+.Rhistory
