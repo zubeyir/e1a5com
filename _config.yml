@@ -60,7 +60,7 @@ type-speed: 4
 start-delay: 200
 delete-delay: 1000
 lines: # You can add HTML Tags in the Text
-  - text: [[ben güçlüyüm, almayacağım!]({{ site.baseurl }}{% post_url 2015-09-20-iki-yasindayim-murat %})]
+  - text: "ben güçlüyüm, almayacağım!"
   - text: "muaaaaaa, siisaaçç"
   - text: "o zaman seni seveyim"
 
