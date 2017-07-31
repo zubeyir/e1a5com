@@ -1,5 +1,5 @@
 ---
-title: Mert'in yaz giyimi - Sıcak havalarda bebek giyimi
+title: "Mert'in yaz giyimi - Sıcak havalarda bebek giyimi"
 author: babam
 date: 2015-09-20 03:26:14
 category: sıfır

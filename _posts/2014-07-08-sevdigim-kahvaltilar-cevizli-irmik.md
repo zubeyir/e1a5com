@@ -15,7 +15,7 @@ slide_template:
 disqus_thread:
   - "3872418651"
 ---
-[caption id="attachment_1050" align="alignleft" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/07/rende.jpg"><img class="wp-image-1050 size-medium" src="http://e1a5.com/wp-content/uploads/2014/07/rende-300x225.jpg" alt="rende" width="300" height="225" /></a> cevizi çok ince bir rendeden geçiriyoruz[/caption]
+![]/img/posts id="attachment_1050" align="alignleft" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/07/rende.jpg"><img class="wp-image-1050 size-medium" src="http://e1a5.com/wp-content/uploads/2014/07/rende-300x225.jpg" alt="rende" width="300" height="225" /></a> cevizi çok ince bir rendeden geçiriyoruz*
 
 Sevdiğim bir diğer kahvaltı annemin uydurması olan "Cevizli irmik". Yapılışı mıhlamaya benziyor ancak kavurmak gerekmediğinden daha kolay
 

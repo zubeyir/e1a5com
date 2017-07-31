@@ -19,7 +19,7 @@ Emeklemeye ve özellikle yürümeye başladıktan sonra hareket en önemli faali
 
 Vücudumun hareket edebilmesi, kendini kaldırması ve engelleri aşabilmem için hareket becerimin gelişmesine ve yeterli kas kuvvetine sahip olmam gerekiyor.
 
-[caption id="attachment_1176" align="aligncenter" width="200"]<a href="http://e1a5.com/wp-content/uploads/2014/09/kisa_pantolon.jpg"><img class="wp-image-1176 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/kisa_pantolon-200x300.jpg" alt="Ben de sürebilirim ki!" width="200" height="300" /></a> Ben de sürebilirim ki![/caption]
+![]/img/posts id="attachment_1176" align="aligncenter" width="200"]<a href="http://e1a5.com/wp-content/uploads/2014/09/kisa_pantolon.jpg"><img class="wp-image-1176 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/kisa_pantolon-200x300.jpg" alt="Ben de sürebilirim ki!" width="200" height="300" /></a> Ben de sürebilirim ki!*
 
 İkisi aslında birbirini destekliyor ve geliştiriyor. Sinir sistemim ve özellikle beynim belli olgunluk seviyelerine ulaştıkça farklı hareketleri yapabilme, vücudumu kontrol edebilme becerisi kazanıyorum. Bu hareketleri sürdürdükçe hem hareketlerimi kontrollü ve becerikli hale getiriyorum hem de kullandığım kaslarım kuvvetleniyor. Mesela, kendimi yerden kaldırabilmem için üst bacak ve kol kaslarımın belli bir kuvvete erişmesi gerekiyordu. Bununla birlikte beyin gelişimim de el ve kol hareketlerimi senkronize ve hatta çapraz kontrol edebilecek olgunluğa eriştiğinde emeklemeye başladım. Emeklemem bu becerimi ve kontrolünü geliştirirken bir yandan da kaslarımı kuvvetlendirdi.
 

@@ -11,7 +11,7 @@ published: true
 disqus_thread:
   - "3830601065"
 ---
-[caption id="attachment_873" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/04/egzersiz.jpg"><img class="wp-image-873 size-full" src="http://e1a5.com/wp-content/uploads/2014/04/egzersiz.jpg" alt="Emeklemek için sıkı çalışıyorum" width="640" height="411" /></a> Emeklemek için sıkı çalışıyorum[/caption]
+![]/img/posts id="attachment_873" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/04/egzersiz.jpg"><img class="wp-image-873 size-full" src="http://e1a5.com/wp-content/uploads/2014/04/egzersiz.jpg" alt="Emeklemek için sıkı çalışıyorum" width="640" height="411" /></a> Emeklemek için sıkı çalışıyorum*
 
 Hareketlendikçe yeni yeni beceriler kazanıyorum, babam da benim için yeni egzersizler uyduruyor.
 

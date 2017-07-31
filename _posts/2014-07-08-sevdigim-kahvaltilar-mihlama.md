@@ -15,7 +15,7 @@ slide_template:
 disqus_thread:
   - "3844088782"
 ---
-[caption id="attachment_1045" align="alignleft" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/07/mıhlama.jpg"><img class="wp-image-1045 size-medium" src="http://e1a5.com/wp-content/uploads/2014/07/mıhlama-300x225.jpg" alt="mıhlama" width="300" height="225" /></a> mıhlama[/caption]
+![]/img/posts id="attachment_1045" align="alignleft" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/07/mıhlama.jpg"><img class="wp-image-1045 size-medium" src="http://e1a5.com/wp-content/uploads/2014/07/mıhlama-300x225.jpg" alt="mıhlama" width="300" height="225" /></a> mıhlama*
 
 Severek yediğim kahvaltılarımın birincisi "Mıhlama".  Ne de olsa biraz annemden biraz babamdan genlerimin üçte biri Karadenizli.
 

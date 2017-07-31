@@ -17,7 +17,7 @@ disqus_thread:
 ---
 Bugün ilk doğum günüm ve bir yaşındayım.
 
-[caption id="attachment_1113" align="aligncenter" width="1024"]<a href="http://e1a5.com/wp-content/uploads/2014/09/bu_sabah_kahvaltida.jpg"><img class="wp-image-1113 size-full" src="http://e1a5.com/wp-content/uploads/2014/09/bu_sabah_kahvaltida.jpg" alt="Bir yaşındayım" width="1024" height="683" /></a> Bir yaşındayım[/caption]
+![]/img/posts id="attachment_1113" align="aligncenter" width="1024"]<a href="http://e1a5.com/wp-content/uploads/2014/09/bu_sabah_kahvaltida.jpg"><img class="wp-image-1113 size-full" src="http://e1a5.com/wp-content/uploads/2014/09/bu_sabah_kahvaltida.jpg" alt="Bir yaşındayım" width="1024" height="683" /></a> Bir yaşındayım*
 
 Geçen sene bugün sabah vakti annem sancılarla uyandığında daha ne olduğunu anlayamamıştı. Hafif hafif ve sık sık gelen sancılar anlatılan doğum sancılarına benzemediğinden herhalde bunlar değildir diyerek iki saat beklemişti. Sabah 6'ya doğru artık iyice şiddetlenince doktorlarını arayıp hastanenin yolunu tutmuşlardı.
 
@@ -27,13 +27,13 @@ Onlar için büyük bir sevinç oldum. Dokuz aylık beklemenin sonrasında tanı
 
 Aradan 12 ay daha geçti. Mini mini bir bebek ufak bir çocuğa dönüştü. Sadece memesini emip uyuyan bir bebekten, kendi kendine işler beceren ve iletişim kuran bir çocuğa dönüştüm.
 
-[caption id="attachment_1117" align="aligncenter" width="682"]<a href="http://e1a5.com/wp-content/uploads/2014/09/minik_bebek.jpg"><img class="size-large wp-image-1117" src="http://e1a5.com/wp-content/uploads/2014/09/minik_bebek-682x1024.jpg" alt="Minik bebek (ya da tontoroş)" width="682" height="1024" /></a> Minik bebek (ya da tontoroş)[/caption]
+![]/img/posts id="attachment_1117" align="aligncenter" width="682"]<a href="http://e1a5.com/wp-content/uploads/2014/09/minik_bebek.jpg"><img class="size-large wp-image-1117" src="http://e1a5.com/wp-content/uploads/2014/09/minik_bebek-682x1024.jpg" alt="Minik bebek (ya da tontoroş)" width="682" height="1024" /></a> Minik bebek (ya da tontoroş)*
 
 Bu bir sene içerisinde adım adım geliştim. İlk yapmam gereken şey emmeyi öğrenmek oldu. Aslında ben emmeyi doğuştan biliyordum, annemler beni nasıl emzireceklerini öğrendiler. Sonra gülümsemeyi ve başımı tutmayı öğrendim. Yaptığımız egzersizler kaslarımın kuvvetlenmesinde ve denge duygusunu edinmemde yardımcı oldu. Bu arada küçük küçük sesler çıkarmaya, agulamaya başlamıştım.
 
 Bir sonraki aşamada destekli bir biçimde oturmaya başladım. Bir sonraki adım desteksiz oturmaktı. Aynı dönemde ek gıdalara geçmiş ve yavaş yavaş pütür derecesi artan gıdalar yemeye başladım.
 
-[caption id="attachment_1109" align="aligncenter" width="1024"]<a href="http://e1a5.com/wp-content/uploads/2014/09/bir_yas.jpg"><img class="wp-image-1109 size-full" src="http://e1a5.com/wp-content/uploads/2014/09/bir_yas.jpg" alt="Bu sabah kahvaltı masasında" width="1024" height="683" /></a> Bu sabah kahvaltı masasında[/caption]
+![]/img/posts id="attachment_1109" align="aligncenter" width="1024"]<a href="http://e1a5.com/wp-content/uploads/2014/09/bir_yas.jpg"><img class="wp-image-1109 size-full" src="http://e1a5.com/wp-content/uploads/2014/09/bir_yas.jpg" alt="Bu sabah kahvaltı masasında" width="1024" height="683" /></a> Bu sabah kahvaltı masasında*
 
 Ondan sonrası hızlı geçti. Çıkardığım sesler arttı, ardından kelimeler söylemeye başladım. Şimdi bir kaç kelimeyi bilinçli olarak kullanabiliyorum. Anne ve babamın ikisine birden baba desem de gitti, geldik, buuuu gibi kelimeleri yerinde kullanıyorum.
 

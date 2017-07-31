@@ -1,16 +1,15 @@
 ---
-ID: 3295
-title: 'Ben artık abi oldum &#8211; Kardeşim Mert aramıza katıldı'
+title: 'Ben artık abi oldum - Kardeşim Mert aramıza katıldı'
 author: babam
 date: 2015-08-21 03:47:35
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/ben-artik-abi-oldum-kardesim-mert-aramiza-katildi/
+tag: doğum
+section-type: post 
 published: true
-disqus_thread:
-  - "4052067504"
+disqus_thread: 4052067504
 ---
+
 Uzun zamandır annemin karnını gösterip kardeş kardeş diyorlardı ve ne olduğu pek anlamasamda kardeş nerde denildiğinde annemin karnını göstermeye alışmıştım. Hatta bazen babamın göbeğine de kardeş diye sarıldığım oluyordu. Ama bu kardeş denilen şeyin nasıl bişey olduğunu bilmiyordum, ta ki hastanede görene kadar.
 
 Annem hamileliğinin son günlerinde iyice ağırlaşmış ve genellikle dinlenerek zamanını geçiriyordu. Bir de sanki hamileliğin son haftalarında zaman uzadıkça uzuyordu. Böyle bir akşamda annemle yatağa uzanmış kitap okuyorduk. Bu sırada annem ayağa kalkıp beni kucağına aldığı sırada bir şey oldu ve annem heyecanlandı. Babamı bir dakika gelir misin diye çağırdı. Son bir aydır annemin her seslenmesi ve telefonunda heyecanlanan adam bu seferde yine ya su ya da karpuz istiyordur diye sakin sakin gelip annemin halini görünce annemin suyunun geldiğini anladı ve hemen doktorumuzu aradı [Saat 22:00]. Kısa sürede toparlanıp yola çıktılar.
@@ -30,8 +29,6 @@ Kan uyuşmazlığı olduğu için anneme hasteneden çıkmadan iğne yapıldı. 
 Annemler, akşam hastanede kalmadan kardeşimi alıp eve geldiler. İlk birkaç gün kardeşimi sevmek için girişimlerim sırasında birkaç kere patlatmaya çalıştıysam da artık sadece nazikçe cici cici diye seviyorum. Yine de Jumbo'yu benimle yalnız bırakmadıkları gibi benimle de Mert'i yalnız bırakmıyorlar.
 
 Doğumdan 3 gün sonra kontrole gittiklerinde kardeşime tiroid, metabolik tarama testleri ve sarılık testi yapıldı. Bu testlerin erken dönemde yapılması özellikle tiroid testinin yapılıp gerekiyorsa ilk bir haftada tedavinin başlanması daha sonra oluşabilecek zeka gerilikleri bakımından önemli. Sarılık erken dönemde hızla artıyorsa buna da müdahale edilmesi gerekiyor.
-
-&nbsp;
 
 Su kesesinin erken açılması hakkında bir yazı için buraya <a href="http://www.farukbuyru.com/index.php?option=com_k2&amp;view=item&amp;id=67:su-kesesinin-erken-a%C3%A7%C4%B1lmas%C4%B1&amp;Itemid=117" target="_blank">tıklayınız.</a>
 

@@ -1,5 +1,5 @@
 ---
-title: Kırkım çıktı – Mert
+title: "Kırkım çıktı – Mert"
 author: babam
 date: 2015-09-25 05:52:02
 category: sıfır

@@ -27,7 +27,7 @@ Bu arada maya için kullanacağımız hazır yoğurtan veya daha önceki mayalad
 
 Süt bir taşım kaynadıktan sonra altını söndürüp soğumak üzere tencerede bırakıyoruz. Parmak yakmayacak (serçe parmak tercih edilir) kıvama kadar soğumasını bekliyoruz.
 
-[caption id="attachment_1173" align="aligncenter" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/09/termoslu_yogurt_tenceresi.jpg"><img class="wp-image-1173 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/termoslu_yogurt_tenceresi-300x200.jpg" alt="Termoslu yoğurt tenceresi" width="300" height="200" /></a> Termoslu yoğurt tenceresi[/caption]
+![]/img/posts id="attachment_1173" align="aligncenter" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/09/termoslu_yogurt_tenceresi.jpg"><img class="wp-image-1173 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/termoslu_yogurt_tenceresi-300x200.jpg" alt="Termoslu yoğurt tenceresi" width="300" height="200" /></a> Termoslu yoğurt tenceresi*
 
 Süt soğuduktan sonra mayalamak için termoslu bir tencereye aktarıyoruz. Termoslu tencere mayalanma için gerekli olan süt sıcaklığını uzun süre koruduğundan tencereyi sarıp sarmalamaya veya fırında bekletmeye gerek kalmıyor.
 

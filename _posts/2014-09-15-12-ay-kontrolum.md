@@ -15,7 +15,7 @@ slide_template:
 disqus_thread:
   - "3836702347"
 ---
-[caption id="attachment_1186" align="aligncenter" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/09/oniki_aylik_merakli_ben.jpg"><img class="wp-image-1186 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/oniki_aylik_merakli_ben-300x199.jpg" alt="Oniki aylık meraklı ben" width="300" height="199" /></a> Oniki aylık meraklı ben[/caption]
+![]/img/posts id="attachment_1186" align="aligncenter" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/09/oniki_aylik_merakli_ben.jpg"><img class="wp-image-1186 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/oniki_aylik_merakli_ben-300x199.jpg" alt="Oniki aylık meraklı ben" width="300" height="199" /></a> Oniki aylık meraklı ben*
 
 Bir yaşındayım ve üç ay aradan sonra yeniden doktor kontrolüne gittim.
 
@@ -29,7 +29,7 @@ Doktor amca öğünlerimi artık yoğurt, meyve, sebze olarak ayırmama gerek ka
 
 Bunların dışında öğünlerime eklediği en önemli iki şey karbonhidratlar (pilav, makarna gibi) ve süt oldu. Kilo alımımdaki yavaşlamanın nedeni yeterince karbonhidrat almamam olabileceğinden yemeklerimin yanında pilav veya makarna ekleyerek öğünlerimi destekledi. Ayrıca, sabah 150 ml ve gece yatarken 100 ml süt içmemi söyledi.
 
-[caption id="attachment_1185" align="alignleft" width="200"]<a href="http://e1a5.com/wp-content/uploads/2014/09/mado_gunluk_keci_sutu.jpg"><img class="wp-image-1185 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/mado_gunluk_keci_sutu-200x300.jpg" alt="MADO günlük keçi sütü" width="200" height="300" /></a> MADO günlük keçi sütü[/caption]
+![]/img/posts id="attachment_1185" align="alignleft" width="200"]<a href="http://e1a5.com/wp-content/uploads/2014/09/mado_gunluk_keci_sutu.jpg"><img class="wp-image-1185 size-medium" src="http://e1a5.com/wp-content/uploads/2014/09/mado_gunluk_keci_sutu-200x300.jpg" alt="MADO günlük keçi sütü" width="200" height="300" /></a> MADO günlük keçi sütü*
 
 Süt olarak önce günlük şişe sütün tadına bakıp beğenmedim. Bunun üzerine annemler günlük keçi sütü aldılar. Bulunduğumuz semtte MADO'ya haftada iki defa günlük keçi sütü geliyor ve biz de buradan alıyoruz. Keçi sütünü sevdim ve soğuk olarak içmeyi tercih ediyorum. Isınınca tadını bi şeye benzetemedim.
 

@@ -17,7 +17,7 @@ Bu aralar uyku konusunda çok yazıyoruz. Biraz takıntılı hale gelmiş olabil
 
 Kırkım çıktıktan sonra çok fazla uyku sorunu yaşamadım. Bu konuda emzik oldukça yardımcı oldu. Sadece uyumak istediğimde emziğimi kullandığımdan emzik bağımlılığı gibi bir durum da yaşamadım. Beş-altı aylık olduğumda akşam uyku saatlerimin geç vakitlere kaydığını fark eden annem uyku düzenimi ele aldı ve akşam 7-8 arasında uyuduğum bir düzenin oturttulmasını sağladı.
 
-[caption id="attachment_1389" align="aligncenter" width="360"]<a href="http://e1a5.com/wp-content/uploads/2014/12/uyuyorum.jpg"><img class="wp-image-1389" src="http://e1a5.com/wp-content/uploads/2014/12/uyuyorum.jpg" alt="Yataktan kaçmaya çalışırken uyuya kalmışım :)" width="360" height="480" /></a> Yataktan kaçmaya çalışırken uyuya kalmışım :)[/caption]
+![]/img/posts id="attachment_1389" align="aligncenter" width="360"]<a href="http://e1a5.com/wp-content/uploads/2014/12/uyuyorum.jpg"><img class="wp-image-1389" src="http://e1a5.com/wp-content/uploads/2014/12/uyuyorum.jpg" alt="Yataktan kaçmaya çalışırken uyuya kalmışım :)" width="360" height="480" /></a> Yataktan kaçmaya çalışırken uyuya kalmışım :)*
 
 Emeklemeye başladıktan sonra etrafa olan ilgim arttığından ve kendi başıma hareket edebildiğimden uykuya direnç göstermeye başladım. Önceleri yatağıma konulduğumda ve ışıklı-müzikli oyuncağım açıldığında izleyerek uykuya dalabiliyordum. Bu dönemin bitmesi yatağa bırakıldığımda ortalığı ayağa kaldırmam ile son buldu. Kendimi yatağımın içerisinde kaçışı olmayan bir yere bırakılmış gibi hissetmemem için yatağımın önündeki parmaklıklar çıkarıldı. Bunun beni yeterince tatmin ettiğini söyleyemem. Hala uyumaya direniyordum, yani uyumadan yatağıma bırakıldığımda bundan hoşlanmadığımı yüksek sesle ifade ediyordum. Bizimkiler kendi kendime yatağımda yatarak uyuyacağım dönemin ne zaman geleceğini merak ediyorlardı.
 
@@ -37,4 +37,4 @@ Yeni emme düzenimde akşam kendi kendime uyumam kolaylaştı ve gece uykularım
 
 Annemlerin şimdiki merakı "hadi, uyku saatin geldi, git yat" dediklerinde uyumaya gideceğim günün ne zaman geleceği!
 
-[caption id="attachment_1380" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/12/yapma_beeee.jpg"><img class="wp-image-1380 size-full" src="http://e1a5.com/wp-content/uploads/2014/12/yapma_beeee.jpg" alt="Yapma beeee!" width="640" height="427" /></a> Yapma beeee![/caption]
+![]/img/posts id="attachment_1380" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/12/yapma_beeee.jpg"><img class="wp-image-1380 size-full" src="http://e1a5.com/wp-content/uploads/2014/12/yapma_beeee.jpg" alt="Yapma beeee!" width="640" height="427" /></a> Yapma beeee!*

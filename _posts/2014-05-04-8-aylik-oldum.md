@@ -14,11 +14,11 @@ disqus_thread:
 ---
 Herkesin söylediği gibi bu ay daha bir tatlı oldum. Etrafımla daha fazla iletişim kurarak kendi kararlarımı vermeye başladım. Mesela, neyi istediğimi belli edebiliyorum ve istediğim bana verilene kadar avazım çıktığı kadar bağırabiliyorum.
 
-[caption id="attachment_898" align="aligncenter" width="720"]<a href="http://e1a5.com/wp-content/uploads/2014/05/ne_yesem.jpg"><img class="wp-image-898 size-large" src="http://e1a5.com/wp-content/uploads/2014/05/ne_yesem-1024x768.jpg" alt="Ne yesem acaba?" width="720" height="540" /></a> Ne yesem acaba?[/caption]
+![]/img/posts id="attachment_898" align="aligncenter" width="720"]<a href="http://e1a5.com/wp-content/uploads/2014/05/ne_yesem.jpg"><img class="wp-image-898 size-large" src="http://e1a5.com/wp-content/uploads/2014/05/ne_yesem-1024x768.jpg" alt="Ne yesem acaba?" width="720" height="540" /></a> Ne yesem acaba?*
 
 <a title="Herşeyin tadına bakıyorum – Ek gıdalara geçiş takvimi" href="http://e1a5.com/0-yas/herseyin-tadina-bakiyorum-ek-gidalara-gecis-takvimi/">Ek gıdalara geçiş</a> dönemimde olduğum için annemler sürekli bana yeni şeyler yedirmeye çalışıyor. Başıma gelecekleri bildiğimden kaşıklara temkinli yaklaşıyorum. Önce ağzımı kapatıyorum, bizimkiler bir iki dudaklarıma dokunduruyor, o sırada kaşıktan dudaklarıma bulaşan yiyeceğin tadını beğenirsem ağzımı açıyorum. Hoşuma giden şeylerde kaşıklar gelirken ağzımı açarak istediğimi belli edebiliyorum.
 
-[caption id="attachment_897" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/05/istemiyorum.jpg"><img class="wp-image-897 size-full" src="http://e1a5.com/wp-content/uploads/2014/05/istemiyorum.jpg" alt="İstemiyorum dedim yaaaa!" width="640" height="427" /></a> İstemiyorum dedim yaaaa![/caption]
+![]/img/posts id="attachment_897" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/05/istemiyorum.jpg"><img class="wp-image-897 size-full" src="http://e1a5.com/wp-content/uploads/2014/05/istemiyorum.jpg" alt="İstemiyorum dedim yaaaa!" width="640" height="427" /></a> İstemiyorum dedim yaaaa!*
 
 Bazı yiyecekleri görünce tanıyabiliyorum ve itiraz etmeden ağzımı açıyorum. Bunlar arasında en çok yoğurdu seviyorum. Annemler benim için <a title="Keçi ve inek sütünden yoğurt mayalama" href="http://e1a5.com/0-yas/keci-ve-inek-sutunden-yogurt-mayalama-2/">yoğurdu</a> günlük şişe sütlerden (keçi sütü) evde yapıyorlar.
 
@@ -34,4 +34,4 @@ Bugün babam <a title="Egzersiz programım" href="http://e1a5.com/0-yas/egzersiz
 
 Park ve salıncak gördüğümüzde kaçırmıyoruz. Desteksiz oturabildiğim için bizimkiler dikkatli biçimde beni salıncağa bindiriyorlar ve yavaş yavaş sallanıyorum. Bunu yaparken oldukça dikkatli oluyoruz. Koruma çubuğu olan ve yerden yüksek olmayan salıncakları tercih etsek de bizimkilerin eli her zaman üzerimde oluyor.
 
-[caption id="attachment_901" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/05/salincak_keyfi.jpg"><img class="wp-image-901 size-full" src="http://e1a5.com/wp-content/uploads/2014/05/salincak_keyfi.jpg" alt="Salıncak keyfim" width="640" height="480" /></a> Salıncak keyfim[/caption]
+![]/img/posts id="attachment_901" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/05/salincak_keyfi.jpg"><img class="wp-image-901 size-full" src="http://e1a5.com/wp-content/uploads/2014/05/salincak_keyfi.jpg" alt="Salıncak keyfim" width="640" height="480" /></a> Salıncak keyfim*

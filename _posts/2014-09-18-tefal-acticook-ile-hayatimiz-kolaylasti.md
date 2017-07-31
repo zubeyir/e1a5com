@@ -17,7 +17,7 @@ slide_template:
 disqus_thread:
   - "3836556958"
 ---
-[caption id="attachment_1209" align="alignleft" width="150"]<a href="http://e1a5.com/wp-content/uploads/2014/09/tefal_acticook1.jpg"><img class="wp-image-1209 size-thumbnail" src="http://e1a5.com/wp-content/uploads/2014/09/tefal_acticook1-150x150.jpg" alt="Tefal Acticook Düdüklü Tencere" width="150" height="150" /></a> Tefal Acticook[/caption]
+![]/img/posts id="attachment_1209" align="alignleft" width="150"]<a href="http://e1a5.com/wp-content/uploads/2014/09/tefal_acticook1.jpg"><img class="wp-image-1209 size-thumbnail" src="http://e1a5.com/wp-content/uploads/2014/09/tefal_acticook1-150x150.jpg" alt="Tefal Acticook Düdüklü Tencere" width="150" height="150" /></a> Tefal Acticook*
 
 Ben birkaç hafta önce 1 yaşını doldurduğumdan diyetimde de bazı değişiklikler oldu. Halen anne sütü almaya devam etsem de artık temel beslenme kaynaklarımı yediğim yemekler oluşturuyor. Annem de her gün bana taze yemek pişirmeye çalışıyor. Akşamları iş dönüşü ne yapsam nasıl yapsam diye düşünürken hayatımızı çok kolaylaştıran bir ürünle karşılaştık.
 

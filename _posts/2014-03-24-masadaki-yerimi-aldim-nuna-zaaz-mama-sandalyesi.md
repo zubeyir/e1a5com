@@ -19,7 +19,7 @@ disqus_thread:
 
 Bu dönemde mağazalardaki ürünleri inceledik ve sonuç olarak yine uzun süre kullanımdan yana karar kılarak annemin daha önce e-bebek’te gözüne takılıp beğendiği ve internetten incelediği Nuna Zaaz’ı denemeye karar verdik. Çamlıca e-bebek mağazasında deneme fırsatı bulduk. Ben içine oturdum, yukarı kaldırıp indirdiler, tepsisini takıp çıkardılar, emniyet kemerini bağladılar ve arabamın da Nuna olması ve markaya karşı var olan sempatimizin de sonucunda Nuna Zaaz’ı almaya karar verdik ve kullandıkça çok memnun kaldık.
 
-[caption id="attachment_770" align="aligncenter" width="612"]<a href="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz1.jpg"><img class="size-full wp-image-770 " alt="Gelsin yemekler" src="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz1.jpg" width="612" height="816" /></a> Gelsin yemekler[/caption]
+![]/img/posts id="attachment_770" align="aligncenter" width="612"]<a href="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz1.jpg"><img class="size-full wp-image-770 " alt="Gelsin yemekler" src="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz1.jpg" width="612" height="816" /></a> Gelsin yemekler*
 
 İşte beğenme nedenlerimiz:
 
@@ -32,4 +32,4 @@ Bu dönemde mağazalardaki ürünleri inceledik ve sonuç olarak yine uzun süre
 
 <p>Bahsettiğimiz bu nedenler sizin için de önemliyse Nuna Zaaz’ı tavsiye ederiz.
 
-[caption id="attachment_769" align="alignnone" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz.jpg"><img class="size-medium wp-image-769" alt="nuna zaaz, mama sandalyesi, " src="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz-300x162.jpg" width="300" height="162" /></a> nuna zaaz mama sandalyesi[/caption]
+![]/img/posts id="attachment_769" align="alignnone" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz.jpg"><img class="size-medium wp-image-769" alt="nuna zaaz, mama sandalyesi, " src="http://e1a5.com/wp-content/uploads/2014/03/nuna_zaaz-300x162.jpg" width="300" height="162" /></a> nuna zaaz mama sandalyesi*

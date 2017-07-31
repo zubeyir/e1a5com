@@ -1,14 +1,14 @@
 ---
-ID: 3335
-title: '1 aylık oldum – 1. ay kontrolü &#8211; Mert'
+title: "1. ay kontrolü - Mert"
 author: babam
 date: 2015-09-17 05:10:58
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/1-aylik-oldum-1-ay-kontrolu-mert/
+tag: kontrol
+section-type: post
 published: true
 ---
+
 Tek başıma büyümüyorum, abimle beraber büyüyoruz. İkimiz bir arada olunca kimseye zaman yetmiyor ve zamanın nasıl geçtiğini anlamıyor.
 
 Beni eve getirdiklerinde minicik bir şeydim. Abim ile aramızda iki yaş olduğundan bizimkiler hemen hemen herşeyi hatırlasalar da ilk gün beni kucaklarına aldıklarında yine kendilerini acemi gibi hissetiler. İkinci gün işler yoluna girdi.
@@ -17,7 +17,8 @@ Ben dört günlük olduğumda hastaneye kontrole gittik. Bu sırada topuğumdan 
 
 Doğumsal tarama testlerinin mutlaka yapılması ve sonuçlarına göre tedavinin en kısa zamanda başlanması doğumsal hastalığın etkilerini en aza indirmek hatta ortadan kaldırmak için yapılabilecek en önemli ve bazen tek yöntem!
 
-[caption id="attachment_3337" align="aligncenter" width="270"]<a href="http://e1a5.com/wp-content/uploads/2015/10/uykuda.jpg"><img class="size-medium wp-image-3337" src="http://e1a5.com/wp-content/uploads/2015/10/uykuda-270x360.jpg" alt="Uyurumda büyürüm" width="270" height="360" /></a> Uyurumda büyürüm[/caption]
+![Uyurumda büyürüm](/img/posts/uykuda.jpg)
+*Uyurumda büyürüm*
 
 Annemler sürekli abimin bu zamanlarda nasıl olduğunu, ne yaptığını hatırlamaya ve benimle karşılaştırmaya çalışıyorlar. Bu blogda yazdıkları yazılar, fotoğraflar ve videolar olmasa neredeyse imkânsız bir iş. Annem bizi standart doğuruyor. Abimle aynı kiloda doğdum; aramızda 20 gr, boylarımız arasında yarım santimetre ve doğduğumuz gebelik haftaları arasında 2 gün fark var. Abimden en önemli farkım, rengimin daha açık olması ve daha gürültücü bir bebek olmam. Acıktığımda daha fazla bağırıyorum, emdiğimde daha uzun ve gürültülü emiyorum ve homurdanıyorum.
 
@@ -31,8 +32,10 @@ Sadece anne sütü ile beslenmeye devam ediyorum. Henüz mama almadım. Yalnızc
 
 Bu bir ay içerisinde uzun bir yolculuk bile yaptım ve İstanbul’dan Keşan'a gittim. Artık arabanın arkasında iki bebek koltuğu var. Ben abimle annemin ortasında oturuyorum. Biz rahatımız yerinde, annem biraz sıkışıyor. Buna çözüm olarak benim koltuğumu sağ arkadan sol arkaya taşıdık, Mert yine ortada annem ise sağ arka koltukta oturuyor. Önündeki yolcu koltuğunu öne doğru çekince anneme rahat edecek, ayaklarını uzatacak epeyce yer açıldı.
 
-[caption id="attachment_3336" align="aligncenter" width="259"]<a href="http://e1a5.com/wp-content/uploads/2015/10/gunes_banyosu.jpg"><img class="size-medium wp-image-3336" src="http://e1a5.com/wp-content/uploads/2015/10/gunes_banyosu-259x360.jpg" alt="Güneşleniyorum" width="259" height="360" /></a> Güneşleniyorum[/caption]
+![Güneşleniyorum](/img/posts/gunes_banyosu.jpg)
+*Güneşleniyorum*
 
 Bu seyahatimiz abim için çok eğlenceli oldu. Günboyu bahçede toprakla yoğruldu, sularla kendini ıslattı ve bu yüzden günde 3 defa banyo yaptı. Ben de fırsat buldukça soyunup bezimle güneşlendim.
 
-[caption id="attachment_3338" align="aligncenter" width="360"]<a href="http://e1a5.com/wp-content/uploads/2015/10/abim_bahcede.jpg"><img src="http://e1a5.com/wp-content/uploads/2015/10/abim_bahcede-360x226.jpg" alt="Abim bahçede" width="360" height="226" class="size-medium wp-image-3338" /></a> Abim bahçede[/caption]
+![Abim bahçede](img/posts/abim_bahcede.jpg)
+*Abim bahçede*

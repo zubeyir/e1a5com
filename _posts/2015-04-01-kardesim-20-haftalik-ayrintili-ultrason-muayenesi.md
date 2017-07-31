@@ -1,18 +1,15 @@
 ---
-ID: 3236
-title: 'Kardeşim 20 haftalık oldu &#8211; ayrıntılı ultrason muayenesi'
+title: 'Kardeşim 20 haftalık oldu - Ayrıntılı ultrason muayenesi'
 author: babam
 date: 2015-04-01 20:02:46
-category:
+category: sıfır
 layout: post
-section-type: post >
-  http://e1a5.com/eksi-1-yas/kardesim-20-haftalik-ayrintili-ultrason-muayenesi/
+tag: kontrol
+section-type: post 
 published: true
-slide_template:
-  - default
-disqus_thread:
-  - "3874421644"
+disqus_thread: 3874421644
 ---
+
 Kardeşim bugün 20 haftalık.
 
 Bugün kardeşimin ayrıntılı ultrason muayenesi vardı. Bu muayene için <a href="http://muratyayla.com" target="_blank">Prof. Dr. Murat Yayla</a>'ya gittik. Benim ayrıntılı ultrason muayenemi de Murat amca yapmıştı ve bana koca kafalı olduğumu söylemişti. Bunu çok dert etmemiştik çünkü kafamın babama benzediğinde hemfikir olmuştuk :)
@@ -22,5 +19,3 @@ Ayrıntılı ultrason gebeliğin 15. ile 21. haftaları arasında yapılıyor. U
 Kardeşimin ölçümleri genel olarak iyi, gelişim haftası ile uyumlu görünüyor. Benim gibi önden gitmiyor. Annem de zaten bana hamileliğinde olduğu gibi iki kişilik yiyorum diyip herşeyi götürmüyor. Bu sefer şekere ve tatlılara dokunmadığı için şimdiye kadar fazla kilo almadı. Sonra vermesi de zor oluyormuş. Bu kadar kontrol bile onun için yeterli oldu.
 
 Kardeşim gelene kadar onun için isim düşünmeye devam. Bizimkiler sade isimleri seviyorlar. Şu anda fazla kafa yormasalar da ilk iki seçenek Ali ve Mert. Başka ne olabilir acaba?
-
-&nbsp;

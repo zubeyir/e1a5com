@@ -2,10 +2,10 @@
 title: İkimiz de büyüyoruz
 author: babam
 date: 2016-06-08 02:55:30
-category: arti3
+category: artı2
 tag: gelişim
 layout: post
-section-type: post http://e1a5.com/gelisimim/buyuyoruz/
+section-type: post
 published: true
 ---
 

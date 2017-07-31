@@ -1,16 +1,16 @@
 ---
-ID: 3256
 title: 18. ay kontrolüm
 author: babam
 date: 2015-03-23 22:49:16
-category:
+category: artı1
+tag: kontrol
 layout: post
-section-type: post http://e1a5.com/1-yas/18-ay-kontrolum/
+section-type: post
 published: true
-disqus_thread:
-  - "3874421246"
+disqus_thread: 3874421246
 ---
-Bugün annem ve dedemle kontrole gittim. Bu ayki kontrolüm için biraz geç kaldım, çünkü iki haftadır burnum akıyordu. Bu kontrolümde aşı yapılacağı için biraz beklememin daha iyi olacağını düşündük. Aslında büyük bir salgını oldukça ucuz atlattım. Babam bile evde 40 derece ateş ile iki gün yatmak zorunda kaldı.
+
+Bugün annem ve dedemle kontrole gittim. Bu ayki kontrolüm için biraz geç kaldım, çünkü iki haftadır burnum akıyordu. Bu kontrolümde aşı yapılacağı için biraz beklememin daha iyi olacağını düşündük. Aslında büyük bir salgını oldukça ucuz atlattım. Babam bile evde 40 °C derece ateş ile iki gün yatmak zorunda kaldı.
 
 Doktorum aşılarımı yaparken biraz ağladım ve "acıdı" dedim. Bu aralar bu kelimenin anlamını öğrendim ve çoğunlukla doğru yerlerde kullanmaya başladım.
 

@@ -1,20 +1,15 @@
 ---
-ID: 3234
-title: 'Tuvalet eğitimim başladı &#8211; ilk aşama'
+title: 'Tuvalet eğitimim başladı - ilk aşama'
 author: babam
 date: 2015-04-14 23:52:35
-category:
+category: artı1
 layout: post
-section-type: post >
-  http://e1a5.com/yazilar/tuvalet-egitimim-basladi-ilk-asama/
+tag: gelişim
+section-type: post 
 published: true
-slide_template:
-  - default
-disqus_thread:
-  - "3861419815"
-mfn-post-love:
-  - "0"
+disqus_thread: 3861419815
 ---
+
 Bezden kurtulmak bebeklikten çıkıp çocukluğa geçişimin en önemli kilometre taşlarından biri olacak.
 
 Büyük bişeyler yaparken suratımdan ne yaptığım zaten belli oluyor. İşimin gücümün arasında durup, sessizleşiyorum, gerekirse biraz kendimi sıkıyorum ve sonra kaldığım yerden işime devam ediyorum. Bir yaşından sonra çiş kelimesini öğrendim ve büyük birşeyler yaptıktan sonra "çiş" diyerek durumu haber veriyorum. Ben haber vermesem de kokusu çabuk çıkıyor :)

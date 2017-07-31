@@ -21,7 +21,7 @@ Annemle babam ilk defa ekmek yapmaya Almanya'da başladılar. İlk başta ekmeğ
 
 Aslında ekmek yapmak için birkaç püf nokta dışında çok az şeye ihtiyaç var. Uzun uzun ekmek yapmak bir zevk olduğu gibi günlük koşuşturmanın arasında hızla ekmeği hazırlayıp sabah kendi ekmeğinizle kahvaltı yapmak da büyük bir keyif. Hele ki bebeğinize kahvaltı hazırlamaya başladıysanız dışardan aldığınız katkılı ekmekler yerine içinde ne olduğunu bildiğiniz nefis ekmekler pişerebilirsiniz.
 
-[caption id="attachment_786" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/03/ekmek.jpg"><img class="wp-image-786 size-full" src="http://e1a5.com/wp-content/uploads/2014/03/ekmek.jpg" alt="Ekmeğe bayılıyorum" width="640" height="480" /></a> Ekmeğe bayılıyorum[/caption]
+![]/img/posts id="attachment_786" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/03/ekmek.jpg"><img class="wp-image-786 size-full" src="http://e1a5.com/wp-content/uploads/2014/03/ekmek.jpg" alt="Ekmeğe bayılıyorum" width="640" height="480" /></a> Ekmeğe bayılıyorum*
 
 Bu sefer son zamanlarda kullandığımız hızlı ve pratik ekmek tarifimizi yazmak istiyoruz. Ekmek yapmak için gerekli malzemeler:
 
