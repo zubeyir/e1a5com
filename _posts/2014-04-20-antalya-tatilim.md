@@ -1,5 +1,5 @@
 ---
-title: İlk baharım ve Antalya tatilim
+title: "İlk baharım ve Antalya tatilim"
 author: babam
 date: 2014-04-20 22:48:36
 category: sıfır
@@ -12,7 +12,7 @@ disqus_thread: 3830603841
 
 İlk defa ilkbahar yaşıyorum. Ağaçlar çiçek açıyor, her yer yeşilleniyor, kuşlar cıvıldıyor ve havalar ısınıyor. Bu güzel bahar ayında babamın işi nedeniyle seyahat etmesi gerekiyordu, biz de fırsatı kaçırmadık annemle ona katıldık. Zaten babam benden ayrı kalmamak için her türlü yola başvuruyor.
 
-[İlk uçak yolculuğumda]({{site.baseurl}} {& post_url 2014-04-15-ilk-ucak-yolculugum %}) anlattığım gibi yolculuğumuz <a title="Antalya Otelleri - Booking.com" href="http://www.booking.com/city/tr/antalya.html?aid=383020" target="_blank">Antalya</a>'yaydı. Annemlerin aldıkları tedbirler sayesinde benim için rahat bir uçak yolculuğu oldu. Seyahatlerde benim yemeklerimi pişirecek yer bulamadıklarından sebze öğününde hazır mama kullanıyorum. Buyüzden Antalya havaalanında eczaneye uğrayarak benim için birkaç kavanoz mama aldılar. Bu arada akıllarına daha sonraki yolculuklar için ufak evde hazırlanmış konserve mama yapma fikri geldi. Bunu deneyecekler.
+[İlk uçak yolculuğumda]({{ site.baseurl }} {% post_url 2014-04-15-ilk-ucak-yolculugum %}) anlattığım gibi yolculuğumuz <a title="Antalya Otelleri - Booking.com" href="http://www.booking.com/city/tr/antalya.html?aid=383020" target="_blank">Antalya</a>'yaydı. Annemlerin aldıkları tedbirler sayesinde benim için rahat bir uçak yolculuğu oldu. Seyahatlerde benim yemeklerimi pişirecek yer bulamadıklarından sebze öğününde hazır mama kullanıyorum. Buyüzden Antalya havaalanında eczaneye uğrayarak benim için birkaç kavanoz mama aldılar. Bu arada akıllarına daha sonraki yolculuklar için ufak evde hazırlanmış konserve mama yapma fikri geldi. Bunu deneyecekler.
 
 ![Kanat çırparak da uçabilirim :)](/img/posts/yatakta_ucmaya_devam.jpg)
 *Kanat çırparak da uçabilirim :)*
