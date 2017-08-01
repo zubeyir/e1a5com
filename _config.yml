@@ -62,7 +62,10 @@ delete-delay: 1000
 lines: # You can add HTML Tags in the Text
   - text: "ben güçlüyüm, almayacağım!"
   - text: "muaaaaaa, siisaaçç"
-  - text: "o zaman seni seveyim"
+  - text: "ister misin? o zaman seni seveyim"
+  - text: "peki benim param neye yetiyor"
+  - text: "sümük yaptııı!"
+  - text: "verer misin?"
 
 me-img: "/img/jetpacktocat.png"
 
