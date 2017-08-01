@@ -1,23 +1,19 @@
 ---
-ID: 1043
-title: 'Sevdiğim kahvaltılar &#8211; Mıhlama'
+title: 'Sevdiğim kahvaltılar - Mıhlama'
 author: annem
 date: 2014-07-08 08:28:26
-category:
+category: sıfır
+tag: yemek
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/sevdigim-kahvaltilar-mihlama/
+section-type: post 
 published: true
-mfn-post-love:
-  - "0"
-slide_template:
-  - default
-disqus_thread:
-  - "3844088782"
+disqus_thread: 3844088782
 ---
-![]/img/posts id="attachment_1045" align="alignleft" width="300"]<a href="http://e1a5.com/wp-content/uploads/2014/07/mıhlama.jpg"><img class="wp-image-1045 size-medium" src="http://e1a5.com/wp-content/uploads/2014/07/mıhlama-300x225.jpg" alt="mıhlama" width="300" height="225" /></a> mıhlama*
 
-Severek yediğim kahvaltılarımın birincisi "Mıhlama".  Ne de olsa biraz annemden biraz babamdan genlerimin üçte biri Karadenizli.
+![mıhlama](/img/posts/mihlama.jpg)
+*mıhlama*
+
+Severek yediğim kahvaltılarımın birincisi "Mıhlama". Ne de olsa biraz annemden biraz babamdan genlerimin üçte biri Karadenizli.
 
 Aslında mıhlamada yumurta yok ancak daha besleyici olması için biz yumurta da koyuyoruz. İşte malzemeleri ve tarifi:
 
@@ -31,7 +27,3 @@ Aslında mıhlamada yumurta yok ancak daha besleyici olması için biz yumurta d
 Yapılışı gayet basit. Önce tereyağ ile mısır ununu kavurun (yakmadan) ve üzerinde biraz su ekleyerek muhallebi kıvamına getirin. Ardından yumurta sarısını ekleyerek pişirin. Piştikten sonra içine peyniri ekleyip biraz daha karıştırıp peyniri eritin.
 
 Afiyet olsun.
-
-&nbsp;
-
-&nbsp;

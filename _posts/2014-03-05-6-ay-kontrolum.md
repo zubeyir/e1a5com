@@ -3,6 +3,7 @@ title: 6. ay kontrolüm
 author: babam
 date: 2014-03-05 00:35:59
 category: sıfır
+tag: kontrol
 layout: post
 section-type: post
 published: true

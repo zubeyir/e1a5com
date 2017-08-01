@@ -13,7 +13,7 @@ disqus_thread: 3900803343
 ![Aaaaaaaa!](/img/posts/aaaa.jpg)
 *Aaaaaaaa!*
 
-Bu ay kontrolüm için Dr. Mustafa amcaya gittik. Herşey yolunda gittiği sürece Mustafa amca bizi her ay çağırmıyor. Sormak istediğimiz birşey olduğunda arayıp sorabiliyoruz. Diğer aylarda ise ASM'de aşılarım ile gelişim takiplerimi yaptırıyoruz. Bu ay ASM'ye gitmediğimiz için arayıp gelişim durumumu sordular ve not ettiler. Beni yakından takip ediyorlar.
+Bu ay kontrolüm için Dr. Mustafa amcaya gittik. Herşey yolunda gittiği sürece Mustafa amca bizi her ay çağırmıyor. Sormak istediğimiz birşey olduğunda arayıp sorabiliyoruz. Diğer aylarda ise ASM'de aşılarım ile gelişim takiplerimi yaptırıyoruz. Bu ay ASM'ye gitmediğimiz için arayıp gelişim durumumu sordular ve not ettiler. Beni yakından takip ediyorlar.
 
 Sağlık Bakanlığı aşı programına göre bu ay yapılması gereken bir aşım yoktu. Doktorumun tavsiyesiyle, isteğe bağlı yapılan Rotavirüs aşısı yapıldı. Ağızdan yapılan bir aşı olduğu için kolay oldu. Genellikle bütün çocuklar 5 yaşına kadar rotavirüs ile infeksiyon geçiriyorlar. Bu virüs genellikle kış ve bahar aylarında ishal, ateş, bulantı, kusma ve sıklıkla karın ağrısına yol açan bir hastalık yapıyor. Bazı çocuklarda öksürük ve burun akıntısı da olabiliyor. İshal ve kusma su kaybına yol açtığından tehlikeli bir hastalık ve eğer su kaybı fazla ise kesinlikle doktorunuza başvurmalısınız. Hastalıktan korunmanın en iyi yolu ise aşı ve elleri yıkamak.
 

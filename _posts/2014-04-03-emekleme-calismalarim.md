@@ -1,21 +1,18 @@
 ---
-ID: 845
 title: Emekleme çalışmalarım
 author: babam
 date: 2014-04-03 16:48:55
-category:
+category: sıfır
+tag: ['gelişim','emekleme']
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/emekleme-calismalarim/
+section-type: post
 published: true
-mfn-post-love:
-  - "0"
-disqus_thread:
-  - "3830597630"
+disqus_thread: 3830597630
 ---
+
 Motor sistemimin gelişimi hızla devam ediyor. Ellerimle ince hareketler yapabiliyorum, istediğim nesnelere uzanıp bir kerede yakalayabiliyorum ve neredeyse tamamen desteksiz oturabiliyorum. Desteksiz oturabildiğim için etrafımdaki yastıkların sayısı azalıyor ve önümdeki oyuncakların sayısı artıyor. Sadece geriye devrilmek konusunda biraz sorun yaşıyorum. Bu yüzden arkamdaki yastıklar düşüşlerimi yumuşatmak için orada duruyor.
 
-Etrafıma merakım arttıkça hareket etme isteğim de giderek artıyor. Oturmaktan sıkılıyorum ve sık sık denemeler yapıyorum. Yüzüstü bırakıldığım zaman önceleri sadece başımı kaldırırken şimdi ellerime dayanarak iyice kendimi yukarı kaldırıyorum ve etrafıma bakınıyorum. Henüz ellerimi ve kollarımı kordine ederek ileri doğru gidemesem de karnımın üstünde döne döne ilerleyebiliyorum.
+Etrafıma merakım arttıkça hareket etme isteğim de giderek artıyor. Oturmaktan sıkılıyorum ve sık sık denemeler yapıyorum. Yüzüstü bırakıldığım zaman önceleri sadece başımı kaldırırken şimdi ellerime dayanarak iyice kendimi yukarı kaldırıyorum ve etrafıma bakınıyorum. Henüz ellerimi ve kollarımı kordine ederek ileri doğru gidemesem de karnımın üstünde döne döne ilerleyebiliyorum.
 
 <iframe src="//www.youtube.com/embed/PV-DH1S7FCE" height="480" width="640" allowfullscreen="" frameborder="0"></iframe>
 

@@ -26,7 +26,7 @@ Murat'ı soyundurduktan sonra filenin üzerine sırt üstü ve başı gövdesind
 
 Sırtını ve kafasını yıkarken filenin üzerinde bırakmayarak kucağımıza aldık.
 
-Baş kısmını yıkarken ağzına, burnuna ve kulaklarına su kaçmaması ve gözlerini şampuandan korumak için dikkatli davrandık. Bunun için önce yüzüne su gelmeyecek şekilde tepesinden su dökerek saçlarını ıslattık, sonra şampuanladık. Başı durularken yine tepesinden su dökerek yüzünü ıslatmamaya çalıştık. Başı yıkarken bebeğinizin başı elinize sığacağından elinizin baş ve serçe parmaklarını kulak deliklerinin üzerine dıştan yerleştirerek su kaçmasını önleyebilirsiniz. Bu sırdata ağzını ve burnunu elinizle kapatmamaya dikkat!
+Baş kısmını yıkarken ağzına, burnuna ve kulaklarına su kaçmaması ve gözlerini şampuandan korumak için dikkatli davrandık. Bunun için önce yüzüne su gelmeyecek şekilde tepesinden su dökerek saçlarını ıslattık, sonra şampuanladık. Başı durularken yine tepesinden su dökerek yüzünü ıslatmamaya çalıştık. Başı yıkarken bebeğinizin başı elinize sığacağından elinizin baş ve serçe parmaklarını kulak deliklerinin üzerine dıştan yerleştirerek su kaçmasını önleyebilirsiniz. Bu sırdata ağzını ve burnunu elinizle kapatmamaya dikkat!
 
 Oğlumuzun banyosunu tamamlayınca havlu ve üzerine serdiğimiz ince bir bezin üzerine yatırarak önce bezle kuruladık sonra bezi alıp havluya sararak kurulamaya devam ettik. Kuruladıktan sonra vücudunu yağladık ve bezini bağladık. Bu ana kadar pek sesi çıkmayan Murat, üstünü giydirmeye sıra gelince isyan etti ve meme aramaya başladı. Daha ilk katı giydirdiğimiz sırada yaygarayı basınca önce emmesini sağladık, emerken de giydirmeye devam ettik.
 

@@ -1,13 +1,14 @@
 ---
-ID: 746
 title: İlk yüzme dersim
 author: babam
 date: 2014-03-17 14:25:58
-category:
+category: sıfır
+tag: ['gezi','oyun']
 layout: post
-section-type: post http://e1a5.com/0-yas/ilk-yuzme-dersim/
+section-type: post 
 published: true
 ---
+
 Dün yaptığım hamam keyfinden sonra bu sabah da ben kalkınca erkenden havuza indik. O kadar erken inmiştik ki daha havuz açılmamıştı. Bu iyi oldu, çünkü havuz gece temizlenmiş ve ilk giren biz olacaktık.
 
 Babam beni kucağına alıp havuza indirdi. Havuz suyu ılıktı, rahatlıkla girdim. Babamın kucağında havuzda oynadım. Sonra sırt üstü yüzme çalışmaları yaptım. Babam sadece kafamı destekledi. Ben de vücudumu suya bırakarak su üzerinde kalmayı başardım. Başlangıçta bacaklarımı dümdüz tutuyor, kollarımı çırpıyordum. Sonra bacaklarımı kendime çekerek ağzıma götürmeye bile çalıştım.

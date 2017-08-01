@@ -12,7 +12,7 @@ disqus_thread: 3852779030
 
 Bu bayram benim için biraz hızlı geçti. Bayram tatilinde ilk şehirlerarası yolculuğuma çıktım. Bayramın 3. günü sabah hazırlanarak Abant'a gittik.
 
-Annem ve babam gece benimle uğraşmaktan valiz hazırlayamadılar. Sabah 7'de karnımı doyurmaları için bizimkileri uyandırdım. Beni doyurduktan sonra apar-topar eşyalarımı bir araya getirdiler. Kendilerine de bir kaç parça birşeyler aldılar. Bu ilk seyahatin malzeme listesini aşağıda bulabilirsiniz. Hepsi gerekli mi diye sormayın, ya lazım olursa diyerek ne varsa yanlarına aldılar. Kamp deneyimleri olduğu için 1 saatte kapının önündeydik.
+Annem ve babam gece benimle uğraşmaktan valiz hazırlayamadılar. Sabah 7'de karnımı doyurmaları için bizimkileri uyandırdım. Beni doyurduktan sonra apar-topar eşyalarımı bir araya getirdiler. Kendilerine de bir kaç parça birşeyler aldılar. Bu ilk seyahatin malzeme listesini aşağıda bulabilirsiniz. Hepsi gerekli mi diye sormayın, ya lazım olursa diyerek ne varsa yanlarına aldılar. Kamp deneyimleri olduğu için 1 saatte kapının önündeydik.
 
 Bugünlerde Jumbo abim evi otel olarak kullanıp sadece yemeğe ve uyumaya geldiğiden sabah yine ortalarda yoktu. Geceyi komşulardan birinde geçirmiş olmalı. Onu almadan yola çıktık.
 
@@ -29,7 +29,7 @@ Annem ve babam yola çıktıklarında kendilerinin birşey yememiş olduğunu fa
 
 Göl kenarındaki yürüyüş yolunun zemini bazı yerlerde yumuşak olduğundan arabam zaman zaman ilerlemekte zorlandı. Yürüyüş sırasında arabamı babam ve dedem ittiler. Annem ve dayım arkadan gelirken, Ömercan, Zeynep teyzem ve annanem fayton keyfi yaptılar.
 
-Soğuğa rağmen kıyafetlerim yeterli geldi. Babam, tek açıkta kalan yerim olan burnuma arasıra dokunarak üşüyüp üşümediğimi kontrol etti. Normalde dedemin 55 dakikada tamamladığı parkuru benim katılımım ile 75 dakikada tamamladıktan sonra bir kafede dinlendik. Annem karnımı doyurduktan sonra otelimize gittik.
+Soğuğa rağmen kıyafetlerim yeterli geldi. Babam, tek açıkta kalan yerim olan burnuma arasıra dokunarak üşüyüp üşümediğimi kontrol etti. Normalde dedemin 55 dakikada tamamladığı parkuru benim katılımım ile 75 dakikada tamamladıktan sonra bir kafede dinlendik. Annem karnımı doyurduktan sonra otelimize gittik.
 
 Yurdaer otelde kaldık. Oteli çok başarılı bulmasak da menülerindeki yemekler muhteşemdi. Yoldan geçerken uğrayıp yemeklerini tatmanızı tavsiye ederiz.
 

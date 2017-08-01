@@ -1,17 +1,17 @@
 ---
-ID: 851
 title: Egzersiz programım
 author: babam
 date: 2014-04-15 00:00:13
-category:
+category: sıfır
+tag: oyun
 layout: post
-section-type: post >
-  http://e1a5.com/0-yas/egzersiz-programim/
+section-type: post 
 published: true
-disqus_thread:
-  - "3830601065"
+disqus_thread: 3830601065
 ---
-![]/img/posts id="attachment_873" align="aligncenter" width="640"]<a href="http://e1a5.com/wp-content/uploads/2014/04/egzersiz.jpg"><img class="wp-image-873 size-full" src="http://e1a5.com/wp-content/uploads/2014/04/egzersiz.jpg" alt="Emeklemek için sıkı çalışıyorum" width="640" height="411" /></a> Emeklemek için sıkı çalışıyorum*
+
+![Emeklemek için sıkı çalışıyorum](/img/posts/egzersiz.jpg)
+*Emeklemek için sıkı çalışıyorum*
 
 Hareketlendikçe yeni yeni beceriler kazanıyorum, babam da benim için yeni egzersizler uyduruyor.
 
@@ -21,7 +21,7 @@ Neredeyse ilk aydan beri yaptığımız ve hergün tekrarladığımız ilk egzer
 
 Bu egzersizler aynı zamanda denge duyumun ve vücut koordinasyonumun gelişmesini sağlıyor.
 
-Üçüncü egzersizimiz "Yuvarlan". Bu hareket sırasında babam bacaklarını veya bir koltuk minderini rampa haline getiriyor ve beni aşağı yukarı yuvarlıyor. Bu sırada kollarımı uzatmam  gerekiyor. Ellerim ve kollarım dönüşüm sırasında araya girdiğinden yuvarlanmam zor oluyor. Bu hareketi arasıra deniyoruz.
+Üçüncü egzersizimiz "Yuvarlan". Bu hareket sırasında babam bacaklarını veya bir koltuk minderini rampa haline getiriyor ve beni aşağı yukarı yuvarlıyor. Bu sırada kollarımı uzatmam  gerekiyor. Ellerim ve kollarım dönüşüm sırasında araya girdiğinden yuvarlanmam zor oluyor. Bu hareketi arasıra deniyoruz.
 
 Dördüncü egzersizimiz "Zıp zıp kurbağa" ben yüzüstü yerde yatarken bizimkiler ayaklarımı destekliyor. Böylece bacaklarıma kuvvet vererek kendimi ileri doğru itiyorum. Bu emeklemek ve yürümek için bacak kaslarımı kuvvetlendiren bir hareket. Yüzüstü yatarken başımı kaldırmaya çalışmam boyun ve sırt kaslarımı da kuvvetlendiriyor.
 
@@ -34,5 +34,3 @@ Altıncı egzersimiz ise "Uçan Takla". Bu iş yine babamın başının altında
 Bunların bir kısmı kendi uydurduğumuz egzersiz ve oyunlar. Bazıları da çocukların nöromotor gelişimi ve güreşmeli oyunları (roughplay) hakkında okuduklarımızdan görerek uyarladığımız egzersizler.
 
 Evde denemeye kalkarsanız dikkatli olun, yumuşak ve çok yüksek olmayan bir zeminde çalışın.
-
-&nbsp;
