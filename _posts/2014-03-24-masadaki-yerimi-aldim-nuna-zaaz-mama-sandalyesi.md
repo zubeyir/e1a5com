@@ -18,9 +18,9 @@ Bu dönemde mağazalardaki ürünleri inceledik ve sonuç olarak yine uzun süre
 *Gelsin yemekler*
 
 İşte beğenme nedenlerimiz:
-- Nuna Zaaz çocukla birlikte büyüyebiliyor, boyu kısalıp uzuyor, tepsisi çıkartılıp masaya yaklaştırılabiliyor, çocuk büyüdükçe emniyet kemeri ve bacak arasındaki bölümü de çıkıp aşağı indirilerek bir sandalyeye dönüştürülebiliyor ve 50 kiloya kadar oturulabiliyor.
-- Temizlenmesi son derece kolay, ben bu aralar yemek yerken bunu hem kendi üstüme hem sandalyenin her yerine bulaştırıyorum. Islak bir bezle silmek yeterli oluyor, yemeğin gizlenebileceği fazla bir bölüm olmaması temizliğini kolaylaştırıyor. Sırf mama sandalyemi silmek için bir bez ayırdık ve onu kullanarak temizliği kolayca sağlıyoruz. Ayrıca gerektiğinde emniyet kemerleri de çıkartılıp yıkanabiliyor (bulaşık makinesinde yıkanıyormuş ancak biz henüz denemedik).
-- Gayet sağlam ve “solid” bir ürün öyle pek kolay devrilebilecek bir şey değil. Ancak kullanımda emniyet kemerimizi takıyoruz ve yine de yalnız bırakılmıyorum.
+1. Nuna Zaaz çocukla birlikte büyüyebiliyor, boyu kısalıp uzuyor, tepsisi çıkartılıp masaya yaklaştırılabiliyor, çocuk büyüdükçe emniyet kemeri ve bacak arasındaki bölümü de çıkıp aşağı indirilerek bir sandalyeye dönüştürülebiliyor ve 50 kiloya kadar oturulabiliyor.
+2. Temizlenmesi son derece kolay, ben bu aralar yemek yerken bunu hem kendi üstüme hem sandalyenin her yerine bulaştırıyorum. Islak bir bezle silmek yeterli oluyor, yemeğin gizlenebileceği fazla bir bölüm olmaması temizliğini kolaylaştırıyor. Sırf mama sandalyemi silmek için bir bez ayırdık ve onu kullanarak temizliği kolayca sağlıyoruz. Ayrıca gerektiğinde emniyet kemerleri de çıkartılıp yıkanabiliyor (bulaşık makinesinde yıkanıyormuş ancak biz henüz denemedik).
+3. Gayet sağlam ve “solid” bir ürün öyle pek kolay devrilebilecek bir şey değil. Ancak kullanımda emniyet kemerimizi takıyoruz ve yine de yalnız bırakılmıyorum.
 - Var olan renk seçenekleri içinden mobilyalarınıza en uygun olanını seçebiliyorsunuz.
 
 Bahsettiğimiz bu nedenler sizin için de önemliyse Nuna Zaaz’ı tavsiye ederiz.

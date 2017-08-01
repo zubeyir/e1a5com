@@ -31,7 +31,7 @@ Annem daha önce bebeği olan arkadaşlarından başlangıçta yapılan yanlış
 
 <strong>Süt saklama kapları: </strong>Yine Philips Avent’in Via saklama kaplarını kullanıyoruz. Annem sağdığı sütlerin üzerine tarih yazarak dondurucuda saklıyor ve bunları sırayla kullanıyoruz. Her kullanımdan önce bu kapları sterilize ediyoruz. Bir diğer seçenek tek kullanımlık süt saklama poşetlerinden kullanmak. Ancak biz kullanılıp atılan ürünleri olabildiğince az tercih ediyoruz.
 
-![Arzum Bebbe sterilizatör](/img/posts/lARZ-AR858_3-1024x593.jpg)
+![Arzum Bebbe sterilizatör](/img/posts/lARZ-AR858_3.jpg)
 *Arzum Bebbe sterilizatör*
 
 <strong>Sterilizatör: </strong>Biz gezmeyi sevdiğimizden gittiğimiz yerlere de götürürüz diye Arzum’un Bebbe’sini tercih ettik. İç içe geçerek küçültüldüğünden seyahatlarde rahat oluyor. Ancak aynı anda çok az ürünü sterilize edebildiğinizden annem evdeyken biraz sinir olmuyor değil. Dolayısıyla ev kullanımı için yeriniz varsa diğer markaların büyük sterilizatörlerinden birini de tercih edebilirsiniz. Biz aslında tüm markalarınkine baktık. Weewell almayı düşündük ancak çok büyük geldiğinden ve mutfağımız pek büyük olmadığından vazgeçtik. Avent’in mikrodalga fırın için olan modelinden alıp bir de mikrodalga almayı düşündük ancak ondan da yine mutfağımız küçük olduğundan ve mikrodalga fırının ne kadar sağlıklı olduğundan (genel anlamda) pek emin olamadığımızdan almadık. Siz kendi durumunuza göre bir tercih yaparsınız artık.
