@@ -12,7 +12,7 @@ disqus_thread: 3884301269
 
 Bu sefer yolculuk yurtdışına. Annem ve babam bilimsel çalışmalarını sunmak için Almanya'da kongrelere katıldılar ve tabiki beni de götürdüler. Evden uzakta yollarda ve otellerde bir hafta geçirdik.
 
-![*Havaalanına girerken gözlerim kaymaya başlamıştı](/img/posts/gozler_kaymaya_baslamis.jpg)
+![Havaalanına girerken gözlerim kaymaya başlamıştı](/img/posts/gozler_kaymaya_baslamis.jpg)
 *Havaalanına girerken gözlerim kaymaya başlamıştı*
 
 İlk uçuş tecrübemi ve uzun seyahatimi Antalya'ya giderken yaşamıştım ama bu seferki biraz daha uzun oldu. Uçuş hazırlıkları daha kapsamlı yapıldı. Bizimkiler bir hafta için ufak bir valize sığışırken ben kendi boyutuma göre epeyce bir yer kapladım. Uzun bir seyahatte yanımıza almamız gereken en önemli eşyaların biberon, yemek kapları (Philips Via), termos, kaşıklar, minik havlular ve mama önlüklerim olduğuna karar verdik.

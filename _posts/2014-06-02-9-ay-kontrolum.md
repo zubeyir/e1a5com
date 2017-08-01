@@ -1,5 +1,5 @@
 ---
-title: 9. ay kontrolüm
+title: "9. ay kontrolüm"
 author: babam
 date: 2014-06-02 23:48:57
 category: sıfır
