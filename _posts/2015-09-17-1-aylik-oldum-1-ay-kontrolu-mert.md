@@ -37,5 +37,5 @@ Bu bir ay içerisinde uzun bir yolculuk bile yaptım ve İstanbul’dan Keşan'a
 
 Bu seyahatimiz abim için çok eğlenceli oldu. Günboyu bahçede toprakla yoğruldu, sularla kendini ıslattı ve bu yüzden günde 3 defa banyo yaptı. Ben de fırsat buldukça soyunup bezimle güneşlendim.
 
-![Abim bahçede](img/posts/abim_bahcede.jpg)
+![Abim bahçede](/img/posts/abim_bahcede.jpg)
 *Abim bahçede*
