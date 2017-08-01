@@ -23,7 +23,7 @@ Seninle tanışmam ve beni ilk defa kucaklamanın üzerinden sekiz ay geçti.
 
 Heyecanlı, sevgi dolu ve sorumlu annem. İlk günlerimde sürekli beni düşünmekten ve endişelenmekten gözüne uyku bile girmedi.
 
-![Annemle](img/posts/annemle.jpg)
+![Annemle](/img/posts/annemle.jpg)
 *Annemle*
 
 Bana sarılmaya, beni koklamaya, beni öpmeye doyamayan annecim, senin dokunuşların, senin kokun, senin öpücüklerin bana huzur veriyor.
