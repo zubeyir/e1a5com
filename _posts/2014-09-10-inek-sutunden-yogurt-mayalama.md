@@ -5,7 +5,7 @@ date: 2014-09-10 16:36:27
 category: artı1
 tag: yemek
 layout: post
-section-type: post
+section-type: post 
 published: true
 disqus_thread: 3832348349
 ---
