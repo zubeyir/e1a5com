@@ -14,7 +14,7 @@ Yoğurt, günlük olarak tükettiğim temel gıdalardan biri. Her gün bir kase 
 
 Yoğurdu evde mayalamaya gayret ediyoruz, en azından benim yiyeceğimi. Yoğurt mayalamak için bir süre keçi sütü kullandık. Henüz inek sütü içmiyorum. Ancak 9. aydan itibaren herşeyi yemeye başladığımdan doktorumuzun da tavsiyesi ile organik veya güvendiğimiz markaların günlük inek sütleri ile mayaladığımız yoğurtlardan yiyorum.
 
-[Keçi ve inek sütünden yoğurt mayalama]({{ site.baseurl }} {% post_url 2014-04-11-keci-ve-inek-sutunden-yogurt-mayalama %}) konusunda annem daha önce bir yazı yazarak tecrübelerimizi paylaşmıştı. Aradan geçen zaman içerisinde yoğurt mayalama işini biraz daha ilerlettik. Halamdan öğrendiğimiz bir-iki püf nokta ile yoğurtlarımız daha kıvamlı oluyor.
+[Keçi ve inek sütünden yoğurt mayalama]({{site.baseurl}}{% post_url 2014-04-11-keci-ve-inek-sutunden-yogurt-mayalama %}) konusunda annem daha önce bir yazı yazarak tecrübelerimizi paylaşmıştı. Aradan geçen zaman içerisinde yoğurt mayalama işini biraz daha ilerlettik. Halamdan öğrendiğimiz bir-iki püf nokta ile yoğurtlarımız daha kıvamlı oluyor.
 
 Yoğurdu nasıl mayaladığımıza gelince, farklı iki markanın (sek ve sütaş) 1 lt günlük şişe sütlerinden birer tane alıp karıştırıyoruz. Bir tencereye boşalttığımız sütü kapağı açık şekilde kaynatarak bir miktar buharlaşmasına izin veriyoruz.
 
